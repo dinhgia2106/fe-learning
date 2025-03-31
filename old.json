@@ -1,0 +1,3366 @@
+{
+  "course_ID": [
+    {
+      "course_ID": "CPV301",
+      "quiz_sets": [
+        {
+          "quiz_set": "SU24_FE",
+          "questions": [
+            {
+              "id": 1,
+              "question": "What is the difference between Phong model of light sources and the reality?",
+              "options": {
+                "A": "Phong assumes infinite light sources, while in reality, shadows and inter-reflections occur",
+                "B": "Phong assumes diffuse light only, while in reality, discrete light sources create shadows",
+                "C": "Phong assumes continuous light sources, while in reality, inter-reflections are negligible",
+                "D": "Phong assumes direct light paths, while in reality, sources may be shadowed, and inter-reflections occur"
+              },
+              "answer": "Phong assumes direct light paths, while in reality, sources may be shadowed, and inter-reflections occur",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 2,
+              "question": "What are the two traditional methods suggested for modeling light effects based on surface characteristics?",
+              "options": {
+                "A": "Ray tracing for matte surfaces and radiosity for specular surfaces",
+                "B": "Ray tracing for mostly specular surfaces and radiosity for mostly matte surfaces",
+                "C": "Radiosity for both matte and specular surfaces",
+                "D": "Ray tracing for both matte and specular surfaces"
+              },
+              "answer": "Ray tracing for mostly specular surfaces and radiosity for mostly matte surfaces",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 3,
+              "question": "What is the transformation where the transformation matrix is as follows? T = [[2, 0, 1], [0, 2, 2], [0, 0, 1]]",
+              "options": {
+                "A": "Scale 2 and translate 1 along x axis, translate 2 along y axis",
+                "B": "Scale 2 and translate 2 along x axis, translate 1 along y axis",
+                "C": "Translate 2 along x axis, translate 1 along y axis",
+                "D": "Scale 2 and translate 2 along x axis, keep unchanged to y axis"
+              },
+              "answer": "Scale 2 and translate 1 along x axis, translate 2 along y axis",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 4,
+              "question": "What is image processing generally focused on achieving?",
+              "options": {
+                "A": "Generating textual information from images",
+                "B": "Extracting useful information and enhancing images",
+                "C": "Converting images into audio signals",
+                "D": "Creating three-dimensional representations of images"
+              },
+              "answer": "Extracting useful information and enhancing images",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 5,
+              "question": "Which approach is employed to spread the range of intensity to make full use of possible values?",
+              "options": {
+                "A": "Contrast stretching",
+                "B": "Gray world",
+                "C": "Ground truth",
+                "D": "Histogram equalization"
+              },
+              "answer": "Histogram equalization",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 6,
+              "question": "What is the primary purpose of the Fourier transform in signal processing and image analysis?",
+              "options": {
+                "A": "Frequency analysis",
+                "B": "Noise reduction",
+                "C": "Edge detection",
+                "D": "Color correction"
+              },
+              "answer": "Frequency analysis",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 7,
+              "question": "How does the sampling rate affect the representation of frequencies in the Fourier transform of a signal?",
+              "options": {
+                "A": "A higher sampling rate increases frequency accuracy.",
+                "B": "A lower sampling rate increases frequency accuracy.",
+                "C": "It has no effect on frequency representation.",
+                "D": "A higher sampling rate decreases frequency accuracy."
+              },
+              "answer": "A higher sampling rate increases frequency accuracy.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 8,
+              "question": "What is an advantage of utilizing a series of one-dimensional transforms over large, non-separable, two-dimensional filter kernels in image processing?",
+              "options": {
+                "A": "Improved color accuracy",
+                "B": "Enhanced detail preservation",
+                "C": "Increased computational efficiency",
+                "D": "Reduced memory requirements"
+              },
+              "answer": "Increased computational efficiency",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 9,
+              "question": "When preventing aliasing, what additional step may be required before applying a shearing transformation in image processing?",
+              "options": {
+                "A": "Downsampling in the both directions",
+                "B": "Applying a non-separable filter kernel",
+                "C": "Adjusting the color space transformation",
+                "D": "Upsampling in the opposite direction"
+              },
+              "answer": "Upsampling in the opposite direction",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 10,
+              "question": "What is true about the Elliptical Weighted Average (EWA) filter?",
+              "options": {
+                "A": "It relies on a single-pixel computation",
+                "B": "Affine mapping introduces a skewed two-dimensional coordinate system in the distance of each source pixel x",
+                "C": "Ellipsoidal projection of a small pixel grid in source pixel onto destination pixel is computed",
+                "D": "Gaussian filtering whose inverse covariance matrix is this ellipsoid is used"
+              },
+              "answer": "Gaussian filtering whose inverse covariance matrix is this ellipsoid is used",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 11,
+              "question": "What is the Nyquist frequency in the context of Fourier transform?",
+              "options": {
+                "A": "Half of the sampling frequency",
+                "B": "The highest frequency in the signal",
+                "C": "The frequency at which the signal becomes periodic",
+                "D": "The frequency corresponding to the imaginary part of the spectrum"
+              },
+              "answer": "Half of the sampling frequency",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 12,
+              "question": "Why is pre-filtering necessary to prevent aliasing in computer graphics?",
+              "options": {
+                "A": "To enhance image resolution",
+                "B": "To reduce the computational cost",
+                "C": "To minimize distortion during texture mapping",
+                "D": "To maintain a consistent resampling rate"
+              },
+              "answer": "To minimize distortion during texture mapping",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 13,
+              "question": "What does the \"consensus\" in RANSAC refer to?",
+              "options": {
+                "A": "The majority of inliers in the data set",
+                "B": "The average value of the data points",
+                "C": "The deviation of the model from the data",
+                "D": "The total number of iterations performed"
+              },
+              "answer": "The majority of inliers in the data set",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 14,
+              "question": "In the Harris Corner Detector, what property of corners is exploited for detection?",
+              "options": {
+                "A": "High gradient magnitude",
+                "B": "High pixel intensity",
+                "C": "Low gradient magnitude",
+                "D": "Low pixel intensity"
+              },
+              "answer": "High gradient magnitude",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 15,
+              "question": "Which type of following spaces does the Hough Transform often use for representing lines in parameter space?",
+              "options": {
+                "A": "Polar space",
+                "B": "Cartesian space",
+                "C": "Transform space",
+                "D": "Gradient space"
+              },
+              "answer": "Polar space",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 16,
+              "question": "How is the orientation of the gradient computed? (I: intensity at pixels, x: x coordinate of pixel, y: y coordinate of pixel)",
+              "options": {
+                "A": "I",
+                "B": "II",
+                "C": "III",
+                "D": "IV"
+              },
+              "answer": "II",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 17,
+              "question": "Which of the following operators utilizes Laplacian of Gaussian?",
+              "options": {
+                "A": "Prewitt operator",
+                "B": "Canny operator",
+                "C": "Sobel (3x3)",
+                "D": "Sobel (5x5)"
+              },
+              "answer": "Canny operator",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 18,
+              "question": "How does SIFT handle rotations for keypoint matching?",
+              "options": {
+                "A": "By aligning keypoints based on dominant orientation",
+                "B": "By rotating the entire image to a standard orientation",
+                "C": "By using a fixed orientation for all keypoints",
+                "D": "By discarding keypoints with varying orientations"
+              },
+              "answer": "By aligning keypoints based on dominant orientation",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 19,
+              "question": "What is true about image segmentation?",
+              "options": {
+                "A": "An image is broken into many regions using the characteristics of pixels to identify objects.",
+                "B": "The representation of an image is changed into something containing more complex information to analyze",
+                "C": "Color is assigned to every pixel of an image",
+                "D": "Not at all"
+              },
+              "answer": "An image is broken into many regions using the characteristics of pixels to identify objects.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 20,
+              "question": "What should we do if the goal is to detect dark lines against a light background using the basic masks in convolution based technique?",
+              "options": {
+                "A": "Apply gradient-based edge detection",
+                "B": "Negate the mask values",
+                "C": "Adjust the convolution kernel size",
+                "D": "Increase the image resolution"
+              },
+              "answer": "Negate the mask values",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 21,
+              "question": "What are the factors influencing the evolution of digital image processing? (2 options)",
+              "options": {
+                "A": "Computer development",
+                "B": "Mathematical progress",
+                "C": "Social media trends",
+                "D": "Narrow range of a specific application"
+              },
+              "answer": "Computer development and Mathematical progress",
+              "answer_number": ["A", "B"]
+            },
+            {
+              "id": 22,
+              "question": "Which of the following methods identifies edges in an image by zero-crossing technique?",
+              "options": {
+                "A": "First derivative",
+                "B": "Second derivative",
+                "C": "Prewitt operator",
+                "D": "Robert operator"
+              },
+              "answer": "Second derivative",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 23,
+              "question": "When dealing with image classification, what kind of challenges do we face with images?",
+              "options": {
+                "A": "Variations due to scaling",
+                "B": "Variations due to illumination",
+                "C": "Image occlusion",
+                "D": "All the above"
+              },
+              "answer": "All the above",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 24,
+              "question": "In K mean segmentation, what does \"K\" represent?",
+              "options": {
+                "A": "Number of clusters",
+                "B": "Number of nearest neighbors",
+                "C": "The kernel size of each cluster",
+                "D": "Kernels in an image"
+              },
+              "answer": "Number of clusters",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 25,
+              "question": "How many colour channels does a Greyscale image have?",
+              "options": {
+                "A": "1",
+                "B": "2",
+                "C": "3",
+                "D": "4"
+              },
+              "answer": "1",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 26,
+              "question": "What is the purpose of the internal energy term in the Snake Model?",
+              "options": {
+                "A": "To penalize large deformations of the contour",
+                "B": "To attract the contour towards object boundaries",
+                "C": "To perform non-maximum suppression",
+                "D": "To adjust the intensity of edge pixels"
+              },
+              "answer": "To penalize large deformations of the contour",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 27,
+              "question": "How many steps are there in the task of face recognition?",
+              "options": {
+                "A": "1",
+                "B": "4",
+                "C": "2",
+                "D": "3"
+              },
+              "answer": "4",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 28,
+              "question": "What is parallax in the context of imaging?",
+              "options": {
+                "A": "Shift in the position of objects with a change in viewpoint",
+                "B": "Image distortion due to lens imperfections",
+                "C": "Chromatic aberration in images",
+                "D": "The blurring effect caused by motion during image capture"
+              },
+              "answer": "Shift in the position of objects with a change in viewpoint",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 29,
+              "question": "Which type of information does Optical Flow NOT provide?",
+              "options": {
+                "A": "Acceleration of objects",
+                "B": "Velocity of pixel motion",
+                "C": "Direction of pixel motion",
+                "D": "Location of keypoints"
+              },
+              "answer": "Acceleration of objects",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 30,
+              "question": "Which of the following is an application of computer vision?",
+              "options": {
+                "A": "Security",
+                "B": "Robotics",
+                "C": "Medicine",
+                "D": "All of the above"
+              },
+              "answer": "All of the above",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 31,
+              "question": "What is not true about image stitching?",
+              "options": {
+                "A": "It is the process of combining multiple photographic images with overlapping fields of view",
+                "B": "It is used in forensic and investigate science for the reconstruction of torn paper",
+                "C": "It is used to complete mapping of a particular place",
+                "D": "It maps two pixels that have similar intensity from two adjacent images"
+              },
+              "answer": "It is used in forensic and investigate science for the reconstruction of torn paper",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 32,
+              "question": "The lower limit of the dynamic range ratio can be determined by____",
+              "options": {
+                "A": "Contrast",
+                "B": "Saturation",
+                "C": "Noise",
+                "D": "Brightness"
+              },
+              "answer": "Noise",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 33,
+              "question": "____is the process of combining multiple photographic images with overlapping fields of view to produce a segmented panorama or high-resolution image.",
+              "options": {
+                "A": "Image preprocessing",
+                "B": "Image subtraction",
+                "C": "Image stitching",
+                "D": "Image acquisition"
+              },
+              "answer": "Image stitching",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 34,
+              "question": "What is not true object detection?",
+              "options": {
+                "A": "It is the task of detecting instances of objects of a certain class within an image",
+                "B": "It allows to identify and locate objects in a video",
+                "C": "It recognizes with a contour in the image",
+                "D": "It detects instances of semantic objects of a certain class"
+              },
+              "answer": "It recognizes with a contour in the image",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 35,
+              "question": "____is a parameter estimation approach designed to cope with a large proportion of outliers in the input data.",
+              "options": {
+                "A": "RANSAC",
+                "B": "Mean shift",
+                "C": "K-mean",
+                "D": "Canny edge detection"
+              },
+              "answer": "RANSAC",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 36,
+              "question": "Which of the following disadvantages of Snake model?",
+              "options": {
+                "A": "Sensitive to local minima states",
+                "B": "Not works perfectly even for binary images",
+                "C": "dependent",
+                "D": "All of the above"
+              },
+              "answer": "All of the above",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 37,
+              "question": "Cylindrical is used if the camera is level and we have only rotation around its vertical axis.",
+              "options": {
+                "A": "True",
+                "B": "False"
+              },
+              "answer": "True",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 38,
+              "question": "How is the required minimum number of trials calculated in RANSAC algorithm, given P, the probability of success after S trials, p, the probability of inliers and k, the number of random samples inliers?",
+              "options": {
+                "A": "log(1-P)+log(1-p^k)",
+                "B": "log(1-P)*log(1-p^k)",
+                "C": "log(1-P)/log(1-p^k)",
+                "D": "log(1-P)-(1-p^k)"
+              },
+              "answer": "log(1-P)/log(1-p^k)",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 39,
+              "question": "What does RANSAC stand for in the context of computer vision?",
+              "options": {
+                "A": "Random Sample Consensus",
+                "B": "Random Assignment for Numerical Stability in Alignment and Classification",
+                "C": "Robust Analysis for Noisy and Scattered Alignment of Components",
+                "D": "Recursive Alignment and Sampling for Numerical Convergence"
+              },
+              "answer": "Random Sample Consensus",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 40,
+              "question": "What is the key idea behind the RANSAC algorithm for 2D alignment?",
+              "options": {
+                "A": "Iteratively estimating a model from a subset of inliers",
+                "B": "Minimizing the sum of squared differences",
+                "C": "Maximizing mutual information between images",
+                "D": "Employing kernel density estimation for feature matching"
+              },
+              "answer": "Iteratively estimating a model from a subset of inliers",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 41,
+              "question": "The dynamic range of the imaging system is a quantitative relation where the upper limit can be determined by____",
+              "options": {
+                "A": "Saturation",
+                "B": "Contrast",
+                "C": "Noise",
+                "D": "Brightness"
+              },
+              "answer": "Saturation",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 42,
+              "question": "What system does the digital camera use to perform the digitization of images?",
+              "options": {
+                "A": "Sensor system",
+                "B": "Number system",
+                "C": "Logic system",
+                "D": "Optical system"
+              },
+              "answer": "Sensor system",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 43,
+              "question": "Which of the following methods of traditional detection?",
+              "options": {
+                "A": "YOLO",
+                "B": "RCNN",
+                "C": "Hog detector",
+                "D": "Retina Net"
+              },
+              "answer": "Hog detector",
+              "answer_number": ["C"]
+            }
+          ]
+        },
+        {
+          "quiz_set": "SP24_FE",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Which of the following is not an Image filters used in OpenCV?",
+              "options": {
+                "A": "Box Filter",
+                "B": "Bilateral Filter",
+                "C": "Blue Blur",
+                "D": "Build Pyramid"
+              },
+              "answer": "Blue Blur",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 2,
+              "question": "What is the range of the spectrum that humans can see as colors?",
+              "options": {
+                "A": "200nm-500nm",
+                "B": "300nm-600nm",
+                "C": "400nm-700nm",
+                "D": "500nm-900nm"
+              },
+              "answer": "400nm-700nm",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 3,
+              "question": "What is meant by image segmentation in image processing?",
+              "options": {
+                "A": "Image segmentation is the division of an image into regions or categories, which correspond to different objects or parts of objects.",
+                "B": "Image segmentation is a method in which a digital image is broken down into various subgroups based their color or position",
+                "C": "All of the others",
+                "D": "None of the others"
+              },
+              "answer": "Image segmentation is the division of an image into regions or categories, which correspond to different objects or parts of objects.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 4,
+              "question": "Choose the best answer about digital image",
+              "options": {
+                "A": "The digital image is a two-dimensional array of color",
+                "B": "The digital image is a matrix of pixels.",
+                "C": "The digital images are composed of a combination of colors.",
+                "D": "The digital images are created from digital cameras through a mechanical system."
+              },
+              "answer": "The digital image is a matrix of pixels.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 5,
+              "question": "Choose the best answer about chromatic aberration:",
+              "options": {
+                "A": "Chromatic aberration is a failure of a lens to focus all colors to the same point.",
+                "B": "Chromatic aberration the index of refraction of glass varies slightly as a function frequency.",
+                "C": "Chromatic aberration is different wavelengths focus at slightly same distances.",
+                "D": "All of the others"
+              },
+              "answer": "Chromatic aberration is a failure of a lens to focus all colors to the same point.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 6,
+              "question": "In Fourier transform, what is the abbreviation for DFT?",
+              "options": {
+                "A": "Fast Fourier Transform",
+                "B": "Distribute Fourier Transform",
+                "C": "Discrete Fourier Transform",
+                "D": "Discontinuous Fourier Transform"
+              },
+              "answer": "Discrete Fourier Transform",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 7,
+              "question": "What are the fields related to computer vision?",
+              "options": {
+                "A": "Auto caption cessing, graphics algorithms, Cognitive sciences.",
+                "B": "Robotics, Neurobiology, Information retrieval",
+                "C": "All of the others",
+                "D": "Not of others"
+              },
+              "answer": "All of the others",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 8,
+              "question": "Choose the best description of the Fourier Transform",
+              "options": {
+                "A": "Fourier transform is a mathematical function which transforms a signal from the frequency domain to the time domain.",
+                "B": "The Fourier Transform is an important image processing tool which is used to decompose an image into its sine and cosine components",
+                "C": "In the Fourier domain image, each point represents a particular spatial contained in the frequency domain image.",
+                "D": "All the others"
+              },
+              "answer": "All the others",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 9,
+              "question": "What is computer vision?",
+              "options": {
+                "A": "Computer Vision is a field of computer science that enables the computer to understand just like a human.",
+                "B": "Computer Vision is the analysis and manipulation of a digitized image, especially in order to improve its quality.",
+                "C": "Computer Vision is the study of computers and computational systems like electrical and computer engineers.",
+                "D": "Computer Vision is a task defined as the technical analysis of an image by using complex algorithms."
+              },
+              "answer": "Computer Vision is a field of computer science that enables the computer to understand just like a human.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 10,
+              "question": "What are the differences between correlation and convolution?",
+              "options": {
+                "A": "Convolution is measurement of total noise of one image on the other image.",
+                "B": "The mathematical calculation of Correlation is difference as convolution in time domain",
+                "C": "If the filter is asymmetrical then the output of both the expression would be same",
+                "D": "Correlation is measurement of the similarity between two image."
+              },
+              "answer": "Correlation is measurement of the similarity between two image.",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 11,
+              "question": "Choose the best answer about Photometry:",
+              "options": {
+                "A": "Photometry is proportional to the amount of light directed by the surface patch which projects onto the computer.",
+                "B": "Photometry is the science of the measurement of light, in terms of its perceived brightness to the human eye.",
+                "C": "Photometry is the phenomenon of light being absorbed when it reaches the surface of the matter.",
+                "D": "All of the others"
+              },
+              "answer": "Photometry is the science of the measurement of light, in terms of its perceived brightness to the human eye.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 12,
+              "question": "Which of the following studies various techniques to classify patterns?",
+              "options": {
+                "A": "Image Processing",
+                "B": "Photogrammetry",
+                "C": "Image Recognition",
+                "D": "Pattern Recognition"
+              },
+              "answer": "Pattern Recognition",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 13,
+              "question": "In K-means for Segmentation, what is the meaning of K value?",
+              "options": {
+                "A": "It represents the number of clusters.",
+                "B": "It represents the number of images.",
+                "C": "It represents the step of clusters.",
+                "D": "It represents the color groups."
+              },
+              "answer": "It represents the number of clusters.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 14,
+              "question": "The ____ is based on the observation that the affine mapping x' = Ax' defines a skewed two-dimensional coordinate system in the vicinity of each source pixel x. Choose the best answer",
+              "options": {
+                "A": "MIP Mapping filter",
+                "B": "Gaussian White filter",
+                "C": "Elliptical Weighted Average (EWA) filter",
+                "D": "Multi pass filter"
+              },
+              "answer": "Elliptical Weighted Average (EWA) filter",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 15,
+              "question": "____ is performed fully automated image stitching is a technique to recognize which images actually go together. What is the exact name of this process?",
+              "options": {
+                "A": "Panoramas creating",
+                "B": "Recognizing panoramas",
+                "C": "Parallax removal",
+                "D": "Bundle Adjustment"
+              },
+              "answer": "Recognizing panoramas",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 16,
+              "question": "Object recognition consists of ____ objects within a picture with a given degree of confidence. Choose the best correct answer",
+              "options": {
+                "A": "Detection, identifying, and locating",
+                "B": "Identifying, and locating",
+                "C": "Detection and locating",
+                "D": "Recognizing, identifying, and locating"
+              },
+              "answer": "Detection, identifying, and locating",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 17,
+              "question": "In image processing, what is the next step after feature detection?",
+              "options": {
+                "A": "Preprocessing",
+                "B": "Feature description",
+                "C": "Feature combination",
+                "D": "Noise remove( filters)"
+              },
+              "answer": "Feature description",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 18,
+              "question": "What is the Difference Between Cylindrical and Spherical Panoramas?",
+              "options": {
+                "A": "By using spherical panoramas you can effortlessly capture any area in all directions",
+                "B": "Cylindrical panoramas cover an entire 360 degree, except for the up and down view.",
+                "C": "Spherical panoramas on the other hand not only capture the 360-degree view but also take into account the horizontal and vertical view.",
+                "D": "Cylindrical panoramas are the best of the lot, as they can be taken without the tripod being seen or the photographer's shadow."
+              },
+              "answer": "Spherical panoramas on the other hand not only capture the 360-degree view but also take into account the horizontal and vertical view.",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 19,
+              "question": "Why use the image feature for processing, rather than using the whole image",
+              "options": {
+                "A": "In the photo, we are only interested in the color, as well as the size of the photo.",
+                "B": "Use features to be able to apply more advanced techniques later like deep learning.",
+                "C": "It reduces the number of resources required to describe a large set of data",
+                "D": "All of the others"
+              },
+              "answer": "It reduces the number of resources required to describe a large set of data",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 20,
+              "question": "Choose the best answer about 2D Lines",
+              "options": {
+                "A": "A line is a straight one-dimensional figure having no thickness and extending infinitely in both directions.",
+                "B": "Lines are an idealization of such objects, which are often described in terms of two points",
+                "C": "Line in the plane is often defined as the set of points whose coordinates satisfy a given linear equation.",
+                "D": "All of others"
+              },
+              "answer": "All of others",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 21,
+              "question": "It is usually performed by locating the moving object, which is represented by an embryonic object region, from one frame to the next: multi-view based, template-based. It refers to the object's shape and appearance. What is the exact name of this approach for object tracking? Choose the best correct answer",
+              "options": {
+                "A": "Kernel Tracking",
+                "B": "Point tracking",
+                "C": "Contour tracking",
+                "D": "Features tracking"
+              },
+              "answer": "Contour tracking",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 22,
+              "question": "Active contour is described as an active model for the process of segmentation. Which of the following algorithms is used in active contour? Choose the best answer",
+              "options": {
+                "A": "Snakes model",
+                "B": "Scissors model",
+                "C": "Sets model",
+                "D": "All of the others"
+              },
+              "answer": "Snakes model",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 23,
+              "question": "What is translation transformation?",
+              "options": {
+                "A": "We rotate the object at a particular angle θ (theta) from its origin",
+                "B": "It moves an object to a different position on the screen.",
+                "C": "It changes the size of an object.",
+                "D": "It is scaling, skewing, and rotation."
+              },
+              "answer": "It moves an object to a different position on the screen.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 24,
+              "question": "____ is a method of enhancing the image quality of textures on surfaces of computer graphics that are at oblique viewing angles with respect to the camera where the projection of the texture. Choose the best answer",
+              "options": {
+                "A": "MIP Mapping filter",
+                "B": "Elliptical Weighted Average (EWA) filter",
+                "C": "Anisotropic filtering",
+                "D": "Gaussian White filter"
+              },
+              "answer": "Anisotropic filtering",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 25,
+              "question": "What is image filter? Choose the best answer",
+              "options": {
+                "A": "Filtering is a technique for modifying or enhancing an image.",
+                "B": "Filters are just systems that form a new, and preferably enhanced, image from a combination of the original image's pixel values.",
+                "C": "Filtering is a neighborhood operation, in which the value of any given pixel in the output image is determined by applying some algorithm to the values of the pixels in the neighborhood of the corresponding input pixel.",
+                "D": "All of the others"
+              },
+              "answer": "All of the others",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 26,
+              "question": "Algorithms used for face detection based on what set features to recognize faces? Choose the best correct answer",
+              "options": {
+                "A": "Eyes, eyebrows, nose, hair, jaw",
+                "B": "Eyes, eyebrows, nose, neck, mouth",
+                "C": "Eyes, eyebrows, nose, mouth, jaw",
+                "D": "Eyes, eyebrows, jaw, neck, ear"
+              },
+              "answer": "Eyes, eyebrows, nose, mouth, jaw",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 27,
+              "question": "Choose the best description of the convolution- Kernel",
+              "options": {
+                "A": "It is an array-representative for transforming images from different spatial domains.",
+                "B": "It is the process of adding each element of the image to its local neighbors, weighted by the intensity value.",
+                "C": "It is a small matrix used to clarify certain features.",
+                "D": "It is used in all filters to increase the brightness of the image."
+              },
+              "answer": "It is a small matrix used to clarify certain features.",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 28,
+              "question": "Choose the best description of the contrast stretching",
+              "options": {
+                "A": "It is used as a filter, removing noise like salt and pepper",
+                "B": "It is also known as Invert-Normalization",
+                "C": "It improves an image by stretching the range of intensity values it contains.",
+                "D": "It is a way of representing histogram in terms of light balance implementation"
+              },
+              "answer": "It improves an image by stretching the range of intensity values it contains.",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 29,
+              "question": "Which of the following is an application of Computer Vision?",
+              "options": {
+                "A": "ZISCA-CAP",
+                "B": "Medicine",
+                "C": "Security",
+                "D": "All of the others"
+              },
+              "answer": "All of the others",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 30,
+              "question": "____ is the process of dividing an image into different regions based on the characteristics of pixels to identify objects or boundaries to simplify an image and more efficiently analyze it. Choose the best correct answer",
+              "options": {
+                "A": "Image segmentation",
+                "B": "Image analysis",
+                "C": "Object detection",
+                "D": "Object recognition"
+              },
+              "answer": "Image segmentation",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 31,
+              "question": "The ____ treats the image it operates upon like a topographic map, with the brightness of each point representing its height, and finds the lines that run along the tops of ridges. Choose the best correct answer",
+              "options": {
+                "A": "Image transformation",
+                "B": "Heuristic transformation",
+                "C": "Hybrid transformation",
+                "D": "Watershed transformation"
+              },
+              "answer": "Watershed transformation",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 32,
+              "question": "Choose the best description about global alignment in image stitching",
+              "options": {
+                "A": "Global alignment requires the non-linear minimization of an error term, which is defined from point correspondences.",
+                "B": "Global alignment is still needed to obtain a globally coherent mosaic.",
+                "C": "The goal of global alignment is then to find a globally consistent set of alignment parameters that minimize the misregistration between all pairs of images.",
+                "D": "All of the others"
+              },
+              "answer": "All of the others",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 33,
+              "question": "Edge detection is a technique widely used in image processing, as well as computer vision. It reduces the amount of data in an image and preserves the structural properties of an image. So what do you understand about Edge Detection?",
+              "options": {
+                "A": "Edge Detection is a method of segmenting an image into regions of continuity.",
+                "B": "Edge detection allows users to observe the features of an image for a significant change in the gray level.",
+                "C": "Edge detection can be defined as a set of connected pixels that forms a boundary between two disjoint regions",
+                "D": "All of the others"
+              },
+              "answer": "All of the others",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 34,
+              "question": "It is an approach that identifies, for every pixel, a belonging instance of the object. It detects each distinct object of interest in the image. What is the exact name of this process?",
+              "options": {
+                "A": "Semantic detection",
+                "B": "Instance segmentation",
+                "C": "Instance detection",
+                "D": "Semantic segmentation"
+              },
+              "answer": "Instance segmentation",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 35,
+              "question": "Choose the best description of the line detection using the convolution based technique",
+              "options": {
+                "A": "A convolution-based technique that produces an image description of the thin lines in an input image",
+                "B": "These kernel masks are tuned for dark lines against a grey background",
+                "C": "A convolution-based technique is the foundation of deep learning models.",
+                "D": "All of the others"
+              },
+              "answer": "A convolution-based technique that produces an image description of the thin lines in an input image",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 36,
+              "question": "It is a technique for efficiently finding peaks in this high-dimensional data distribution without ever computing the complete function explicitly. What is the exact name of this technique in image segmentation?",
+              "options": {
+                "A": "Mean shift model",
+                "B": "K-mean clustering model",
+                "C": "Gaussian Mixture Models",
+                "D": "K- nearest model"
+              },
+              "answer": "Mean shift model",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 37,
+              "question": "Choose the best description of the Prewitt operator for edge detection",
+              "options": {
+                "A": "It detects the overlap edges of an image.",
+                "B": "It is one of the best ways to detect the color intensity and magnitude of an image",
+                "C": "It is a good performance on detecting vertical and horizontal edges",
+                "D": "It is never a good choice to detect the orientation of an image."
+              },
+              "answer": "It is a good performance on detecting vertical and horizontal edges",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 38,
+              "question": "Choose the best description of the Fourier Transform",
+              "options": {
+                "A": "The Fourier Transform is a device that breaks a waveform into an alternate representation, characterized by sine and cosines.",
+                "B": "The Fourier Transform shows that any waveform can be re-written as the sum of sinusoidal functions.",
+                "C": "The Fourier Transform gives us a unique and powerful map of viewing these waveforms.",
+                "D": "All of the others"
+              },
+              "answer": "All of the others",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 39,
+              "question": "What is the use of the geometric transformations in real life?",
+              "options": {
+                "A": "Align multiple images that were clicked at different times.",
+                "B": "Correct images for avoiding lens distortion.",
+                "C": "Images according to camera orientation.",
+                "D": "All of the others"
+              },
+              "answer": "All of the others",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 40,
+              "question": "How are pixel transforms understood? Choose the best correct answer",
+              "options": {
+                "A": "Those are transformation techniques based on pixel-by-pixel processing.",
+                "B": "Those are transformation techniques based on pixel-by-cluster processing.",
+                "C": "Those are transformation techniques based on pixel-by-image processing.",
+                "D": "Those are transformation techniques based on cluster-by-cluster processing."
+              },
+              "answer": "Those are transformation techniques based on pixel-by-pixel processing.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 41,
+              "question": "How does the shutter speed parameter in digital cameras work?",
+              "options": {
+                "A": "Adjusting amplification and black level to get a \"good fit\" of the incident light power to the range of the image",
+                "B": "Controls the amount of light reaching the sensor",
+                "C": "The physical spacing between adjacent sensor cells on the imaging chip",
+                "D": "The active sensing area size as a fraction of the theoretically available sensing area"
+              },
+              "answer": "Controls the amount of light reaching the sensor",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 42,
+              "question": "Suppose we have two images at two different times: I(x,y,t) and I(x,y, t+1). How to estimate pixel motion from image I(x,y,t) to I(x,y, t+1)?",
+              "options": {
+                "A": "Put two images on top of each other and calculate the closest distance of I(x,y,t) and I(x,y,t+1)",
+                "B": "Given a pixel in I(x,y,t), look for nearby pixels of the same color in I(x,y,t+1)",
+                "C": "Use the interpolation method to estimate the next positions of I(x,y,t).",
+                "D": "Based on the color of each pixel at the position I(x,y,t) relative to the overall image at time t+1"
+              },
+              "answer": "Given a pixel in I(x,y,t), look for nearby pixels of the same color in I(x,y,t+1)",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 43,
+              "question": "What is the main approach of feature-based alignment?",
+              "options": {
+                "A": "Align the 4 corners of two photos",
+                "B": "Finding a way to recover an image's angle through spatial transformations",
+                "C": "Overlap the pictures together and find similarities between them",
+                "D": "Find a few matching features in both images then compute alignment"
+              },
+              "answer": "Find a few matching features in both images then compute alignment",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 44,
+              "question": "It is a type of image segmentation, where we change the pixels of an image to make the image easier to analyze. We convert an image from color or grayscale into a binary image, i.e., one that is simply black and white. What is the exact name of this process?",
+              "options": {
+                "A": "Thresholding Segmentation.",
+                "B": "Edge-Based Segmentation.",
+                "C": "Region-Based Segmentation.",
+                "D": "Watershed Segmentation."
+              },
+              "answer": "Thresholding Segmentation.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 45,
+              "question": "Choose the best description of the Hough transform",
+              "options": {
+                "A": "The Hough transform is a technique that can be used to isolate features of a particular shape within an image.",
+                "B": "Hough transform can be employed in applications where a simple analytic description of a feature is not possible.",
+                "C": "The main advantage of the Hough transform technique is that it is tolerant of gaps in feature boundary descriptions and is relatively unaffected by image noise.",
+                "D": "All of the others"
+              },
+              "answer": "All of the others",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 46,
+              "question": "Line detection is an important step in image processing. There are two techniques applied to line search. The first technique is the Hough transform. So what is the second technique? Choose the best correct answer",
+              "options": {
+                "A": "Content-based techniques",
+                "B": "Edge detection technique",
+                "C": "Gaussian technique",
+                "D": "Convolution based technique"
+              },
+              "answer": "Convolution based technique",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 47,
+              "question": "Object detection method has two approaches. In which the non-neural approach is widely used in computer vision. Which of the following algorithms belongs to the category of non-neural approach?",
+              "options": {
+                "A": "Mean shift model",
+                "B": "Single Shot MultiBox Detector",
+                "C": "RANdom SAmple Consensus",
+                "D": "Histogram of oriented gradients"
+              },
+              "answer": "Histogram of oriented gradients",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 48,
+              "question": "After extracted features and their descriptors from two or more images then the next is to establish some preliminary feature matches between these images. Which name is it called?",
+              "options": {
+                "A": "Feature reduce",
+                "B": "Feature combination",
+                "C": "Feature compression",
+                "D": "Feature matching"
+              },
+              "answer": "Feature matching",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 49,
+              "question": "____ is a technique of image processing used to identify points in a digital image with discontinuities sharp changes in the image brightness. Choose the best answer",
+              "options": {
+                "A": "Peak detector",
+                "B": "Peak descriptor",
+                "C": "Edge detection.",
+                "D": "Edge descriptor"
+              },
+              "answer": "Edge detection.",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 50,
+              "question": "____ are probabilistic models and use the soft clustering approach for distributing the points in different clusters. Choose the best answer.",
+              "options": {
+                "A": "K-mean clustering model",
+                "B": "SVN model",
+                "C": "Gaussian Mixture Models",
+                "D": "K- nearest model"
+              },
+              "answer": "Gaussian Mixture Models",
+              "answer_number": ["C"]
+            }
+          ]
+        },
+        {
+          "quiz_set": "SU23_RE",
+          "questions": [
+            {
+              "id": 1,
+              "question": "How are thresholding methods implemented? Choose the best answer.",
+              "options": {
+                "A": "It replaces each pixel in an image with a black pixel if the image intensity is less than some fixed constant.",
+                "B": "It replaces each pixel in an image with a white pixel if the image intensity is greater than that constant.",
+                "C": "The first and second is correct",
+                "D": "The first or second is correct"
+              },
+              "answer": "The first and second is correct",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 2,
+              "question": "The most difficult part of getting a fully automated stitching algorithm to work is deciding which pairs of images actually correspond to the same parts of the scene. What is the best solution to solve these issues?.Choose the best correct answer",
+              "options": {
+                "A": "Using a feature-based approach to remove objects from image frames. Then we get a completed panoramas image.",
+                "B": "Using a direct pixel-based comparison between the registered images to determine if they actually are different views of the same scene.",
+                "C": "To find the similarity of adjacent images, we determine whether the properties match or not, using the image combination method.",
+                "D": "All of the others"
+              },
+              "answer": "Using a direct pixel-based comparison between the registered images to determine if they actually are different views of the same scene.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 3,
+              "question": "Choose the best answer about the illumination model:",
+              "options": {
+                "A": "The illumination model describes the process of absorbing light from an artificial source and is represented in 2D space.",
+                "B": "The illumination model is a spatial transformation, used to describe the transformation of 3D space to 2D space.",
+                "C": "The illumination model used to calculate the intensity of light emitted from natural light sources (Sun, moor",
+                "D": "The illumination model describes inputs, assumptions, and outputs used to calculate the brightness of surface elements"
+              },
+              "answer": "The illumination model describes inputs, assumptions, and outputs used to calculate the brightness of surface elements",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 4,
+              "question": "Choose the best description of the gaussian smoothing",
+              "options": {
+                "A": "Gaussian smoothing is the result of blurring an image by a Laplace function.",
+                "B": "It enhance image structures at different scales.",
+                "C": "Smooth blur resembling that of replace the image through a translucent screen",
+                "D": "All of the others"
+              },
+              "answer": "It enhance image structures at different scales.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 5,
+              "question": "......... is the process by which an existing graph, or graphed equation, is modified to produce a variation of the proceeding graph. Choose the best answer",
+              "options": {
+                "A": "Graph transformation",
+                "B": "Image transformation",
+                "C": "Graph computing",
+                "D": "Image computing"
+              },
+              "answer": "Graph transformation",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 6,
+              "question": "Choose the best answer about color space",
+              "options": {
+                "A": "Color space is the term for a system that uses a specific image model to translate color into numbers.",
+                "B": "A color space is a specific organization of colors.",
+                "C": "System that turns image into numbers.",
+                "D": "Color spaces are mathematical models describing the way image can be represented."
+              },
+              "answer": "Color spaces are mathematical models describing the way image can be represented.",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 7,
+              "question": "Which of the following algorithms is used for feature detection?",
+              "options": {
+                "A": "Scale-Invariant Feature Transform (SIFT)",
+                "B": "Harris Corner Detector",
+                "C": "Features from Accelerated Segment Test (FAST)",
+                "D": "All of the others"
+              },
+              "answer": "All of the others",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 8,
+              "question": ".......... can be used to find a sparse set of corresponding locations in different images. Choose the best answer",
+              "options": {
+                "A": "Edge features",
+                "B": "Line features",
+                "C": "Object features",
+                "D": "Point features"
+              },
+              "answer": "Point features",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 9,
+              "question": "Choose the best answer about digital image",
+              "options": {
+                "A": "The digital image is a two-dimensional array of color",
+                "B": "The digital image is a matrix of pixels.",
+                "C": "The digital images are composed of a combination of colors.",
+                "D": "The digital images are created from digital cameras through a mechanical system."
+              },
+              "answer": "The digital image is a matrix of pixels.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 10,
+              "question": "It is a technique for efficiently finding peaks in this high-dimensional data distribution without ever computing the complete function explicitly. What is the exact name of this technique in image segmentation?",
+              "options": {
+                "A": "Mean shift model",
+                "B": "K-mean clustering model",
+                "C": "Gaussian Mixture Models",
+                "D": "K- nearest model"
+              },
+              "answer": "Mean shift model",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 11,
+              "question": "It is a type of image segmentation, where we change the pixels of an image to make the image easier to analyze. We convert an image from color or grayscale into a binary image, i.e., one that is simply black and white. What is the exact name of this process?",
+              "options": {
+                "A": "Thresholding Segmentation.",
+                "B": "Edge-Based Segmentation.",
+                "C": "Region-Based Segmentation.",
+                "D": "Watershed Segmentation."
+              },
+              "answer": "Thresholding Segmentation.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 12,
+              "question": "An ....... is a transformation that preserves collinearity and the ratio of distances. Choose the best answer",
+              "options": {
+                "A": "Projective transformation",
+                "B": "Euclidean transformation",
+                "C": "Affine transformation",
+                "D": "Similarity transformation"
+              },
+              "answer": "Similarity transformation",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 13,
+              "question": "In image processing, what is the next step after feature detection?",
+              "options": {
+                "A": "Preprocessing",
+                "B": "Feature description",
+                "C": "Feature combination",
+                "D": "Noise remove( filters)"
+              },
+              "answer": "Feature description",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 14,
+              "question": "The basic idea of ..... is to break the image into a set of disjoint regions which are coherent within themselves. Choose the best correct answer",
+              "options": {
+                "A": "Region combination",
+                "B": "Object combination",
+                "C": "Region splitting",
+                "D": "Object splitting"
+              },
+              "answer": "Region splitting",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 15,
+              "question": "Choose the best description of the convolution- Kernel",
+              "options": {
+                "A": "It is an array-representative for transforming images from different spatial domains.",
+                "B": "It is the process of adding each element of the image to its local neighbors, weighted by the intensity value.",
+                "C": "It is a small matrix used to clarify certain features.",
+                "D": "It is used in all filters to increase the brightness of the image."
+              },
+              "answer": "It is a small matrix used to clarify certain features.",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 16,
+              "question": "Edge detection is a technique widely used in medical image processing, automatic traffic control systems. Edge detection is divided into two basic types. the second is Gaussian - based operator which computes second-order derivations in a digital image. Which of the following algorithms belongs to this type?",
+              "options": {
+                "A": "Canny edge detector",
+                "B": "Sobel operator",
+                "C": "Gaussian detector",
+                "D": "HOG detector"
+              },
+              "answer": "Canny edge detector",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 17,
+              "question": "Choose the best correct answer about parallax removal",
+              "options": {
+                "A": "Parallax is a key challenge that leads to inaccurate registration and ghosting effect of objects in the result. So it needs to remove.",
+                "B": "It is used to optimize the camera poses. Once these have been estimated, the desired location of a 3D point xi can be estimated as the average of the back-projected 3D locations.",
+                "C": "It is a displacement or difference in the apparent position of an object viewed along two different lines of sight, and is measured by the angle or semi-angle of inclination between those two lines.",
+                "D": "All of the others"
+              },
+              "answer": "Parallax is a key challenge that leads to inaccurate registration and ghosting effect of objects in the result. So it needs to remove.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 18,
+              "question": "Choose the best answer about the bidirectional reflectance distribution function:",
+              "options": {
+                "A": "It describes the light that reaches the surface of matter in low light and how the color spectrum in the corresponding frequency range can be calculated.",
+                "B": "It is reciprocal- can calculate by a total of the incident and reflected intensity.",
+                "C": "It describes the proportion of light coming from each incident direction that is redirected to each reflected direction.",
+                "D": "All of the others."
+              },
+              "answer": "It describes the proportion of light coming from each incident direction that is redirected to each reflected direction.",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 19,
+              "question": "The object tracking level can be divided into two basic types. The first type is Single Object Tracking (SOT). Choose the best description of Single Object Tracking (SOT)",
+              "options": {
+                "A": "It creates bounding boxes that are given to the tracker based on the first frame of the input image.",
+                "B": "Single Object Tracking is also sometimes known as Visual Object Tracking.",
+                "C": "SOT implies that one singular object is tracked, even in environments involving other objects.",
+                "D": "All of the others"
+              },
+              "answer": "All of the others",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 20,
+              "question": "The aim is to identify the facial landmarks that are key to distinguishing your face. What is the exact name of this step in face recognition? Choose the best correct answer",
+              "options": {
+                "A": "Face detection",
+                "B": "Face locating",
+                "C": "Features analysis",
+                "D": "Face analysis"
+              },
+              "answer": "Face analysis",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 21,
+              "question": "Choose the best description of the K- Mean for segmentation",
+              "options": {
+                "A": "The k-means clustering algorithm attempts to fill in the missing data intervals to create new clusters.",
+                "B": "It is used to identify data labels based on a given labeled dataset.",
+                "C": "K Means is a classifying algorithm.",
+                "D": "In the K-Mean algorithm, in the same data group, the closer to the central data point, the larger the difference in data will be."
+              },
+              "answer": "It is used to identify data labels based on a given labeled dataset.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 22,
+              "question": "There are many applications for image alignment, such as tracking objects on video, motion analysis, and many other tasks of computer vision. How do you understand image alignment?",
+              "options": {
+                "A": "It is the image that has been created using elements from a variety of different pictures.",
+                "B": "Image alignment is the process of matching one image called a template with another image.",
+                "C": "The images are more paired together as a collection of stand-alone images that may follow a theme or story.",
+                "D": "All of the others"
+              },
+              "answer": "Image alignment is the process of matching one image called a template with another image.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 23,
+              "question": "It is an approach detecting, for every pixel, belonging class of the object. What is the exact name of this process?",
+              "options": {
+                "A": "Instance segmentation",
+                "B": "Semantic detection",
+                "C": "Instance detection",
+                "D": "Semantic segmentation"
+              },
+              "answer": "Semantic segmentation",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 24,
+              "question": "Pixel operator is a function is used to process pixel forest. What are the input and output of pixel operators? Choose the best correct answer.",
+              "options": {
+                "A": "Input is an image and output is an image.",
+                "B": "Input is an image and output is the images.",
+                "C": "Input is one or more images and output is the images.",
+                "D": "Input is one or more images and output is an image."
+              },
+              "answer": "Input is an image and output is an image.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 25,
+              "question": "What is the difference between image processing and computer vision? Choose the most correct answer",
+              "options": {
+                "A": "Image processing and computer vision are two different concepts.",
+                "B": "The task of computer vision is an analysis of an image.",
+                "C": "Computer vision can be understood as the steps to increase image clarity, through noise filtering steps.",
+                "D": "Image processing performs tasks such as analyzing what objects are in the image"
+              },
+              "answer": "Image processing and computer vision are two different concepts.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 26,
+              "question": "....... is a technique of image processing used to identify points in a digital image with discontinuities \" sharp changes in the image brightness. Choose the best answer",
+              "options": {
+                "A": "Peak detector",
+                "B": "Peak descriptor",
+                "C": "Edge detection.",
+                "D": "Edge descriptor"
+              },
+              "answer": "Edge detection.",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 27,
+              "question": "Choose the best description of the RANdom SAmple Consensus - RANSAC",
+              "options": {
+                "A": "RANSAC is a parameter estimation approach designed to cope with a large proportion of outliers in the input data",
+                "B": "RANSAC is a resampling technique that generates candidate solutions by using the minimum number of data points required to estimate the underlying model parameters.",
+                "C": "It is a key point matching algorithm.",
+                "D": "All of the others"
+              },
+              "answer": "All of the others",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 28,
+              "question": "Why do we need image stitching?",
+              "options": {
+                "A": "Image stitching is a widely used technique for recovering original data from ripped data.",
+                "B": "Image stitching is used in forensic and investigative science for the reconstruction of torn paper which is a big problem.",
+                "C": "In image mapping, stitching of images is done to do the complete mapping of a particular place.",
+                "D": "All of the others"
+              },
+              "answer": "All of the others",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 29,
+              "question": "Choose the best answer about 2D Lines",
+              "options": {
+                "A": "A line is a straight one-dimensional figure having no thickness and extending infinitely in both directions.",
+                "B": "Lines are an idealization of such objects, which are often described in terms of two points",
+                "C": "Line in the plane is often defined as the set of points whose coordinates satisfy a given linear equation.",
+                "D": "All of others"
+              },
+              "answer": "All of others",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 30,
+              "question": "Detecting cancerous cells as quickly as possible can potentially save millions of lives. Object detection will not be very useful here. So why is image segmentation so useful in this area?",
+              "options": {
+                "A": "We will generate bounding boxes which will not help us in identifying the shape of the cells.",
+                "B": "Segmentation processing is many times faster than object detection, thus helping to quickly prevent cance cells.",
+                "C": "The shape of the cancerous cells plays a vital role in determining the severity of cancer.",
+                "D": "All of the others."
+              },
+              "answer": "The shape of the cancerous cells plays a vital role in determining the severity of cancer.",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 31,
+              "question": "......... is a method of enhancing the image quality of textures on surfaces of computer graphics that are at oblique viewing angles with respect to the camera where the projection of the texture. Choose the best answer",
+              "options": {
+                "A": "MIP Mapping filter",
+                "B": "Elliptical Weighted Average (EWA) filter",
+                "C": "Anisotropic filtering",
+                "D": "Gaussian White filter"
+              },
+              "answer": "Anisotropic filtering",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 32,
+              "question": "Object detection method has two approaches. In which, the first approach is non-neural which is widely used in traditional computer vision. What is the second approach?.Choose the best correct answer",
+              "options": {
+                "A": "Color-based approach",
+                "B": "Neural network approaches",
+                "C": "Feature-based approach",
+                "D": "Convolution-based techniques"
+              },
+              "answer": "Neural network approaches",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 33,
+              "question": "In a ......., the line detector operator consists of a convolution mask tuned to detect the presence of lines of a particular width n and a θ orientation. Choose the best correct answer",
+              "options": {
+                "A": "Content-based techniques",
+                "B": "Gaussian technique",
+                "C": "Convolution based technique",
+                "D": "Edge detection technique"
+              },
+              "answer": "Convolution based technique",
+              "answer_number": ["C"]
+            }
+          ]
+        },
+        {
+          "quiz_set": "SU23_FE",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Choose the best answer about digital image",
+              "options": {
+                "A": "The digital image is a two-dimensional array of color",
+                "B": "The digital image is a matrix of pixels.",
+                "C": "The digital images are composed of a combination of colors.",
+                "D": "The digital images are created from digital cameras through a mechanical system."
+              },
+              "answer": "The digital image is a matrix of pixels.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 2,
+              "question": "The basic idea consisted of placing a water source in each regional minimum in the relief, to flood the entire relief from sources, and build barriers when different water sources meet. What is the exact name of this process?",
+              "options": {
+                "A": "Watershed segmentation",
+                "B": "Waterfall segmentation",
+                "C": "Interconnected water bottles",
+                "D": "Flowing water"
+              },
+              "answer": "Watershed segmentation",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 3,
+              "question": "Hough transform is used to recognize complex lines in photographs. How do you understand Hough transform?",
+              "options": {
+                "A": "The purpose of the technique is to find imperfect instances of objects within a certain class of shapes by a voting procedure.",
+                "B": "For the Hough Transform algorithm, it is crucial to perform point detection first to produce a point image which will then be used as input into the algorithm.",
+                "C": "The Hough technique is particularly useful for computing a local description of a feature.",
+                "D": "All of the others"
+              },
+              "answer": "The purpose of the technique is to find imperfect instances of objects within a certain class of shapes by a voting procedure.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 4,
+              "question": "Choose the best description of the Geometric Transformations",
+              "options": {
+                "A": "In these transformations, pixel values are not changed, the positions of pixel values are changed.",
+                "B": "A geometric transformation of an image is a spatial transformation of the image coordinate system.",
+                "C": "Geometric transformation is the geometry of image is changed with altering its actual pixel values.",
+                "D": "All of the others"
+              },
+              "answer": "All of the others",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 5,
+              "question": "Which of the following is not an Image filters used in OpenCV?",
+              "options": {
+                "A": "Box Filter",
+                "B": "Bilateral Filter",
+                "C": "Blue Blur",
+                "D": "Build Pyramid"
+              },
+              "answer": "Blue Blur",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 6,
+              "question": "In image processing, what is the next step after feature detection?",
+              "options": {
+                "A": "Preprocessing",
+                "B": "Feature description",
+                "C": "Feature combination",
+                "D": "Noise remove( filters)"
+              },
+              "answer": "Feature description",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 7,
+              "question": "Choose the best description of the image feature",
+              "options": {
+                "A": "Feature is a piece of information about the content of an image",
+                "B": "Feature may be specific structures in the image such as points, edges, or objects",
+                "C": "All of the others",
+                "D": "None of the others"
+              },
+              "answer": "All of the others",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 8,
+              "question": "Edge detection is a technique widely used in medical image processing, automatic traffic control systems. Edge detection is divided into two basic types. the first is a Gradient-based operator which computes first-order derivations in a digital image. Which of the following algorithms belongs to this type?",
+              "options": {
+                "A": "Canny edge detector",
+                "B": "Prewitt operator",
+                "C": "Laplacian detector",
+                "D": "HOG detector"
+              },
+              "answer": "Prewitt operator",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 9,
+              "question": "In K-means for Segmentation, what is the meaning of K value?",
+              "options": {
+                "A": "It represents the number of clusters.",
+                "B": "It represents the number of images.",
+                "C": "It represents the step of clusters.",
+                "D": "It represents the color groups."
+              },
+              "answer": "It represents the number of clusters.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 10,
+              "question": "What are the differences between correlation and convolution?",
+              "options": {
+                "A": "Convolution is measurement of total noise of one image on the other image.",
+                "B": "The mathematical calculation of Correlation is difference as convolution in time domain",
+                "C": "If the filter is asymmetrical then the output of both the expression would be same",
+                "D": "Correlation is measurement of the similarity between two image."
+              },
+              "answer": "Correlation is measurement of the similarity between two image.",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 11,
+              "question": "What are the fields related to computer vision?",
+              "options": {
+                "A": "Image processing, graphics algorithms, Cognitive sciences.",
+                "B": "Robotics, Neurobiology, Information retrieval",
+                "C": "All of the others",
+                "D": "Not of others"
+              },
+              "answer": "All of the others",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 12,
+              "question": "It is the ability to perceive an object's physical properties (such as shape, color, and texture) and apply semantic attributes to the object. What is the exact name of this process? Choose the best correct answer",
+              "options": {
+                "A": "Object detection",
+                "B": "Object locating",
+                "C": "Object recognition",
+                "D": "Object tracking"
+              },
+              "answer": "Object recognition",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 13,
+              "question": "What are the input and output of image processing?",
+              "options": {
+                "A": "signal and image",
+                "B": "signal only",
+                "C": "image only",
+                "D": "depends on input"
+              },
+              "answer": "image only",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 14,
+              "question": "What is image filter? Choose the best answer",
+              "options": {
+                "A": "Filtering is a technique for modifying or enhancing an image.",
+                "B": "Filters are just systems that form a new, and preferably enhanced, image from a combination of the original image's pixel values.",
+                "C": "Filtering is a neighborhood operation, in which the value of any given pixel in the output image is determined by applying some algorithm to the values of the pixels in the neighborhood of the corresponding input pixel.",
+                "D": "All of the others"
+              },
+              "answer": "All of the others",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 15,
+              "question": "Choose the best description of the Mean Shift segmentation",
+              "options": {
+                "A": "It is a local homogenization technique that is very useful for salt- pepper or tonality differences in global objects.",
+                "B": "Mean shift implicitly models this distribution using a smooth continuous non-parametric model",
+                "C": "The idea is to replace each pixel with the 3x3 of the pixels in a range neighborhood and whose value is within a distance d",
+                "D": "All of the others"
+              },
+              "answer": "Mean shift implicitly models this distribution using a smooth continuous non-parametric model",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 16,
+              "question": "Choose the best description of the image segmentation",
+              "options": {
+                "A": "Segmentation is the technique of dividing or partitioning an image into parts.",
+                "B": "Image segmentation is the process of assigning a color to every pixel in an image.",
+                "C": "Image segmentation is typically used to recognize objects and their name in images.",
+                "D": "All of the others."
+              },
+              "answer": "Segmentation is the technique of dividing or partitioning an image into parts.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 17,
+              "question": "What is the basic principle of object detection?",
+              "options": {
+                "A": "Object detection is based on the features that make up the object.",
+                "B": "Each object's surface has a different structure and shape. Hence object detection relies on color relevance.",
+                "C": "Object detection is based on the semantics of the objects in the image.",
+                "D": "All of the others"
+              },
+              "answer": "All of the others",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 18,
+              "question": "How does a computer understand input images?",
+              "options": {
+                "A": "The computer understands the image as a matrix of pixels.",
+                "B": "The computer understands the image as a single color matrix.",
+                "C": "The computer reads the input image as an integer array of values stored in the binary image.",
+                "D": "All of the others"
+              },
+              "answer": "The computer understands the image as a matrix of pixels.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 19,
+              "question": "What is meant by image segmentation in image processing?",
+              "options": {
+                "A": "Image segmentation is the division of an image into regions or categories, which correspond to different objects or parts of objects.",
+                "B": "Image segmentation is a method in which a digital image is broken down into various subgroups based their color or position",
+                "C": "All of the others",
+                "D": "None of the others"
+              },
+              "answer": "All of the others",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 20,
+              "question": "What is the range of the spectrum that humans can see as colors?",
+              "options": {
+                "A": "200nm- 500nm",
+                "B": "300nm- 600nm",
+                "C": "400nm- 700nm",
+                "D": "500nm- 900nm"
+              },
+              "answer": "400nm- 700nm",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 21,
+              "question": "Choose the best description of the Hough transform",
+              "options": {
+                "A": "The Hough transform is a technique that can be used to isolate features of a particular shape within an image.",
+                "B": "Hough transform can be employed in applications where a simple analytic description of a feature is not possible.",
+                "C": "The main advantage of the Hough transform technique is that it is tolerant of gaps in feature boundary descriptions and is relatively unaffected by image noise.",
+                "D": "All of the others"
+              },
+              "answer": "All of the others",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 22,
+              "question": "In Fourier transform, what is the abbreviation for DFT?",
+              "options": {
+                "A": "Display Fourier Transform",
+                "B": "Distribute Fourier Transform",
+                "C": "Discrete Fourier Transform",
+                "D": "Discontinuous Fourier Transform"
+              },
+              "answer": "Discrete Fourier Transform",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 23,
+              "question": "Suppose we have two images at two different times: I(x,y,t) and I(x,y, t+1). How to estimate pixel motion from image I(x,y,t) to I(x,y, t+1)?",
+              "options": {
+                "A": "Put two images on top of each other and calculate the closest distance of I(x,y,t) and I(x,y,t+1)",
+                "B": "Given a pixel in I(x,y,t), look for nearby pixels of the same color in I(x,y,t+1)",
+                "C": "Use the interpolation method to estimate the next positions of I(x,y,t).",
+                "D": "Based on the color of each pixel at the position I(x,y,t) relative to the overall image at time t+1"
+              },
+              "answer": "Given a pixel in I(x,y,t), look for nearby pixels of the same color in I(x,y,t+1)",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 24,
+              "question": "Choose the best description of the active contours",
+              "options": {
+                "A": "It is the process of assigning a color to every pixel in an image.",
+                "B": "It defines a separate boundary or curvature for the regions of the target object for segmentation.",
+                "C": "Image segmentation is typically used to recognize the color range and their group in images.",
+                "D": "It is described as a multi-model for the process of segmentation."
+              },
+              "answer": "It defines a separate boundary or curvature for the regions of the target object for segmentation.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 25,
+              "question": "The ..... treats the image it operates upon like a topographic map, with the brightness of each point representing its height, and finds the lines that run along the tops of ridges. Choose the best correct answer",
+              "options": {
+                "A": "Image transformation",
+                "B": "Heuristic transformation",
+                "C": "Hybrid transformation",
+                "D": "Watershed transformation"
+              },
+              "answer": "Watershed transformation",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 26,
+              "question": "How do you understand image stitching?",
+              "options": {
+                "A": "It is a process that includes two operations (in order), the first, blending, and the second, image alignment.",
+                "B": "It is a process that includes two operations, image alignment, and blending.",
+                "C": "It is a process that includes two operations",
+                "D": "Geometrical registration and photometric registration."
+              },
+              "answer": "It is a process that includes two operations, image alignment, and blending.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 27,
+              "question": "The most difficult part of getting a fully automated stitching algorithm to work is deciding which pairs of images actually correspond to the same parts of the scene. What is the best solution to solve these issues?.Choose the best correct answer",
+              "options": {
+                "A": "Using a feature-based approach to remove objects from image frames. Then we get a completed panoramas image.",
+                "B": "Using a direct pixel-based comparison between the registered images to determine if they actually are different views of the same scene.",
+                "C": "To find the similarity of adjacent images, we determine whether the properties match or not, using the image combination method.",
+                "D": "All of the others"
+              },
+              "answer": "Using a feature-based approach to remove objects from image frames. Then we get a completed panoramas image.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 28,
+              "question": "The ..... is based on the observation that the affine mapping x' = Ax' defines a skewed two-dimensional coordinate system in the vicinity of each source pixel x. Choose the best answer",
+              "options": {
+                "A": "MIP Mapping filter",
+                "B": "Gaussian White filter",
+                "C": "Elliptical Weighted Average (EWA) filter",
+                "D": "Multi pass filter"
+              },
+              "answer": "Elliptical Weighted Average (EWA) filter",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 29,
+              "question": "The ..... is a measure of change in a function, and an image can be considered to be an array of samples of some continuous function of image intensity. Choose the best answer",
+              "options": {
+                "A": "Gradient",
+                "B": "Edge",
+                "C": "Greyscale",
+                "D": "Contour"
+              },
+              "answer": "Gradient",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 30,
+              "question": "Choose the best description of the RANdom SAmple Consensus - RANSAC",
+              "options": {
+                "A": "RANSAC is a parameter estimation approach designed to cope with a large proportion of outliers in the input data",
+                "B": "RANSAC is a resampling technique that generates candidate solutions by using the minimum number of data points required to estimate the underlying model parameters.",
+                "C": "It is a key point matching algorithm.",
+                "D": "All of the others"
+              },
+              "answer": "All of the others",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 31,
+              "question": "In the technique, a sparse set of features are detected in one image and matched with the features in the other image. A transformation is then calculated based on these matched features that warp one image onto the other. What is the exact name of this technique?",
+              "options": {
+                "A": "Feature-Based alignment",
+                "B": "Feature-Based detection",
+                "C": "Feature-Based recognition",
+                "D": "Feature-Based filter"
+              },
+              "answer": "Feature-Based alignment",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 32,
+              "question": "Detecting cancerous cells as quickly as possible can potentially save millions of lives. Object detection will not be very useful here. So why is image segmentation so useful in this area?",
+              "options": {
+                "A": "We will generate bounding boxes which will not help us in identifying the shape of the cells.",
+                "B": "Segmentation processing is many times faster than object detection, thus helping to quickly prevent cancer cells.",
+                "C": "The shape of the cancerous cells plays a vital role in determining the severity of cancer.",
+                "D": "All of the others."
+              },
+              "answer": "The shape of the cancerous cells plays a vital role in determining the severity of cancer.",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 33,
+              "question": ".........is an image that is meant to be viewed as if seen through the inside of a cylinder. You can look at the image horizontally at a 360 degree. Choose the best correct answer",
+              "options": {
+                "A": "Cylindrical projection",
+                "B": "Cylindrical viewing",
+                "C": "Cylindrical panoramic",
+                "D": "None of the others"
+              },
+              "answer": "Cylindrical panoramic",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 34,
+              "question": "In image storing, which of the following image formats follows the pattern of the lossy scheme?",
+              "options": {
+                "A": "iac",
+                "B": "bmp",
+                "C": "jpg",
+                "D": "ppm"
+              },
+              "answer": "jpg",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 35,
+              "question": "What is translation transformation?",
+              "options": {
+                "A": "We rotate the object at a particular angle θ (theta) from its origin",
+                "B": "It moves an object to a different position on the screen.",
+                "C": "It changes the size of an object.",
+                "D": "It is scaling, skewing, and rotation."
+              },
+              "answer": "It moves an object to a different position on the screen.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 36,
+              "question": "Edge detection is a technique widely used in image processing, as well as computer vision. It reduces the amount of data in an image and preserves the structural properties of an image. So what do you understand about edge detection?",
+              "options": {
+                "A": "Edge Detection is a method of segmenting an image into regions of continuity.",
+                "B": "Edge detection allows users to observe the features of an image for a significant change in the gray level.",
+                "C": "Edge detection can be defined as a set of connected pixels that forms a boundary between two disjoint regions",
+                "D": "All of the others"
+              },
+              "answer": "All of the others",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 37,
+              "question": "Choosing the position of K centroids positions is very important. How is the initial value of K centroids positions calculated? Choose the best answer",
+              "options": {
+                "A": "Divide by K number and photo scale",
+                "B": "Evenly distribute K in the image",
+                "C": "Central value.",
+                "D": "Randomly"
+              },
+              "answer": "Randomly",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 38,
+              "question": "Choose the best description of the feature descriptors",
+              "options": {
+                "A": "Feature descriptor is an algorithm that takes an image and outputs feature vectors.",
+                "B": "Feature descriptors are used to find the essential features from the given image",
+                "C": "Feature descriptors are used to convert features to other representations through spatial transformations.",
+                "D": "All of the others"
+              },
+              "answer": "All of the others",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 39,
+              "question": "Object detection method has two approaches. In which the non-neural approach is widely used in computer vision. Which of the following algorithms belongs to the category of non-neural approach?",
+              "options": {
+                "A": "Mean shift model",
+                "B": "Single Shot MultiBox Detector",
+                "C": "RANdom SAmple Consensus",
+                "D": "Histogram of oriented gradients"
+              },
+              "answer": "Histogram of oriented gradients",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 40,
+              "question": "What happens in the thin lens model?",
+              "options": {
+                "A": "The object is inverted.",
+                "B": "The image is discolored.",
+                "C": "Objects placed before or after Len produce the same results.",
+                "D": "The image will stay the same size when you use white light as the source (sun)."
+              },
+              "answer": "The object is inverted.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 41,
+              "question": "A convolution-based technique is used to detect the line. Here are the four convolution masks to detect horizontal, vertical, oblique +- amount lines in an image. What is the specific value of the oblique in degrees?",
+              "options": {
+                "A": "15",
+                "B": "45",
+                "C": "90",
+                "D": "180"
+              },
+              "answer": "45",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 42,
+              "question": "Choose the best description of image histogram",
+              "options": {
+                "A": "It is a type of histogram that acts as a graphical representation of the tonal distribution in a digital image.",
+                "B": "It is a histogram representing the layout organization of an image, such as color and corresponding pixel position.",
+                "C": "Two images with different compositions will produce two different image histograms.",
+                "D": "Image histogram is used to synthesize colors in an image."
+              },
+              "answer": "It is a type of histogram that acts as a graphical representation of the tonal distribution in a digital image.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 43,
+              "question": "Choose the best description of the gaussian smoothing",
+              "options": {
+                "A": "Gaussian smoothing is the result of blurring an image by a Laplace function.",
+                "B": "It enhance image structures at different scales.",
+                "C": "Smooth blur resembling that of replace the image through a translucent screen",
+                "D": "All of the others"
+              },
+              "answer": "It enhance image structures at different scales.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 44,
+              "question": "What do the components of a pixel include?",
+              "options": {
+                "A": "Intensity value and size of the image",
+                "B": "Position address and intensity value",
+                "C": "Position address and size of the image",
+                "D": "All of the others"
+              },
+              "answer": "Position address and intensity value",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 45,
+              "question": "Choose the best answer about 2D point",
+              "options": {
+                "A": "It is a geometric setting in which two values are required to determine the position of an element.",
+                "B": "It represents a location in (x,y) coordinate space.",
+                "C": "It is the property possessed by an object of producing different sensations on the eye as a result of the way the object reflects or emits light.",
+                "D": "All of the others"
+              },
+              "answer": "All of the others",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 46,
+              "question": "Object tracking takes an approach that uses point tracking techniques. So how is the approach to using point tracking understood? Choose the best answer",
+              "options": {
+                "A": "Objects detected in consecutive frames are represented by object deterministic, probabilistic methods, and the association of the object is based on the previous object state which can include object position and motion.",
+                "B": "It is usually performed by locating the moving object, which is represented by an embryonic object region, from one frame to the next: a multi- view based, template-based.",
+                "C": "It refers to the object's shape and appearance.",
+                "D": "This approach requires an external mechanism to detect the object in every frame."
+              },
+              "answer": "Objects detected in consecutive frames are represented by object deterministic, probabilistic methods, and the association of the object is based on the previous object state which can include object position and motion.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 47,
+              "question": "......... is a method of enhancing the image quality of textures on surfaces of computer graphics that are at oblique viewing angles with respect to the camera where the projection of the texture. Choose the best answer",
+              "options": {
+                "A": "MIP Mapping filter",
+                "B": "Elliptical Weighted Average (EWA) filter",
+                "C": "Anisotropic filtering",
+                "D": "Gaussian White filter"
+              },
+              "answer": "Anisotropic filtering",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 48,
+              "question": "When the Fourier transform is used, the values of the properties are also transformed accordingly. What is the result of the Fourier transform applied to convolution f(x) * h(x) ?",
+              "options": {
+                "A": "F(w)+H(w)",
+                "B": "F(w)*H(w)",
+                "C": "F(w)H(w)",
+                "D": "F(w)H*(w)"
+              },
+              "answer": "F(w)H(w)",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 49,
+              "question": "Choose the best answer about chromatic aberration:",
+              "options": {
+                "A": "Chromatic aberration is a failure of a lens to focus all colors to the same point.",
+                "B": "Chromatic aberration the index of refraction of glass varies slightly as a function frequency.",
+                "C": "Chromatic aberration is different wavelengths focus at slightly same distances.",
+                "D": "All of the others"
+              },
+              "answer": "All of the others",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 50,
+              "question": "Choose the best description of the Fourier Transform",
+              "options": {
+                "A": "Fourier transform is a mathematical function which transforms a signal from the frequency domain to the time domain.",
+                "B": "The Fourier Transform is an important image processing tool which is used to decompose an image into its sine and cosine components",
+                "C": "In the Fourier domain image, each point represents a particular spatial contained in the frequency domain image.",
+                "D": "All of the others"
+              },
+              "answer": "All of the others",
+              "answer_number": ["B"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "course_ID": "DAP391m",
+      "quiz_sets": [
+        {
+          "quiz_set": "SU24_FE",
+          "questions": [
+            {
+              "id": 1,
+              "question": "What does Min-Max Scaling do to the data?",
+              "options": {
+                "A": "Scales data to a fixed range, often between 0 and 1",
+                "B": "Shifts the mean to zero and scales to unit variance",
+                "C": "Normalizes data based on the median and interquartile range",
+                "D": "Transforms data using the natural logarithm"
+              },
+              "answer": "Scales data to a fixed range, often between 0 and 1",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 2,
+              "question": "What is the primary goal of using cross-validation in machine learning?",
+              "options": {
+                "A": "To improve model training time",
+                "B": "To make the model fit the training data perfectly",
+                "C": "To estimate the performance of a model on an independent dataset",
+                "D": "To reduce the number of features in the dataset"
+              },
+              "answer": "To estimate the performance of a model on an independent dataset",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 3,
+              "question": "What is the primary goal of using Ridge regression?",
+              "options": {
+                "A": "Feature selection",
+                "B": "Handling multicollinearity",
+                "C": "Minimizing variance",
+                "D": "Reducing bias"
+              },
+              "answer": "Handling multicollinearity",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 4,
+              "question": "What is the assumption about the relationship between the independent and dependent variables in linear regression?",
+              "options": {
+                "A": "Non-linear",
+                "B": "Linear",
+                "C": "Exponential",
+                "D": "Random"
+              },
+              "answer": "Linear",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 5,
+              "question": "Which Pandas method is used to load data from a CSV file into a DataFrame?",
+              "options": {
+                "A": "read_csv()",
+                "B": "load_data()",
+                "C": "import_data()",
+                "D": "create_dataframe()"
+              },
+              "answer": "read_csv()",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 6,
+              "question": "In which scenario is Log Transformation often applied for normalization?",
+              "options": {
+                "A": "When data has a skewed distribution",
+                "B": "When data has a linear distribution",
+                "C": "When data has a normal distribution",
+                "D": "When data has missing values"
+              },
+              "answer": "When data has a skewed distribution",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 7,
+              "question": "In grid search, what does the 'grid' refer to?",
+              "options": {
+                "A": "A set of potential model parameters",
+                "B": "A set of potential input features",
+                "C": "A set of potential output predictions",
+                "D": "A set of potential model evaluation metrics"
+              },
+              "answer": "A set of potential model parameters",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 8,
+              "question": "How does GridSearchCV in Scikit-learn determine the best hyperparameters for a model?",
+              "options": {
+                "A": "By trying all possible combinations of hyperparameters",
+                "B": "By randomly selecting hyperparameters",
+                "C": "By using gradient descent optimization",
+                "D": "By relying on default hyperparameters"
+              },
+              "answer": "By trying all possible combinations of hyperparameters",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 9,
+              "question": "What is the purpose of grid search in machine learning?",
+              "options": {
+                "A": "To search for the best hyperparameters",
+                "B": "To search for the best features",
+                "C": "To search for the best model",
+                "D": "To search for the best dataset"
+              },
+              "answer": "To search for the best hyperparameters",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 10,
+              "question": "What regression technique is an extension of linear regression but involves higher-order polynomial functions?",
+              "options": {
+                "A": "Lasso regression",
+                "B": "Ridge regression",
+                "C": "Polynomial regression",
+                "D": "ElasticNet regression"
+              },
+              "answer": "Polynomial regression",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 11,
+              "question": "Which method can be used to handle missing data in a DataFrame in Pandas?",
+              "options": {
+                "A": "dropna()",
+                "B": "fillna()",
+                "C": "isnull()",
+                "D": "All of the above"
+              },
+              "answer": "All of the above",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 12,
+              "question": "What does the width of a box in a boxplot depict?",
+              "options": {
+                "A": "Interquartile range (IQR)",
+                "B": "Range of the dataset",
+                "C": "Variance of the dataset",
+                "D": "Standard deviation"
+              },
+              "answer": "Interquartile range (IQR)",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 13,
+              "question": "What does the subplot() function in Matplotlib allow you to do?",
+              "options": {
+                "A": "Create multiple plots within a single figure",
+                "B": "Change the background color of the plot",
+                "C": "Adjust the size of the markers in a scatter plot",
+                "D": "Remove ticks from the plot axis"
+              },
+              "answer": "Create multiple plots within a single figure",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 14,
+              "question": "Which function in Matplotlib is used to draw a histogram?",
+              "options": {
+                "A": "hist()",
+                "B": "draw_hist()",
+                "C": "plot_hist()",
+                "D": "create_histogram()"
+              },
+              "answer": "hist()",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 15,
+              "question": "Which Matplotlib function is used to create a pie chart?",
+              "options": {
+                "A": "plt.plot()",
+                "B": "plt.bar()",
+                "C": "plt.pie()",
+                "D": "plt.scatter()"
+              },
+              "answer": "plt.pie()",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 16,
+              "question": "In Dash, which component is used to create a range slider for selecting values within a specified range?",
+              "options": {
+                "A": "dcc.RangeSlider()",
+                "B": "dcc.Slider()",
+                "C": "dcc.Input()",
+                "D": "dcc.Dropdown()"
+              },
+              "answer": "dcc.RangeSlider()",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 17,
+              "question": "Which Pandas method is used to create an area plot?",
+              "options": {
+                "A": "plot(kind='area')",
+                "B": "plot(type='area')",
+                "C": "plot.area()",
+                "D": "plot_area"
+              },
+              "answer": "plot(kind='area')",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 18,
+              "question": "In Dash, what component is used to create a text input box for user interaction?",
+              "options": {
+                "A": "dcc.Input()",
+                "B": "dcc.Dropdown()",
+                "C": "dcc.Slider()",
+                "D": "dcc.Graph()"
+              },
+              "answer": "dcc.Input()",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 19,
+              "question": "In Dash, which component allows users to input text or strings?",
+              "options": {
+                "A": "dcc.Input()",
+                "B": "dcc.Dropdown()",
+                "C": "dcc.Textarea()",
+                "D": "dcc.Graph()"
+              },
+              "answer": "dcc.Input()",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 20,
+              "question": "What file format is often used to store geographical boundary data for choropleth mapping in Python?",
+              "options": {
+                "A": "GeoJSON",
+                "B": "CSV",
+                "C": "Excel",
+                "D": "TXT"
+              },
+              "answer": "GeoJSON",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 21,
+              "question": "How can you add a legend to the pie chart created using plot(kind='pie')?",
+              "options": {
+                "A": "Legends are added automatically",
+                "B": "legend=True",
+                "C": "add_legend()",
+                "D": "Legends cannot be added to pie charts"
+              },
+              "answer": "legend=True",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 22,
+              "question": "Which Seaborn function is used to create a bar plot displaying the count of unique values in a categorical variable?",
+              "options": {
+                "A": "sns.countplot()",
+                "B": "sns.barplot()",
+                "C": "sns.pointplot()",
+                "D": "sns.boxplot()"
+              },
+              "answer": "sns.countplot()",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 23,
+              "question": "Which parameter in plt.plot() sets the width of the line?",
+              "options": {
+                "A": "linewidth",
+                "B": "line_width",
+                "C": "width",
+                "D": "line"
+              },
+              "answer": "linewidth",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 24,
+              "question": "Which Seaborn function is used to create a bar plot with the addition of stacked bars?",
+              "options": {
+                "A": "sns.barplot()",
+                "B": "sns.countplot()",
+                "C": "sns.pointplot()",
+                "D": "sns.stackedplot()"
+              },
+              "answer": "sns.barplot()",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 25,
+              "question": "Which Python library is specifically designed for building web-based analytic applications?",
+              "options": {
+                "A": "Matplotlib",
+                "B": "Seaborn",
+                "C": "Folium",
+                "D": "Dash"
+              },
+              "answer": "Dash",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 26,
+              "question": "Which Python library is best suited for creating interactive data visualizations and dashboards?",
+              "options": {
+                "A": "Matplotlib",
+                "B": "Seaborn",
+                "C": "Plotly",
+                "D": "Folium"
+              },
+              "answer": "Plotly",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 27,
+              "question": "How is word size typically determined in a word cloud?",
+              "options": {
+                "A": "Based on word count",
+                "B": "Based on word length",
+                "C": "By alphabetical order",
+                "D": "Randomly assigned sizes"
+              },
+              "answer": "Based on word count",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 28,
+              "question": "In Seaborn, which function is used to create a heatmap to visualize the correlation matrix of a dataset?",
+              "options": {
+                "A": "sns.heatmap()",
+                "B": "sns.pairplot()",
+                "C": "sns.jointplot()",
+                "D": "sns.scatterplot()"
+              },
+              "answer": "sns.heatmap()",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 29,
+              "question": "What is the key advantage of integrating a chatbot with multiple platforms (e.g., Facebook, Slack)?",
+              "options": {
+                "A": "Enhanced data security",
+                "B": "Centralized conversation history",
+                "C": "Improved user engagement across different channels",
+                "D": "Streamlined API authentication"
+              },
+              "answer": "Improved user engagement across different channels",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 30,
+              "question": "Which Seaborn function is used to create a heatmap?",
+              "options": {
+                "A": "plot_heatmap()",
+                "B": "draw_heatmap()",
+                "C": "heatmap()",
+                "D": "create_heatmap()"
+              },
+              "answer": "heatmap()",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 31,
+              "question": "What is the primary purpose of using Watson Natural Language Understanding API?",
+              "options": {
+                "A": "Translating text between languages",
+                "B": "Analyzing sentiment in text data",
+                "C": "Extracting entities from text",
+                "D": "Understanding and processing textual content"
+              },
+              "answer": "Understanding and processing textual content",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 32,
+              "question": "What is the purpose of integrating a chatbot with Slack?",
+              "options": {
+                "A": "Sending automated emails",
+                "B": "Analyzing user behavior",
+                "C": "Enabling conversations within Slack channels",
+                "D": "Creating visualization reports"
+              },
+              "answer": "Enabling conversations within Slack channels",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 33,
+              "question": "What is the primary use of the Watson Language Translator API?",
+              "options": {
+                "A": "Analyzing sentiment in text data",
+                "B": "Converting speech to text",
+                "C": "Translating text between languages",
+                "D": "Extracting entities from text"
+              },
+              "answer": "Translating text between languages",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 34,
+              "question": "What is the purpose of the \"Try it out\" feature in the Watson Assistant tooling?",
+              "options": {
+                "A": "To debug chatbot",
+                "B": "To deploy the chatbot to a live environment",
+                "C": "To generate training data automatically",
+                "D": "To import existing chatbot configurations"
+              },
+              "answer": "To debug chatbot",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 35,
+              "question": "In Watson Assistant, what is a dialog node used for?",
+              "options": {
+                "A": "Controlling the flow of the conversation",
+                "B": "Representing user messages",
+                "C": "Defining intents",
+                "D": "Storing user data"
+              },
+              "answer": "Controlling the flow of the conversation",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 36,
+              "question": "What is the role of the 'Integrations' feature in Watson Assistant?",
+              "options": {
+                "A": "To deploy the chatbot to applications",
+                "B": "To manage user authentication",
+                "C": "To define the conversational flow",
+                "D": "To handle user input validation"
+              },
+              "answer": "To deploy the chatbot to applications",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 37,
+              "question": "What is the primary use case for the Watson Text-to-Speech API?",
+              "options": {
+                "A": "Converting written text into spoken words",
+                "B": "Analyzing sentiment in text data",
+                "C": "Transcribing spoken language into written text",
+                "D": "Extracting entities from unstructured text"
+              },
+              "answer": "Converting written text into spoken words",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 38,
+              "question": "In Watson Assistant, what are entities used for?",
+              "options": {
+                "A": "Handling user authentication",
+                "B": "Identifying and extracting specific information from user input",
+                "C": "Redirecting users to external websites",
+                "D": "Generating small talk responses"
+              },
+              "answer": "Identifying and extracting specific information from user input",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 39,
+              "question": "What is the purpose of the model.fit() function in TensorFlow?",
+              "options": {
+                "A": "Compiling the model with loss functions",
+                "B": "Initializing the neural network weights",
+                "C": "Training the model on training data",
+                "D": "Evaluating the model performance"
+              },
+              "answer": "Training the model on training data",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 40,
+              "question": "In TensorFlow, what is the purpose of the model.compile() function?",
+              "options": {
+                "A": "Initializing the neural network weights",
+                "B": "Defining the architecture of the neural network",
+                "C": "Compiling the model with optimizer, loss function, and metrics",
+                "D": "Evaluating the model performance"
+              },
+              "answer": "Compiling the model with optimizer, loss function, and metrics",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 41,
+              "question": "What is the primary purpose of adding dropout layers in a neural network architecture?",
+              "options": {
+                "A": "Reducing overfitting",
+                "B": "Increasing model complexity",
+                "C": "Enhancing learning rate",
+                "D": "Improving convergence speed"
+              },
+              "answer": "Reducing overfitting",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 42,
+              "question": "Which callback decorator is used to update the contents of a component based on user input?",
+              "options": {
+                "A": "@app.callback",
+                "B": "@dash_callback",
+                "C": "@app.route",
+                "D": "@update_content"
+              },
+              "answer": "@app.callback",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 43,
+              "question": "What is the primary purpose of using activation functions in neural networks?",
+              "options": {
+                "A": "Initializing weights",
+                "B": "Reducing model complexity",
+                "C": "Adding non-linearity to the model",
+                "D": "Calculating gradients"
+              },
+              "answer": "Adding non-linearity to the model",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 44,
+              "question": "Which quantile range does the upper whisker of a box plot represent?",
+              "options": {
+                "A": "75th to 100th percentile",
+                "B": "50th to 75th percentile",
+                "C": "25th to 50th percentile",
+                "D": "0th to 25th percentile"
+              },
+              "answer": "75th to 100th percentile",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 45,
+              "question": "In Sklearn, which method is used for data scaling to a range of [0, 1]?",
+              "options": {
+                "A": "MinMaxScaler()",
+                "B": "StandardScaler()",
+                "C": "RobustScaler()",
+                "D": "MaxAbsScaler()"
+              },
+              "answer": "MinMaxScaler()",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 46,
+              "question": "When encountering a dataset with a high dimensionality, what technique is commonly used for dimensionality reduction?",
+              "options": {
+                "A": "Feature scaling",
+                "B": "Principal Component Analysis (PCA)",
+                "C": "Recursive Feature Elimination (RFE)",
+                "D": "One-Hot Encoding"
+              },
+              "answer": "Principal Component Analysis (PCA)",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 47,
+              "question": "What is the primary purpose of feature scaling in machine learning?",
+              "options": {
+                "A": "To convert categorical features into numerical values",
+                "B": "To standardize the range of independent variables",
+                "C": "To increase the complexity of the model",
+                "D": "To reduce the dimensionality of the dataset"
+              },
+              "answer": "To standardize the range of independent variables",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 48,
+              "question": "Which TensorFlow function is used to add layers to a neural network model?",
+              "options": {
+                "A": "model.compile()",
+                "B": "model.add()",
+                "C": "model.fit()",
+                "D": "model.add_layer()"
+              },
+              "answer": "model.add()",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 49,
+              "question": "What type of algorithm is K-nearest neighbors (KNN)?",
+              "options": {
+                "A": "Supervised learning",
+                "B": "Unsupervised learning",
+                "C": "Semi-supervised learning",
+                "D": "Reinforcement learning"
+              },
+              "answer": "Supervised learning",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 50,
+              "question": "Which layer in a CNN is responsible for reducing spatial dimensions and controlling overfitting?",
+              "options": {
+                "A": "Convolutional layer",
+                "B": "MaxPooling layer",
+                "C": "Dense layer",
+                "D": "Flatten layer"
+              },
+              "answer": "MaxPooling layer",
+              "answer_number": ["B"]
+            }
+          ]
+        },
+        {
+          "quiz_set": "SP24_FE",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Choose the one that best describes of Bar chart",
+              "options": {
+                "A": "It is a type of plot which displays information as a series of data points called 'markers' connected by straight line segments.",
+                "B": "It is a way of representing the frequency distribution of a variable.",
+                "C": "It is commonly used to compare the values of a variable at a given point in time.",
+                "D": "It is a circular statistical graphic divided into slices to illustrate numerical proportion."
+              },
+              "answer": "It is commonly used to compare the values of a variable at a given point in time.",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 2,
+              "question": "Data is collected when a client makes a ____ request to a server.",
+              "options": {
+                "A": "PORT",
+                "B": "GET",
+                "C": "PUT",
+                "D": "HTTP"
+              },
+              "answer": "GET",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 3,
+              "question": "What is the first phase in data analysis?",
+              "options": {
+                "A": "Ask",
+                "B": "Act",
+                "C": "Prepare",
+                "D": "Process"
+              },
+              "answer": "Ask",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 4,
+              "question": "The following code is an example of (df['len']-df['len'].mean()) / df['len'].std()?",
+              "options": {
+                "A": "z-score",
+                "B": "t-score",
+                "C": "m-score",
+                "D": "r-score"
+              },
+              "answer": "z-score",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 5,
+              "question": "How would you rename the column \"point\" to \"location\"?",
+              "options": {
+                "A": "df.rename(columns={\"point\": \"location\"}, inplace=True)",
+                "B": "df.change(columns={\"location\": \"point\"}, inplace=True)",
+                "C": "df.rename(columns={\"location\": \"point\"}, inplace=True)",
+                "D": "df.change(columns={\"point\": \"location\"}, inplace=True)"
+              },
+              "answer": "df.rename(columns={\"point\": \"location\"}, inplace=True)",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 6,
+              "question": "Choose the one that best describes of Waffle chart",
+              "options": {
+                "A": "It is a depiction of the frequency of different words in some textual data.",
+                "B": "It is a circular statistical graphic divided into slices to illustrate numerical proportions.",
+                "C": "It is a way of representing the frequency distribution of a variable.",
+                "D": "It is an interesting visualization that is normally created to display progress toward goals."
+              },
+              "answer": "It is an interesting visualization that is normally created to display progress toward goals.",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 7,
+              "question": "A development project has missed several deadlines and appears they will be missing the next one. A new project leader has been brought in. What would be the first step to get the project on track?",
+              "options": {
+                "A": "Perform a root cause analysis",
+                "B": "Assess individual performance by performing interviews",
+                "C": "Evaluate the efficiency of the platforms being used.",
+                "D": "Make a pie chart to identify a new timeline."
+              },
+              "answer": "Perform a root cause analysis",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 8,
+              "question": "Consider the following equation, what is the parameter x? Y= b0 + b1x",
+              "options": {
+                "A": "the predictor",
+                "B": "the target",
+                "C": "the intercept",
+                "D": "the slope"
+              },
+              "answer": "the predictor",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 9,
+              "question": "What task does the method value_counts perform?",
+              "options": {
+                "A": "get total of data except nan value",
+                "B": "get number row of data",
+                "C": "return counts of unique values",
+                "D": "return total of numeric"
+              },
+              "answer": "return counts of unique values",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 10,
+              "question": "In the Python list for days of the week, what is the index value of Wednesday? Days = [\"Sunday\", \"Monday\", \"Tuesday\", \"Wednesday\", \"Thursday\", \"Friday\", \"Saturday\"]",
+              "options": {
+                "A": "[3]",
+                "B": "[4]",
+                "C": "\"Wednesday\"",
+                "D": "[-4]"
+              },
+              "answer": "[3]",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 11,
+              "question": "A junior analyst collects data on the effects of a recent process change. The effects are mostly unfavorable. Where should the focus on rectifying these effects lie?",
+              "options": {
+                "A": "The individual effects",
+                "B": "The source of the effects - the problem itself",
+                "C": "The stakeholders involved with the process change",
+                "D": "The original project manager of the process change"
+              },
+              "answer": "The source of the effects - the problem itself",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 12,
+              "question": "Which of these statements is true about the deployment of a chatbot application?",
+              "options": {
+                "A": "You need to re-deploy your chatbot every time you change the dialog within Watson Assistant.",
+                "B": "You don't need to re-deploy your chatbot every time you change the dialog within Watson Assistant.",
+                "C": "You don't need to dispose your chatbot every time you change the content within Watson Assistant.",
+                "D": "You don't need to re-deploy your chatbot every time you change the content within Watson Assistant."
+              },
+              "answer": "You don't need to re-deploy your chatbot every time you change the dialog within Watson Assistant.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 13,
+              "question": "Which state does a data analyst compare with the ideal state to determine what data needs to be captured?",
+              "options": {
+                "A": "Relative",
+                "B": "Sick",
+                "C": "Current",
+                "D": "Absolute"
+              },
+              "answer": "Current",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 14,
+              "question": "Facebook Messenger and .... are integration options within Watson Assistant from the Add Integration button. Choose the best answer.",
+              "options": {
+                "A": "Slack",
+                "B": "Google Search",
+                "C": "Yahoo messenger",
+                "D": "Github"
+              },
+              "answer": "Slack",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 15,
+              "question": "In Watson Assistant, what is an Intents? Choose the best answer.",
+              "options": {
+                "A": "Intents are purposes or goals that are expressed in a customer's input.",
+                "B": "Intents is a container for the artifacts that define the flow of a conversation that your assistant can have with your customers",
+                "C": "Intents is a Watson natural language processing service to understand user questions and respond the answers.",
+                "D": "Intents are a collection of questions that users will ask the virtual assistant."
+              },
+              "answer": "Intents are purposes or goals that are expressed in a customer's input.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 16,
+              "question": "Consider the following equation, what is the parameter b0? Y= b0 + b1x",
+              "options": {
+                "A": "the predictor",
+                "B": "the target",
+                "C": "the intercept",
+                "D": "the slope"
+              },
+              "answer": "the intercept",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 17,
+              "question": "Choose the best describes of Choropleth map",
+              "options": {
+                "A": "A choropleth map is a thematic map in which areas are shaded in proportion to the measurement of the statistical variable being displayed on the map",
+                "B": "A choropleth map is a thematic map in which areas are patterned in proportion to the measurement of the statistical variable being displayed on the map",
+                "C": "A choropleth map is a thematic map in which areas are shaded or patterned in proportion to the measurement of the statistical variable being displayed on the map",
+                "D": "None of the others"
+              },
+              "answer": "A choropleth map is a thematic map in which areas are shaded or patterned in proportion to the measurement of the statistical variable being displayed on the map",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 18,
+              "question": "What task does the following line of code perform? df['price'].replace(np.nan, 100, inplace=True)",
+              "options": {
+                "A": "replace the not a number values with 100 in the column 'price'",
+                "B": "replace the not a text values with 100 in the column 'price'",
+                "C": "add the not a number values with 100 in the column 'price'",
+                "D": "add the not a null values with 100 in the column 'price'"
+              },
+              "answer": "replace the not a number values with 100 in the column 'price'",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 19,
+              "question": "Who will answer the question \"which course should I take to learn about chatbots\"?",
+              "options": {
+                "A": "Chatbots",
+                "B": "Student support service",
+                "C": "Both student support service and chatbots",
+                "D": "None of the answers"
+              },
+              "answer": "Both student support service and chatbots",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 20,
+              "question": ".... is a type of plot that displays values pertaining to typically two variables against each other. Choose the best answer.",
+              "options": {
+                "A": "box plot",
+                "B": "scatter plot",
+                "C": "Histogram",
+                "D": "Pie chart"
+              },
+              "answer": "scatter plot",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 21,
+              "question": "What is the meaning of Mean Squared Error(MSE)?",
+              "options": {
+                "A": "find the difference between the actual values and the predicted values then square it.",
+                "B": "find the difference between the predictor values and the predicted values then square it.",
+                "C": "find the difference between the intercept values and the predicted values then square it.",
+                "D": "find the difference between the slope values and the predicted values then square it."
+              },
+              "answer": "find the difference between the actual values and the predicted values then square it.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 22,
+              "question": "In the Python array for months of the year, a developer was asked to use the print command to display \"October\". When the developer ran the block, \"November\" was displayed instead. Assuming that the calendar months are consecutive, beginning in January, what is the most likely cause for this?",
+              "options": {
+                "A": "The developer ran the code to display the value at the 11th place in the array.",
+                "B": "The developer ran the code to display the value at the 10th place in the array.",
+                "C": "Every month in the array was \"November\".",
+                "D": "The OS changed, and the subprocess created the error."
+              },
+              "answer": "The developer ran the code to display the value at the 11th place in the array.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 23,
+              "question": "A developer runs a ls command and sees the following files in their cwd: /user/Animals/Dogs/dogBreeds.txt, /user/Animals/Dogs/dogNames.txt, /user/Animals/Dogs/Fido.png They realize they have accidentally duplicated dogBreeds as dogNames. How would the developer replace the dogNames file to be correct?",
+              "options": {
+                "A": "with open (\"/Users/Animals/Dogs/dogNames.txt\") as dogNames",
+                "B": "with open (\"/Users/Animals/Dogs/dogNames.txt\", \"r\") as dogNames",
+                "C": "with open(\"/Users/Animals/Dogs/dogNames.txt\", \"w\") as dogNames",
+                "D": "with open (\"/Users/Animals/Dogs/dogNames.txt\", \"w\") as dogNames"
+              },
+              "answer": "with open(\"/Users/Animals/Dogs/dogNames.txt\", \"w\") as dogNames",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 24,
+              "question": "If the predicted function is y=b0+b1x1+b2x2+b3x3+b4x4. The method is?",
+              "options": {
+                "A": "Multiple linear regression",
+                "B": "None linear regression",
+                "C": "Linear regression",
+                "D": "None of the others"
+              },
+              "answer": "Multiple linear regression",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 25,
+              "question": "Why are communication skills an important part of the first phase of data analysis?",
+              "options": {
+                "A": "To establish direct contact for needed updates.",
+                "B": "To communicate the results to stakeholders.",
+                "C": "To establish a process for change.",
+                "D": "To identify the specific goals that stakeholders have."
+              },
+              "answer": "To identify the specific goals that stakeholders have.",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 26,
+              "question": "What is a output of Watson Speech Service?",
+              "options": {
+                "A": "audio",
+                "B": "text",
+                "C": "json",
+                "D": "image"
+              },
+              "answer": "text",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 27,
+              "question": "What would be added to the command highest_gpas = grades to produce the highest number in an array of student GPAs?",
+              "options": {
+                "A": ".max",
+                "B": ".high()",
+                "C": ".max()",
+                "D": ".high"
+              },
+              "answer": ".max()",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 28,
+              "question": "A teacher has grades stored in an array. The array is: grades = np.array([100, 90, 77, 20, 99, 100]). What code will produce the lowest grade from the array, and assign it to a variable that will accurately describe the value assigned to it?",
+              "options": {
+                "A": "grades = grades.min()",
+                "B": "grades.min() = lowest_grade",
+                "C": "lowest_grade = grades.min()",
+                "D": "grades.min() = grades"
+              },
+              "answer": "lowest_grade = grades.min()",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 29,
+              "question": "What value of R2 (coefficient of determination) indicates your model performs best?",
+              "options": {
+                "A": "-1",
+                "B": "0",
+                "C": "1",
+                "D": "Infinity"
+              },
+              "answer": "1",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 30,
+              "question": "What is the value of p-value to represent strong correlation? Select the best answer",
+              "options": {
+                "A": "great than 0.1",
+                "B": "less than 0.1",
+                "C": "less than 0.05",
+                "D": "less than 0.001"
+              },
+              "answer": "less than 0.001",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 31,
+              "question": "Consider the following equation, what is the parameter Y? Y= b0 + b1x",
+              "options": {
+                "A": "the predictor",
+                "B": "the target",
+                "C": "the intercept",
+                "D": "the slope"
+              },
+              "answer": "the slope",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 32,
+              "question": "A teacher has the students' grades stored in an array. The teacher is evaluating the mean of each student's grade and dropping the lowest grade for the year. The array is: grades = np.array([100, 90, 77, 20, 99, 100]). What code will produce the mean grade and the lowest grade from the array?",
+              "options": {
+                "A": "grades = grades.mean(), min()",
+                "B": "grades = mean(), min()",
+                "C": "grades = grades.mean() and lowest_grade = grades.low()",
+                "D": "grades = grades.mean() and lowest_grade = grades.min()"
+              },
+              "answer": "grades = grades.mean() and lowest_grade = grades.min()",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 33,
+              "question": "An analyst on your team is forgetful about closing a file after they read the data. What can the analyst do to access the files needed without worrying about leaving a file unintentionally open?",
+              "options": {
+                "A": "Use a WITH statement in place of the open command",
+                "B": "Use a WITH statement with the open command",
+                "C": "Use the CLOSE statement prior to the open command",
+                "D": "Use the CLOSE statement in place of the open command"
+              },
+              "answer": "Use a WITH statement with the open command",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 34,
+              "question": "Choose the one that best describes of Area chart",
+              "options": {
+                "A": "It is commonly used to represent cumulated totals using numbers or percentages over time.",
+                "B": "It is a type of plot which displays information as a series of data points called 'markers' connected by straight line segments.",
+                "C": "It is a way of representing the frequency distribution of a variable.",
+                "D": "It is commonly used to compare the values of a variable at a given point in time."
+              },
+              "answer": "It is commonly used to represent cumulated totals using numbers or percentages over time.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 35,
+              "question": "A scatter plot is a mathematical diagram using Cartesian coordinates to display values for typically two variables for a set of data. What kind of relationship do the two variables have, in case of increasing trend.",
+              "options": {
+                "A": "Independent linear relationship",
+                "B": "Dependent cross relationship",
+                "C": "Dispositive multi-linear relationship",
+                "D": "Positive linear relationship"
+              },
+              "answer": "Positive linear relationship",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 36,
+              "question": "How would you access the column \"price\" from the dataframe df?",
+              "options": {
+                "A": "df['price']",
+                "B": "df.'price'",
+                "C": "df[price]",
+                "D": "df.column['price']"
+              },
+              "answer": "df['price']",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 37,
+              "question": "Choose the one that best describes of Seaborn",
+              "options": {
+                "A": "Seaborn is a Python visualization library based on scikit-learn",
+                "B": "Seaborn can effectively increase the number of lines of code to create a plot",
+                "C": "Seaborn is a Python visualization library that provides a high-level interface for drawing attractive statistical graphics",
+                "D": "All answer is correct"
+              },
+              "answer": "Seaborn is a Python visualization library that provides a high-level interface for drawing attractive statistical graphics",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 38,
+              "question": "A developer runs a ls command and sees the following files in their cwd: /user/Animals/Dogs/dogBreeds.txt, /user/Animals/Dogs/dogNames.txt, /user/Animals/Dogs/Fido.png They realize they have accidentally duplicated dogBreeds as dogNames. How would the developer replace the dogNames file to be correct?",
+              "options": {
+                "A": "with open (\"/Users/Animals/Dogs/dogNames.txt\") as dogNames",
+                "B": "with open (\"/Users/Animals/Dogs/dogNames.txt\", \"r\") as dogNames",
+                "C": "with open(\"/Users/Animals/Dogs/dogNames.txt\", \"w\") as dogNames",
+                "D": "with open (\"/Users/Animals/Dogs/dogNames.txt\", \"w\") as dogNames"
+              },
+              "answer": "with open(\"/Users/Animals/Dogs/dogNames.txt\", \"w\") as dogNames",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 39,
+              "question": "Consider the column 'size', select the correct code for simple feature scaling.",
+              "options": {
+                "A": "df['size'] = df[\"size\"]/df[\"size\"].max()",
+                "B": "df['size'] = df[\"size\"].max()",
+                "C": "df['size'] = df[\"size\"]*df[\"size\"].max()",
+                "D": "df['size'] = df[\"size\"]+df[\"size\"].max()"
+              },
+              "answer": "df['size'] = df[\"size\"]+df[\"size\"].max()",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 40,
+              "question": "Implementing a voice-based interface for Watson Assistant chatbots, there are three approaches. Choose the best answer",
+              "options": {
+                "A": "Phone calls, Watson Speech to Text APIs and Text Agent with Watson.",
+                "B": "Phone calls, Watson Text to Speech APIs and Voice Agent with Watson.",
+                "C": "Phone calls, Watson Speech to Text - Text to Speech APIs and Voice Agent with Watson.",
+                "D": "Phone calls, Watson Speech to Text - Text to Speech APIs and Text Agent with Watson."
+              },
+              "answer": "Phone calls, Watson Speech to Text - Text to Speech APIs and Voice Agent with Watson.",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 41,
+              "question": "Which code sample will produce the first five lines of a .csv file named \"dogs.csv\"?",
+              "options": {
+                "A": "dog_names = 'dogs.csv'\ndf = pandas.read_csv(dog_names)\ndf.head()",
+                "B": "dog_names = 'dogs.csv'\ndf = pandas.read_csv(dog_names)\ndf = [1-5]",
+                "C": "dog_names = 'dogs.csv'\ndf = pandas.read_csv(dog_names)\ndf = [0 - 4]",
+                "D": "dog_names = 'dogs.csv'\ndf = pandas.read_csv(dog_names)\ndf = x5"
+              },
+              "answer": "dog_names = 'dogs.csv'\ndf = pandas.read_csv(dog_names)\ndf.head()",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 42,
+              "question": "What should be investigated to assist with remediation when a process change error occurs?",
+              "options": {
+                "A": "source cause",
+                "B": "stakeholders involved",
+                "C": "purpose",
+                "D": "original intent"
+              },
+              "answer": "source cause",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 43,
+              "question": "A developer want to open a file for adding new data into the existing data in the file using this command with open(\"Users/Animals/Dogs/doNames.txt\") as dogName. What is missing from this code?",
+              "options": {
+                "A": "The 'r' mode",
+                "B": "The 'a' mode",
+                "C": "The 'x' mode",
+                "D": "The 'w' mode"
+              },
+              "answer": "The 'a' mode",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 44,
+              "question": "What attribute or method will give you the data type of each column?",
+              "options": {
+                "A": "dtypes",
+                "B": "ftypes",
+                "C": "ntypes",
+                "D": "types"
+              },
+              "answer": "dtypes",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 45,
+              "question": "In Watson Assistant, choose the best description of Dialog Skill?",
+              "options": {
+                "A": "A dialog skill uses just Watson natural language processing to understand user questions and respond the answers.",
+                "B": "A dialog skill uses just machine learning technologies to understand user questions and respond the answers.",
+                "C": "A dialog skill uses Watson natural language processing and machine learning technologies to understand user questions and respond the answers.",
+                "D": "None of the others"
+              },
+              "answer": "A dialog skill uses Watson natural language processing and machine learning technologies to understand user questions and respond the answers.",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 46,
+              "question": "What is the largest possible element resulting in the operation df.corr()?",
+              "options": {
+                "A": "1",
+                "B": "0",
+                "C": "+infinity",
+                "D": "mean value"
+              },
+              "answer": "1",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 47,
+              "question": "A developer has a list of popular cat names as follows: cat_names=np.array(['Felix', 'Garfield', 'Snowball']) The list needs to be updated to remove 'Felix' from the first spot and introduce the new name 'Oreo'. What code will replace 'Felix' with 'Oreo'?",
+              "options": {
+                "A": "cat_names[1] = \"Oreo\"",
+                "B": "cat_names[0] = \"Oreo\"",
+                "C": "cat_names[\"Felix\"] = \"Oreo\"",
+                "D": "cat_names.mv \"Felix\" \"Oreo\""
+              },
+              "answer": "cat_names[0] = \"Oreo\"",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 48,
+              "question": "You have dataframe df. to get a summary of all the columns, what is the method is used?",
+              "options": {
+                "A": "df.describe(include='all')",
+                "B": "df.describe(include='None')",
+                "C": "df.show(include='all')",
+                "D": "df.show(include='None')"
+              },
+              "answer": "df.describe(include='all')",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 49,
+              "question": "Describe the 3 main layers of Matplotlib Architecture. Choose the best answer.",
+              "options": {
+                "A": "End Layer; Middle Layer; Top Layer",
+                "B": "Backend Layer; Middle Layer; Front End Layer",
+                "C": "Hard Layer; Connect Layer; Display Layer",
+                "D": "Backend Layer; Artist Layer; Scripting Layer."
+              },
+              "answer": "Backend Layer; Artist Layer; Scripting Layer.",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 50,
+              "question": "Choose the best describes of Folium library",
+              "options": {
+                "A": "It is a powerful R library that helps you create several types of Leaflet maps",
+                "B": "It enables focus on the binding of data to a map for choropleth visualizations",
+                "C": "It enables focus on passing visualizations as markers on the map",
+                "D": "It enables both the binding of data to a map for choropleth visualizations as well as passing visualizations as markers on the map."
+              },
+              "answer": "It enables both the binding of data to a map for choropleth visualizations as well as passing visualizations as markers on the map.",
+              "answer_number": ["D"]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "field_explanations": {
+    "course_ID": "Mã môn học (Course ID). Ví dụ: CPV301.",
+    "quiz_sets": "Một mảng (array) chứa các bộ đề thi cho môn học này.",
+    "quiz_set": "Số thứ tự của bộ đề thi (Quiz Set number) trong mảng `quiz_sets`.",
+    "questions": "Một mảng (array) chứa danh sách các câu hỏi cho bộ đề tương ứng.",
+    "id": "Số thứ tự của câu hỏi trong bộ đề.",
+    "question": "Nội dung/văn bản của câu hỏi trắc nghiệm.",
+    "options": "Một đối tượng (object) chứa các lựa chọn trả lời. Key là chữ cái (A, B, C, D) và value là nội dung của lựa chọn đó.",
+    "answer": "Nội dung/văn bản của đáp án đúng. Đối với câu hỏi nhiều đáp án, các đáp án đúng được nối với nhau bằng ' and '.",
+    "answer_number": "Một mảng (array) chứa chữ cái (hoặc các chữ cái) của đáp án đúng. Ví dụ: ['A'] hoặc ['A', 'B'].",
+    "field_explanations": "Giải thích ý nghĩa của các trường trong cấu trúc JSON."
+  }
+}
