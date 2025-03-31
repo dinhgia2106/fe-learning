@@ -4332,6 +4332,718 @@
           ]
         }
       ]
+    },
+    {
+      "course_ID": "AIL303m",
+      "quiz_sets": [
+        {
+          "quiz_set": "SU24_FE",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Assume you have a data set that summarizes a marketing campaign with information related to prospective customers. The data set contains 100 observations with several columns that summarize information about the prospective customer. It also has a column that flags whether the prospect responded or not.\nA machine learning model that predicts response, is using the column Responded as:",
+              "options": {
+                "A": "sample",
+                "B": "features",
+                "C": "target",
+                "D": "example"
+              },
+              "answer": "target",
+              "answer_number": [
+                "C"
+              ]
+            },
+            {
+              "id": 2,
+              "question": "What is the goal of machine learning?",
+              "options": {
+                "A": "The goal of machine learning is to achieve high accuracy in prediction for future examples, not for the training ones",
+                "B": "The goal of machine learning is to achieve high accuracy in prediction for future examples, and for the training ones",
+                "C": "The goal of machine learning is to achieve low accuracy in prediction for future examples, high accuracy for the training phase",
+                "D": "The goal of machine learning is to achieve low accuracy in prediction for future examples, and low accuracy for the training phase"
+              },
+              "answer": "The goal of machine learning is to achieve high accuracy in prediction for future examples, not for the training ones",
+              "answer_number": [
+                "A"
+              ]
+            },
+            {
+              "id": 3,
+              "question": "What are the first two steps of a typical machine learning workflow?",
+              "options": {
+                "A": "Problem statement and data cleaning.",
+                "B": "Problem statement and data collection.",
+                "C": "Data collection and data transformation.",
+                "D": "None of the others"
+              },
+              "answer": "Problem statement and data collection.",
+              "answer_number": [
+                "B"
+              ]
+            },
+            {
+              "id": 4,
+              "question": "The data below appears in 'data.txt', and Pandas has been imported. Which Python command will read it correctly into a Pandas DataFrame?\n63.03 22.55 39.61 40.48 98.67 -0.25 AB\n39.06 10.06 25.02 29 114.41\n4.56 AB\n68.83 22.22 50.09 46.61 105.99-3.53 AB",
+              "options": {
+                "A": "pandas.read('data.txt')",
+                "B": "pandas.read_csv('data.txt', header=None, sep=' ')",
+                "C": "pandas.read_csv('data.txt', delim_whitespace=True)",
+                "D": "pandas.read_csv('data.txt', header=0, delim_whitespace=True)"
+              },
+              "answer": "pandas.read_csv('data.txt', header=None, sep=' ')",
+              "answer_number": [
+                "B"
+              ]
+            },
+            {
+              "id": 5,
+              "question": "There are several SQL databases available such as",
+              "options": {
+                "A": "MySQL",
+                "B": "PostgreSQL",
+                "C": "MongoDB",
+                "D": "Cassandra"
+              },
+              "answer": "MySQL; PostgreSQL",
+              "answer_number": [
+                "A",
+                "B"
+              ]
+            },
+            {
+              "id": 6,
+              "question": "Which of the following is an example of a file type that uses Javascript Object Notation JSON) formatting?",
+              "options": {
+                "A": "Python (py files)",
+                "B": "Javascript (js files)",
+                "C": "SQL Database (sql files)",
+                "D": "Jupyter/iPython (ipynb files)"
+              },
+              "answer": "Jupyter/iPython (ipynb files)",
+              "answer_number": [
+                "D"
+              ]
+            },
+            {
+              "id": 7,
+              "question": "Why is EDA Useful?",
+              "options": {
+                "A": "EDA allows us to get an initial feel for the data.",
+                "B": "It lets us determine if the data makes sense, or if further cleaning or more data is needed.",
+                "C": "EDA does not help to identify patterns and trends in the data",
+                "D": "None of these"
+              },
+              "answer": "EDA allows us to get an initial feel for the data.; It lets us determine if the data makes sense, or if further cleaning or more data is needed.",
+              "answer_number": [
+                "A",
+                "B"
+              ]
+            },
+            {
+              "id": 8,
+              "question": "What are polynomial features?",
+              "options": {
+                "A": "They are higher order relationships in the data.",
+                "B": "They are logistic regression coefficients.",
+                "C": "They are lower order relationships in the data.",
+                "D": "They are represented by linear relationships in the data."
+              },
+              "answer": "They are higher order relationships in the data.",
+              "answer_number": [
+                "A"
+              ]
+            },
+            {
+              "id": 9,
+              "question": "Which variable transformation should you use for ordinal data?",
+              "options": {
+                "A": "Standard scaling",
+                "B": "One-hot encoding",
+                "C": "Ordinal encoding",
+                "D": "Min-max scaling"
+              },
+              "answer": "Ordinal encoding",
+              "answer_number": [
+                "C"
+              ]
+            },
+            {
+              "id": 10,
+              "question": "What is p-value in statistical hypothesis testing?",
+              "options": {
+                "A": "The probability of making a Type I error",
+                "B": "The probability of rejecting a true null hypothesis",
+                "C": "The probability of accepting a false null hypothesis",
+                "D": "The probability of observing the data given that the null hypothesis is true"
+              },
+              "answer": "The probability of observing the data given that the null hypothesis is true",
+              "answer_number": [
+                "D"
+              ]
+            },
+            {
+              "id": 11,
+              "question": "The most common way of estimating parameters in a parametric model is:",
+              "options": {
+                "A": "using the maximum likelihood estimation",
+                "B": "using the central limit theorem",
+                "C": "extrapolating a non-parametric model",
+                "D": "extrapolating Bayesian statistics"
+              },
+              "answer": "using the maximum likelihood estimation",
+              "answer_number": [
+                "A"
+              ]
+            },
+            {
+              "id": 12,
+              "question": "What is the purpose of point estimation in statistics?",
+              "options": {
+                "A": "To estimate a range of values for a parameter",
+                "B": "To summarize the central tendency of a dataset",
+                "C": "To provide a single value as the best guess for a parameter",
+                "D": "To assess the variability of a dataset"
+              },
+              "answer": "To provide a single value as the best guess for a parameter",
+              "answer_number": [
+                "C"
+              ]
+            },
+            {
+              "id": 13,
+              "question": "What role does feature engineering play in the machine learning process?",
+              "options": {
+                "A": "It involves optimizing model hyperparameters",
+                "B": "It refers to the creation of complex algorithms for model training.",
+                "C": "It focuses on selecting and transforming input variables to enhance model performance",
+                "D": "It is irrelevant in the context of machine learning."
+              },
+              "answer": "It focuses on selecting and transforming input variables to enhance model performance",
+              "answer_number": [
+                "C"
+              ]
+            },
+            {
+              "id": 14,
+              "question": "The autocorrect on your phone is an example of:",
+              "options": {
+                "A": "Unsupervised learning",
+                "B": "Supervised learning",
+                "C": "Semi-supervised learning",
+                "D": "Reinforcement learning"
+              },
+              "answer": "Supervised learning",
+              "answer_number": [
+                "B"
+              ]
+            },
+            {
+              "id": 15,
+              "question": "What is the purpose of splitting a dataset into training and test sets in machine learning?",
+              "options": {
+                "A": "To increase the size of the training set for better model performance",
+                "B": "To reduce overfitting by evaluating the model on unseen data",
+                "C": "To improve the computational efficiency of model training",
+                "D": "To introduce randomness and diversity in the training process"
+              },
+              "answer": "To reduce overfitting by evaluating the model on unseen data",
+              "answer_number": [
+                "B"
+              ]
+            },
+            {
+              "id": 16,
+              "question": "If a low-complexity model is underfitting during estimation, which of the following is MOST LIKELY true (holding the model constant)?",
+              "options": {
+                "A": "K-fold cross-validation will still lead to underfitting, for any k.",
+                "B": "K-cross-validation with a small k will reduce or eliminate underfitting.",
+                "C": "K-fold cross-validation with a large k will reduce or eliminate underfitting.",
+                "D": "None of the above."
+              },
+              "answer": "K-fold cross-validation will still lead to underfitting, for any k.",
+              "answer_number": [
+                "A"
+              ]
+            },
+            {
+              "id": 17,
+              "question": "In the context of linear regression, what is the purpose of regularization techniques such as Lasso and Ridge?",
+              "options": {
+                "A": "To increase the complexity of the model",
+                "B": "To add noise to the dataset",
+                "C": "To reduce overfitting and stabilize coefficient estimates",
+                "D": "To introduce non-linearity in the regression relationship"
+              },
+              "answer": "To reduce overfitting and stabilize coefficient estimates",
+              "answer_number": [
+                "C"
+              ]
+            },
+            {
+              "id": 18,
+              "question": "What is the main disadvantage of using a high-degree polynomial in Polynomial Regression?",
+              "options": {
+                "A": "It is computationally expensive",
+                "B": "It may lead to overfitting",
+                "C": "It always results in underfitting",
+                "D": "It converges slowly"
+              },
+              "answer": "It may lead to overfitting",
+              "answer_number": [
+                "B"
+              ]
+            },
+            {
+              "id": 19,
+              "question": "What is the most common sklearn methods to add polynomial features to your data?",
+              "options": {
+                "A": "polyFeat.add and polyFeat.transform",
+                "B": "polyFeat.add and polyFeat.fit",
+                "C": "polyFeat.fit and polyFeat.transform",
+                "D": "polyFeat.transform"
+              },
+              "answer": "polyFeat.fit and polyFeat.transform",
+              "answer_number": [
+                "C"
+              ]
+            },
+            {
+              "id": 20,
+              "question": "Which problem in machine learning does regularization primarily address?",
+              "options": {
+                "A": "Overfitting",
+                "B": "Underfitting",
+                "C": "Both overfitting and underfitting",
+                "D": "Feature engineering"
+              },
+              "answer": "Overfitting",
+              "answer_number": [
+                "A"
+              ]
+            },
+            {
+              "id": 21,
+              "question": "What is the role of the regularization parameter in the regularization process?",
+              "options": {
+                "A": "It controls the overall strength of regularization",
+                "B": "It sets the learning rate for the optimization algorithm",
+                "C": "It defines the number of iterations in model training",
+                "D": "It has no impact on regularization"
+              },
+              "answer": "It controls the overall strength of regularization",
+              "answer_number": [
+                "A"
+              ]
+            },
+            {
+              "id": 22,
+              "question": "Which of the following statements is FALSE?",
+              "options": {
+                "A": "In Analytic View, increasing L2/L1 penalties force coefficients to be smaller, restricting their plausible range.",
+                "B": "Under the Geometric formulation, the cost function minimum is found at the intersection of the penalty boundary and a contour of the traditional OLS cost function surface.",
+                "C": "Under the Probabilistic formulation, L2 (Ridge) regularization imposes Gaussian prior on the coefficients,while L1 (Lasso) regularization imposes Laplacian prior.",
+                "D": "None of the others"
+              },
+              "answer": "None of the others",
+              "answer_number": [
+                "D"
+              ]
+            },
+            {
+              "id": 23,
+              "question": "Compared with Lasso regression (assuming similar implementation), Ridge regression is:",
+              "options": {
+                "A": "less likely to overfit to training data.",
+                "B": "more likely to overfit to training data.",
+                "C": "less likely to set feature coefficients to zero.",
+                "D": "more likely to set feature coefficients to zero."
+              },
+              "answer": "less likely to set feature coefficients to zero.",
+              "answer_number": [
+                "C"
+              ]
+            },
+            {
+              "id": 24,
+              "question": "How does increasing the regularization strength (lambda) in Lasso regularization affect the sparsity of the solution?",
+              "options": {
+                "A": "Higher lambda encourages sparser solutions",
+                "B": "Lower lambda encourages sparser solutions",
+                "C": "Lambda has no effect on sparsity",
+                "D": "Lambda encourages equalization of coefficients"
+              },
+              "answer": "Higher lambda encourages sparser solutions",
+              "answer_number": [
+                "A"
+              ]
+            },
+            {
+              "id": 25,
+              "question": "Which statement about Logistic Regression is TRUE?",
+              "options": {
+                "A": "Logistic Regression is a generalized linear model.",
+                "B": "Logistic Regression models can only predict variables with 2 classes.",
+                "C": "Logistic Regression models can be used for classification but not for regression.",
+                "D": "Logistic Regression models cannot be used for regression and classification."
+              },
+              "answer": "Logistic Regression is a generalized linear model.",
+              "answer_number": [
+                "A"
+              ]
+            },
+            {
+              "id": 26,
+              "question": "What does the term \"precision\" measure in the context of classification metrics?",
+              "options": {
+                "A": "The ability to correctly identify positive instances",
+                "B": "The ability to correctly identify negative instances",
+                "C": "The proportion of actual positive instances correctly identified",
+                "D": "The trade-off between precision and recall"
+              },
+              "answer": "The ability to correctly identify positive instances",
+              "answer_number": [
+                "A"
+              ]
+            },
+            {
+              "id": 27,
+              "question": "Usually the first step to fit a k nearest neighbor classifier using scikit learn is to:\n. import KNN from the sklearn.knearest neighbors module\ne.g. from sklearn.knearestneighbors import KNN\nB. import Kneighbors Classifier from the sklearn.neighbors module\ne.g. from sklearn.neighbors import KNeighbors Classifier\nC. import Classifier from the sklearn.nearestneighbors module\ne.g. from sklearn.nearest neighbors import Classifier\nD. import KNNClassifier from the sklearn.knearestneighbors module\ne.g. from sklearn.knearest neighbors import KNNClassifier",
+              "options": {
+                "A": "e.g. from sklearn.knearestneighbors import KNN",
+                "B": "import Kneighbors Classifier from the sklearn.neighbors module\ne.g. from sklearn.neighbors import KNeighbors Classifier",
+                "C": "import Classifier from the sklearn.nearestneighbors module\ne.g. from sklearn.nearest neighbors import Classifier",
+                "D": "import KNNClassifier from the sklearn.knearestneighbors module\ne.g. from sklearn.knearest neighbors import KNNClassifier"
+              },
+              "answer": "import Kneighbors Classifier from the sklearn.neighbors module\ne.g. from sklearn.neighbors import KNeighbors Classifier",
+              "answer_number": [
+                "B"
+              ]
+            },
+            {
+              "id": 28,
+              "question": "In SVM, what is the purpose of support vectors?",
+              "options": {
+                "A": "They are used to define the margin between classes.",
+                "B": "They are outliers that are ignored during training.",
+                "C": "They are the data points that lie closest to the decision boundary.",
+                "D": "They are the weights assigned to features in the input data."
+              },
+              "answer": "They are the data points that lie closest to the decision boundary.",
+              "answer_number": [
+                "C"
+              ]
+            },
+            {
+              "id": 29,
+              "question": "Which statement about Support Vector Machines is TRUE?",
+              "options": {
+                "A": "Support Vector Machine models are non-linear.",
+                "B": "Support Vector Machine models rarely overfit on training data if using regularization.",
+                "C": "Support Vector Machine models can be used for classification but not for regression.",
+                "D": "Support Vector Machine models can be used for regression but not for classification."
+              },
+              "answer": "Support Vector Machine models rarely overfit on training data if using regularization.",
+              "answer_number": [
+                "B"
+              ]
+            },
+            {
+              "id": 30,
+              "question": "Decision Tree algorithm can use for",
+              "options": {
+                "A": "Data Cleaning",
+                "B": "Feature Engineering",
+                "C": "Classification and Regression",
+                "D": "Hyperparameter Tuning"
+              },
+              "answer": "Classification and Regression",
+              "answer_number": [
+                "C"
+              ]
+            },
+            {
+              "id": 31,
+              "question": "This is the best way to choose the number of trees to build on a Bagging ensemble.",
+              "options": {
+                "A": "Choose a large number of trees, typically above 100",
+                "B": "Prioratize training error metrics over out of bag sample",
+                "C": "Tune number of trees as a hyperparameter that needs to be optimized",
+                "D": "Choose a number of trees past the point of diminishing returns"
+              },
+              "answer": "Tune number of trees as a hyperparameter that needs to be optimized",
+              "answer_number": [
+                "C"
+              ]
+            },
+            {
+              "id": 32,
+              "question": "What is the impact of increasing the number of trees in a Random Forest on its performance?",
+              "options": {
+                "A": "Improved model interpretability",
+                "B": "Increased risk of overfitting",
+                "C": "Decreased computational efficiency",
+                "D": "Enhanced model generalization"
+              },
+              "answer": "Enhanced model generalization",
+              "answer_number": [
+                "D"
+              ]
+            },
+            {
+              "id": 33,
+              "question": "What does synthetic oversampling technique in handling imbalanced datasets do?",
+              "options": {
+                "A": "It involves creating entirely new features for the minority class",
+                "B": "It generates synthetic samples for the minority class to balance the dataset",
+                "C": "It randomly removes samples from both classes",
+                "D": "It focuses on increasing the size of the majority class"
+              },
+              "answer": "It generates synthetic samples for the minority class to balance the dataset",
+              "answer_number": [
+                "B"
+              ]
+            },
+            {
+              "id": 34,
+              "question": "Which of the following statements is true about downsampling in imbalanced datasets?",
+              "options": {
+                "A": "Downsampling always leads to better model performance",
+                "B": "Downsampling involves removing samples from the majority class",
+                "C": "Downsampling is primarily used to increase the size of the dataset",
+                "D": "Downsampling has no impact on the distribution of classes"
+              },
+              "answer": "Downsampling involves removing samples from the majority class",
+              "answer_number": [
+                "B"
+              ]
+            },
+            {
+              "id": 35,
+              "question": "Which of the following is a common metric used to evaluate models in the presence of imbalanced classes?",
+              "options": {
+                "A": "Accuracy",
+                "B": "Mean Squared Error",
+                "C": "R-squared",
+                "D": "F1 Score"
+              },
+              "answer": "F1 Score",
+              "answer_number": [
+                "D"
+              ]
+            },
+            {
+              "id": 36,
+              "question": "Which of the following statements is true regarding Random and Synthetic Over Sampling in the context of\nimbalanced datasets?",
+              "options": {
+                "A": "Random Over Sampling duplicates random instances of the minority class to balance the dataset, while Synthetic Over Sampling generates new synthetic instances.",
+                "B": "Random Over Sampling generates new synthetic instances of the minority class, while Synthetic Over Sampling duplicates random instances.",
+                "C": "Random Over Sampling and Synthetic Over Sampling both involve duplicating random instances of the minority class.",
+                "D": "Random Over Sampling and Synthetic Over Sampling are identical techniques with different names."
+              },
+              "answer": "Random Over Sampling duplicates random instances of the minority class to balance the dataset, while Synthetic Over Sampling generates new synthetic instances.",
+              "answer_number": [
+                "A"
+              ]
+            },
+            {
+              "id": 37,
+              "question": "The stratified sampling technique in machine learning is used?",
+              "options": {
+                "A": "To create a balanced dataset",
+                "B": "To reduce the number of features",
+                "C": "To ensure that each class is represented proportionally in training and testing sets",
+                "D": "To increase the size of the dataset"
+              },
+              "answer": "To ensure that each class is represented proportionally in training and testing sets",
+              "answer_number": [
+                "C"
+              ]
+            },
+            {
+              "id": 38,
+              "question": "What is a potential challenge associated with the K-means algorithm?",
+              "options": {
+                "A": "It is sensitive to the initial choice of centroids and can converge to local optima",
+                "B": "It always produces the same clusters regardless of the dataset",
+                "C": "It performs poorly on high-dimensional data",
+                "D": "It is only suitable for small datasets"
+              },
+              "answer": "It is sensitive to the initial choice of centroids and can converge to local optima",
+              "answer_number": [
+                "A"
+              ]
+            },
+            {
+              "id": 39,
+              "question": "The purpose of the K-means algorithm is",
+              "options": {
+                "A": "To find the optimal number of clusters",
+                "B": "To minimize the within-cluster variance",
+                "C": "To maximize the between-cluster variance",
+                "D": "To assign cluster labels based on proximity"
+              },
+              "answer": "To minimize the within-cluster variance",
+              "answer_number": [
+                "B"
+              ]
+            },
+            {
+              "id": 40,
+              "question": "Which statement is a common use of Dimension Reduction in the real world?",
+              "options": {
+                "A": "Image tracking",
+                "B": "Explaining the relation between the amount of alcohol consumption and diabetes.",
+                "C": "Deep Learning",
+                "D": "Predicting whether a customer will return to a store to make a major purchase."
+              },
+              "answer": "Image tracking",
+              "answer_number": [
+                "A"
+              ]
+            },
+            {
+              "id": 41,
+              "question": "Which of these options is NOT an example of Unsupervised Learning?",
+              "options": {
+                "A": "Segmenting costumers into different groups.",
+                "B": "Reducing the size of a data set without losing too much information from our original data set.",
+                "C": "Explaining the relationship between an individual's income and the price they pay for a car.",
+                "D": "Grouping observations together to find similar patterns across them."
+              },
+              "answer": "Explaining the relationship between an individual's income and the price they pay for a car.",
+              "answer_number": [
+                "C"
+              ]
+            },
+            {
+              "id": 42,
+              "question": "What happen with our second cluster centroid when we use the probability formula?",
+              "options": {
+                "A": "When we use the probability formula, we put less weight on the points that are far away. So, our second cluster centroid is likely going to be closer.",
+                "B": "When we use the probability formula, we put more weight on the points that are far away. So, our second cluster centroid is likely going to be more distant.",
+                "C": "When we use the probability formula, we put more weight on the lighter centroids, because it will take more computational power to draw our clusters. So, the second cluster centroid is likely going to be less distant.",
+                "D": "When we use the probability formula, we put less weight on the points that are far away. So, our second cluster centroid is likely going to be more distant."
+              },
+              "answer": "When we use the probability formula, we put more weight on the points that are far away. So, our second cluster centroid is likely going to be more distant.",
+              "answer_number": [
+                "B"
+              ]
+            },
+            {
+              "id": 43,
+              "question": "When applying K-means clustering, what is the role of the hyperparameter K, and how does it impact the results?",
+              "options": {
+                "A": "K controls the learning rate and convergence speed",
+                "B": "K determines the number of clusters, influencing the final grouping of data points",
+                "C": "K represents the dimensionality of the feature space",
+                "D": "K is unrelated to clustering; it refers to the number of iterations"
+              },
+              "answer": "K determines the number of clusters, influencing the final grouping of data points",
+              "answer_number": [
+                "B"
+              ]
+            },
+            {
+              "id": 44,
+              "question": "What is one of the real-world solutions to fix the problems of the curse dimensionality?",
+              "options": {
+                "A": "Increase the size of the data set",
+                "B": "Use more computational power",
+                "C": "Reduce the dimension of the data set.",
+                "D": "Balance the classes of a data set"
+              },
+              "answer": "Reduce the dimension of the data set.",
+              "answer_number": [
+                "C"
+              ]
+            },
+            {
+              "id": 45,
+              "question": "What is the role of bandwidth in mean-shift clustering?",
+              "options": {
+                "A": "Controls convergence speed",
+                "B": "Determines cluster size",
+                "C": "Defines neighborhood size",
+                "D": "Sets the number of clusters"
+              },
+              "answer": "Defines neighborhood size",
+              "answer_number": [
+                "C"
+              ]
+            },
+            {
+              "id": 46,
+              "question": "The difference between Euclidean distance and Manhattan distance is",
+              "options": {
+                "A": "Euclidean distance considers only horizontal or vertical movements, while Manhattan distance allows diagonal movements.",
+                "B": "Euclidean distance is the sum of absolute differences, while Manhattan distance is the sum of squared differences.",
+                "C": "Euclidean distance measures the straight-line distance, while Manhattan distance measures the sum of absolute differences along each dimension",
+                "D": "Euclidean distance is only applicable to numerical data, while Manhattan distance is used for categorical data"
+              },
+              "answer": "Euclidean distance measures the straight-line distance, while Manhattan distance measures the sum of absolute differences along each dimension",
+              "answer_number": [
+                "C"
+              ]
+            },
+            {
+              "id": 47,
+              "question": "What is the major purpose of distance metrics in clustering?",
+              "options": {
+                "A": "To measure the physical distance between data points",
+                "B": "To quantify the similarity or dissimilarity between data points",
+                "C": "To determine the direction of data points",
+                "D": "To classify data points into predefined clusters"
+              },
+              "answer": "To quantify the similarity or dissimilarity between data points",
+              "answer_number": [
+                "B"
+              ]
+            },
+            {
+              "id": 48,
+              "question": "In PCA, how does the explained variance ratio of each principal component help in determining the optimal number of components?",
+              "options": {
+                "A": "By selecting components with the highest explained variance ratio",
+                "B": "By selecting components with the lowest explained variance ratio",
+                "C": "By ignoring the explained variance ratio and always using all components",
+                "D": "By using the cumulative explained variance ratio to find an elbow point in the scree plot"
+              },
+              "answer": "By using the cumulative explained variance ratio to find an elbow point in the scree plot",
+              "answer_number": [
+                "D"
+              ]
+            },
+            {
+              "id": 49,
+              "question": "What are the eigenvalues in PCA?",
+              "options": {
+                "A": "Eigenvalues represent the mean values of each feature",
+                "B": "Eigenvalues indicate the importance of each principal component in capturing variance",
+                "C": "Eigenvalues are the coefficients of the linear regression model in PCA",
+                "D": "Eigenvalues are not relevant in PCA"
+              },
+              "answer": "Eigenvalues indicate the importance of each principal component in capturing variance",
+              "answer_number": [
+                "B"
+              ]
+            },
+            {
+              "id": 50,
+              "question": "In PCA, what are principal components?",
+              "options": {
+                "A": "Data points in the dataset",
+                "B": "The features with the highest importance",
+                "C": "The eigenvectors of the covariance matrix",
+                "D": "The mean values of each feature"
+              },
+              "answer": "The eigenvectors of the covariance matrix",
+              "answer_number": [
+                "C"
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "field_explanations": {
