@@ -16,9 +16,7 @@
                 "D": "Phong assumes direct light paths, while in reality, sources may be shadowed, and inter-reflections occur"
               },
               "answer": "Phong assumes direct light paths, while in reality, sources may be shadowed, and inter-reflections occur",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 2,
@@ -30,9 +28,7 @@
                 "D": "Ray tracing for both matte and specular surfaces"
               },
               "answer": "Ray tracing for mostly specular surfaces and radiosity for mostly matte surfaces",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 3,
@@ -44,9 +40,7 @@
                 "D": "Scale 2 and translate 2 along x axis, keep unchanged to y axis"
               },
               "answer": "Scale 2 and translate 1 along x axis, translate 2 along y axis",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 4,
@@ -58,9 +52,7 @@
                 "D": "Creating three-dimensional representations of images"
               },
               "answer": "Extracting useful information and enhancing images",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 5,
@@ -72,9 +64,7 @@
                 "D": "Histogram equalization"
               },
               "answer": "Histogram equalization",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 6,
@@ -86,9 +76,7 @@
                 "D": "Color correction"
               },
               "answer": "Frequency analysis",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 7,
@@ -100,9 +88,7 @@
                 "D": "A higher sampling rate decreases frequency accuracy."
               },
               "answer": "A higher sampling rate increases frequency accuracy.",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 8,
@@ -114,9 +100,7 @@
                 "D": "Reduced memory requirements"
               },
               "answer": "Increased computational efficiency",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 9,
@@ -128,9 +112,7 @@
                 "D": "Upsampling in the opposite direction"
               },
               "answer": "Upsampling in the opposite direction",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 10,
@@ -142,9 +124,7 @@
                 "D": "Gaussian filtering whose inverse covariance matrix is this ellipsoid is used"
               },
               "answer": "Gaussian filtering whose inverse covariance matrix is this ellipsoid is used",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 11,
@@ -156,9 +136,7 @@
                 "D": "The frequency corresponding to the imaginary part of the spectrum"
               },
               "answer": "Half of the sampling frequency",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 12,
@@ -170,9 +148,7 @@
                 "D": "To maintain a consistent resampling rate"
               },
               "answer": "To minimize distortion during texture mapping",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 13,
@@ -184,9 +160,7 @@
                 "D": "The total number of iterations performed"
               },
               "answer": "The majority of inliers in the data set",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 14,
@@ -198,9 +172,7 @@
                 "D": "Low pixel intensity"
               },
               "answer": "High gradient magnitude",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 15,
@@ -212,9 +184,7 @@
                 "D": "Gradient space"
               },
               "answer": "Polar space",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 16,
@@ -226,9 +196,7 @@
                 "D": "IV"
               },
               "answer": "II",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 17,
@@ -240,9 +208,7 @@
                 "D": "Sobel (5x5)"
               },
               "answer": "Canny operator",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 18,
@@ -254,9 +220,7 @@
                 "D": "By discarding keypoints with varying orientations"
               },
               "answer": "By aligning keypoints based on dominant orientation",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 19,
@@ -268,9 +232,7 @@
                 "D": "Not at all"
               },
               "answer": "An image is broken into many regions using the characteristics of pixels to identify objects.",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 20,
@@ -282,9 +244,7 @@
                 "D": "Increase the image resolution"
               },
               "answer": "Negate the mask values",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 21,
@@ -296,10 +256,7 @@
                 "D": "Narrow range of a specific application"
               },
               "answer": "Computer development and Mathematical progress",
-              "answer_number": [
-                "A",
-                "B"
-              ]
+              "answer_number": ["A", "B"]
             },
             {
               "id": 22,
@@ -311,9 +268,7 @@
                 "D": "Robert operator"
               },
               "answer": "Second derivative",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 23,
@@ -325,9 +280,7 @@
                 "D": "All the above"
               },
               "answer": "All the above",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 24,
@@ -339,9 +292,7 @@
                 "D": "Kernels in an image"
               },
               "answer": "Number of clusters",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 25,
@@ -353,9 +304,7 @@
                 "D": "4"
               },
               "answer": "1",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 26,
@@ -367,9 +316,7 @@
                 "D": "To adjust the intensity of edge pixels"
               },
               "answer": "To penalize large deformations of the contour",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 27,
@@ -381,9 +328,7 @@
                 "D": "3"
               },
               "answer": "4",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 28,
@@ -395,9 +340,7 @@
                 "D": "The blurring effect caused by motion during image capture"
               },
               "answer": "Shift in the position of objects with a change in viewpoint",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 29,
@@ -409,9 +352,7 @@
                 "D": "Location of keypoints"
               },
               "answer": "Acceleration of objects",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 30,
@@ -423,9 +364,7 @@
                 "D": "All of the above"
               },
               "answer": "All of the above",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 31,
@@ -437,9 +376,7 @@
                 "D": "It maps two pixels that have similar intensity from two adjacent images"
               },
               "answer": "It is used in forensic and investigate science for the reconstruction of torn paper",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 32,
@@ -451,9 +388,7 @@
                 "D": "Brightness"
               },
               "answer": "Noise",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 33,
@@ -465,9 +400,7 @@
                 "D": "Image acquisition"
               },
               "answer": "Image stitching",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 34,
@@ -479,9 +412,7 @@
                 "D": "It detects instances of semantic objects of a certain class"
               },
               "answer": "It recognizes with a contour in the image",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 35,
@@ -493,9 +424,7 @@
                 "D": "Canny edge detection"
               },
               "answer": "RANSAC",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 36,
@@ -507,9 +436,7 @@
                 "D": "All of the above"
               },
               "answer": "All of the above",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 37,
@@ -519,9 +446,7 @@
                 "B": "False"
               },
               "answer": "True",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 38,
@@ -533,9 +458,7 @@
                 "D": "log(1-P)-(1-p^k)"
               },
               "answer": "log(1-P)/log(1-p^k)",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 39,
@@ -547,9 +470,7 @@
                 "D": "Recursive Alignment and Sampling for Numerical Convergence"
               },
               "answer": "Random Sample Consensus",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 40,
@@ -561,9 +482,7 @@
                 "D": "Employing kernel density estimation for feature matching"
               },
               "answer": "Iteratively estimating a model from a subset of inliers",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 41,
@@ -575,9 +494,7 @@
                 "D": "Brightness"
               },
               "answer": "Saturation",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 42,
@@ -589,9 +506,7 @@
                 "D": "Optical system"
               },
               "answer": "Sensor system",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 43,
@@ -603,9 +518,7 @@
                 "D": "Retina Net"
               },
               "answer": "Hog detector",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             }
           ]
         },
@@ -622,9 +535,7 @@
                 "D": "Build Pyramid"
               },
               "answer": "Blue Blur",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 2,
@@ -636,9 +547,7 @@
                 "D": "500nm-900nm"
               },
               "answer": "400nm-700nm",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 3,
@@ -650,9 +559,7 @@
                 "D": "None of the others"
               },
               "answer": "Image segmentation is the division of an image into regions or categories, which correspond to different objects or parts of objects.",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 4,
@@ -664,9 +571,7 @@
                 "D": "The digital images are created from digital cameras through a mechanical system."
               },
               "answer": "The digital image is a matrix of pixels.",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 5,
@@ -678,9 +583,7 @@
                 "D": "All of the others"
               },
               "answer": "Chromatic aberration is a failure of a lens to focus all colors to the same point.",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 6,
@@ -692,9 +595,7 @@
                 "D": "Discontinuous Fourier Transform"
               },
               "answer": "Discrete Fourier Transform",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 7,
@@ -706,9 +607,7 @@
                 "D": "Not of others"
               },
               "answer": "All of the others",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 8,
@@ -720,9 +619,7 @@
                 "D": "All the others"
               },
               "answer": "All the others",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 9,
@@ -734,9 +631,7 @@
                 "D": "Computer Vision is a task defined as the technical analysis of an image by using complex algorithms."
               },
               "answer": "Computer Vision is a field of computer science that enables the computer to understand just like a human.",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 10,
@@ -748,9 +643,7 @@
                 "D": "Correlation is measurement of the similarity between two image."
               },
               "answer": "Correlation is measurement of the similarity between two image.",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 11,
@@ -762,9 +655,7 @@
                 "D": "All of the others"
               },
               "answer": "Photometry is the science of the measurement of light, in terms of its perceived brightness to the human eye.",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 12,
@@ -776,9 +667,7 @@
                 "D": "Pattern Recognition"
               },
               "answer": "Pattern Recognition",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 13,
@@ -790,9 +679,7 @@
                 "D": "It represents the color groups."
               },
               "answer": "It represents the number of clusters.",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 14,
@@ -804,9 +691,7 @@
                 "D": "Multi pass filter"
               },
               "answer": "Elliptical Weighted Average (EWA) filter",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 15,
@@ -818,9 +703,7 @@
                 "D": "Bundle Adjustment"
               },
               "answer": "Recognizing panoramas",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 16,
@@ -832,9 +715,7 @@
                 "D": "Recognizing, identifying, and locating"
               },
               "answer": "Detection, identifying, and locating",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 17,
@@ -846,9 +727,7 @@
                 "D": "Noise remove( filters)"
               },
               "answer": "Feature description",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 18,
@@ -860,9 +739,7 @@
                 "D": "Cylindrical panoramas are the best of the lot, as they can be taken without the tripod being seen or the photographer's shadow."
               },
               "answer": "Spherical panoramas on the other hand not only capture the 360-degree view but also take into account the horizontal and vertical view.",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 19,
@@ -874,9 +751,7 @@
                 "D": "All of the others"
               },
               "answer": "It reduces the number of resources required to describe a large set of data",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 20,
@@ -888,9 +763,7 @@
                 "D": "All of others"
               },
               "answer": "All of others",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 21,
@@ -902,9 +775,7 @@
                 "D": "Features tracking"
               },
               "answer": "Contour tracking",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 22,
@@ -916,9 +787,7 @@
                 "D": "All of the others"
               },
               "answer": "Snakes model",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 23,
@@ -930,9 +799,7 @@
                 "D": "It is scaling, skewing, and rotation."
               },
               "answer": "It moves an object to a different position on the screen.",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 24,
@@ -944,9 +811,7 @@
                 "D": "Gaussian White filter"
               },
               "answer": "Anisotropic filtering",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 25,
@@ -958,9 +823,7 @@
                 "D": "All of the others"
               },
               "answer": "All of the others",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 26,
@@ -972,9 +835,7 @@
                 "D": "Eyes, eyebrows, jaw, neck, ear"
               },
               "answer": "Eyes, eyebrows, nose, mouth, jaw",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 27,
@@ -986,9 +847,7 @@
                 "D": "It is used in all filters to increase the brightness of the image."
               },
               "answer": "It is a small matrix used to clarify certain features.",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 28,
@@ -1000,9 +859,7 @@
                 "D": "It is a way of representing histogram in terms of light balance implementation"
               },
               "answer": "It improves an image by stretching the range of intensity values it contains.",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 29,
@@ -1014,9 +871,7 @@
                 "D": "All of the others"
               },
               "answer": "All of the others",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 30,
@@ -1028,9 +883,7 @@
                 "D": "Object recognition"
               },
               "answer": "Image segmentation",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 31,
@@ -1042,9 +895,7 @@
                 "D": "Watershed transformation"
               },
               "answer": "Watershed transformation",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 32,
@@ -1056,9 +907,7 @@
                 "D": "All of the others"
               },
               "answer": "All of the others",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 33,
@@ -1070,9 +919,7 @@
                 "D": "All of the others"
               },
               "answer": "All of the others",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 34,
@@ -1084,9 +931,7 @@
                 "D": "Semantic segmentation"
               },
               "answer": "Instance segmentation",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 35,
@@ -1098,9 +943,7 @@
                 "D": "All of the others"
               },
               "answer": "A convolution-based technique that produces an image description of the thin lines in an input image",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 36,
@@ -1112,9 +955,7 @@
                 "D": "K- nearest model"
               },
               "answer": "Mean shift model",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 37,
@@ -1126,9 +967,7 @@
                 "D": "It is never a good choice to detect the orientation of an image."
               },
               "answer": "It is a good performance on detecting vertical and horizontal edges",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 38,
@@ -1140,9 +979,7 @@
                 "D": "All of the others"
               },
               "answer": "All of the others",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 39,
@@ -1154,9 +991,7 @@
                 "D": "All of the others"
               },
               "answer": "All of the others",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 40,
@@ -1168,9 +1003,7 @@
                 "D": "Those are transformation techniques based on cluster-by-cluster processing."
               },
               "answer": "Those are transformation techniques based on pixel-by-pixel processing.",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 41,
@@ -1182,9 +1015,7 @@
                 "D": "The active sensing area size as a fraction of the theoretically available sensing area"
               },
               "answer": "Controls the amount of light reaching the sensor",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 42,
@@ -1196,9 +1027,7 @@
                 "D": "Based on the color of each pixel at the position I(x,y,t) relative to the overall image at time t+1"
               },
               "answer": "Given a pixel in I(x,y,t), look for nearby pixels of the same color in I(x,y,t+1)",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 43,
@@ -1210,9 +1039,7 @@
                 "D": "Find a few matching features in both images then compute alignment"
               },
               "answer": "Find a few matching features in both images then compute alignment",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 44,
@@ -1224,9 +1051,7 @@
                 "D": "Watershed Segmentation."
               },
               "answer": "Thresholding Segmentation.",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 45,
@@ -1238,9 +1063,7 @@
                 "D": "All of the others"
               },
               "answer": "All of the others",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 46,
@@ -1252,9 +1075,7 @@
                 "D": "Convolution based technique"
               },
               "answer": "Convolution based technique",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 47,
@@ -1266,9 +1087,7 @@
                 "D": "Histogram of oriented gradients"
               },
               "answer": "Histogram of oriented gradients",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 48,
@@ -1280,9 +1099,7 @@
                 "D": "Feature matching"
               },
               "answer": "Feature matching",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 49,
@@ -1294,9 +1111,7 @@
                 "D": "Edge descriptor"
               },
               "answer": "Edge detection.",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 50,
@@ -1308,9 +1123,7 @@
                 "D": "K- nearest model"
               },
               "answer": "Gaussian Mixture Models",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             }
           ]
         },
@@ -1327,9 +1140,7 @@
                 "D": "The first or second is correct"
               },
               "answer": "The first and second is correct",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 2,
@@ -1341,9 +1152,7 @@
                 "D": "All of the others"
               },
               "answer": "Using a direct pixel-based comparison between the registered images to determine if they actually are different views of the same scene.",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 3,
@@ -1355,9 +1164,7 @@
                 "D": "The illumination model describes inputs, assumptions, and outputs used to calculate the brightness of surface elements"
               },
               "answer": "The illumination model describes inputs, assumptions, and outputs used to calculate the brightness of surface elements",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 4,
@@ -1369,9 +1176,7 @@
                 "D": "All of the others"
               },
               "answer": "It enhance image structures at different scales.",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 5,
@@ -1383,9 +1188,7 @@
                 "D": "Image computing"
               },
               "answer": "Graph transformation",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 6,
@@ -1397,9 +1200,7 @@
                 "D": "Color spaces are mathematical models describing the way image can be represented."
               },
               "answer": "Color spaces are mathematical models describing the way image can be represented.",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 7,
@@ -1411,9 +1212,7 @@
                 "D": "All of the others"
               },
               "answer": "All of the others",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 8,
@@ -1425,9 +1224,7 @@
                 "D": "Point features"
               },
               "answer": "Point features",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 9,
@@ -1439,9 +1236,7 @@
                 "D": "The digital images are created from digital cameras through a mechanical system."
               },
               "answer": "The digital image is a matrix of pixels.",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 10,
@@ -1453,9 +1248,7 @@
                 "D": "K- nearest model"
               },
               "answer": "Mean shift model",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 11,
@@ -1467,9 +1260,7 @@
                 "D": "Watershed Segmentation."
               },
               "answer": "Thresholding Segmentation.",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 12,
@@ -1481,9 +1272,7 @@
                 "D": "Similarity transformation"
               },
               "answer": "Similarity transformation",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 13,
@@ -1495,9 +1284,7 @@
                 "D": "Noise remove( filters)"
               },
               "answer": "Feature description",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 14,
@@ -1509,9 +1296,7 @@
                 "D": "Object splitting"
               },
               "answer": "Region splitting",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 15,
@@ -1523,9 +1308,7 @@
                 "D": "It is used in all filters to increase the brightness of the image."
               },
               "answer": "It is a small matrix used to clarify certain features.",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 16,
@@ -1537,9 +1320,7 @@
                 "D": "HOG detector"
               },
               "answer": "Canny edge detector",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 17,
@@ -1551,9 +1332,7 @@
                 "D": "All of the others"
               },
               "answer": "Parallax is a key challenge that leads to inaccurate registration and ghosting effect of objects in the result. So it needs to remove.",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 18,
@@ -1565,9 +1344,7 @@
                 "D": "All of the others."
               },
               "answer": "It describes the proportion of light coming from each incident direction that is redirected to each reflected direction.",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 19,
@@ -1579,9 +1356,7 @@
                 "D": "All of the others"
               },
               "answer": "All of the others",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 20,
@@ -1593,9 +1368,7 @@
                 "D": "Face analysis"
               },
               "answer": "Face analysis",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 21,
@@ -1607,9 +1380,7 @@
                 "D": "In the K-Mean algorithm, in the same data group, the closer to the central data point, the larger the difference in data will be."
               },
               "answer": "It is used to identify data labels based on a given labeled dataset.",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 22,
@@ -1621,9 +1392,7 @@
                 "D": "All of the others"
               },
               "answer": "Image alignment is the process of matching one image called a template with another image.",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 23,
@@ -1635,9 +1404,7 @@
                 "D": "Semantic segmentation"
               },
               "answer": "Semantic segmentation",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 24,
@@ -1649,9 +1416,7 @@
                 "D": "Input is one or more images and output is an image."
               },
               "answer": "Input is an image and output is an image.",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 25,
@@ -1663,9 +1428,7 @@
                 "D": "Image processing performs tasks such as analyzing what objects are in the image"
               },
               "answer": "Image processing and computer vision are two different concepts.",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 26,
@@ -1677,9 +1440,7 @@
                 "D": "Edge descriptor"
               },
               "answer": "Edge detection.",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 27,
@@ -1691,9 +1452,7 @@
                 "D": "All of the others"
               },
               "answer": "All of the others",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 28,
@@ -1705,9 +1464,7 @@
                 "D": "All of the others"
               },
               "answer": "All of the others",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 29,
@@ -1719,9 +1476,7 @@
                 "D": "All of others"
               },
               "answer": "All of others",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 30,
@@ -1733,9 +1488,7 @@
                 "D": "All of the others."
               },
               "answer": "The shape of the cancerous cells plays a vital role in determining the severity of cancer.",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 31,
@@ -1747,9 +1500,7 @@
                 "D": "Gaussian White filter"
               },
               "answer": "Anisotropic filtering",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 32,
@@ -1761,9 +1512,7 @@
                 "D": "Convolution-based techniques"
               },
               "answer": "Neural network approaches",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 33,
@@ -1775,9 +1524,7 @@
                 "D": "Edge detection technique"
               },
               "answer": "Convolution based technique",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             }
           ]
         },
@@ -1794,9 +1541,7 @@
                 "D": "The digital images are created from digital cameras through a mechanical system."
               },
               "answer": "The digital image is a matrix of pixels.",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 2,
@@ -1808,9 +1553,7 @@
                 "D": "Flowing water"
               },
               "answer": "Watershed segmentation",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 3,
@@ -1822,9 +1565,7 @@
                 "D": "All of the others"
               },
               "answer": "The purpose of the technique is to find imperfect instances of objects within a certain class of shapes by a voting procedure.",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 4,
@@ -1836,9 +1577,7 @@
                 "D": "All of the others"
               },
               "answer": "All of the others",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 5,
@@ -1850,9 +1589,7 @@
                 "D": "Build Pyramid"
               },
               "answer": "Blue Blur",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 6,
@@ -1864,9 +1601,7 @@
                 "D": "Noise remove( filters)"
               },
               "answer": "Feature description",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 7,
@@ -1878,9 +1613,7 @@
                 "D": "None of the others"
               },
               "answer": "All of the others",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 8,
@@ -1892,9 +1625,7 @@
                 "D": "HOG detector"
               },
               "answer": "Prewitt operator",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 9,
@@ -1906,9 +1637,7 @@
                 "D": "It represents the color groups."
               },
               "answer": "It represents the number of clusters.",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 10,
@@ -1920,9 +1649,7 @@
                 "D": "Correlation is measurement of the similarity between two image."
               },
               "answer": "Correlation is measurement of the similarity between two image.",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 11,
@@ -1934,9 +1661,7 @@
                 "D": "Not of others"
               },
               "answer": "All of the others",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 12,
@@ -1948,9 +1673,7 @@
                 "D": "Object tracking"
               },
               "answer": "Object recognition",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 13,
@@ -1962,9 +1685,7 @@
                 "D": "depends on input"
               },
               "answer": "image only",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 14,
@@ -1976,9 +1697,7 @@
                 "D": "All of the others"
               },
               "answer": "All of the others",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 15,
@@ -1990,9 +1709,7 @@
                 "D": "All of the others"
               },
               "answer": "Mean shift implicitly models this distribution using a smooth continuous non-parametric model",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 16,
@@ -2004,9 +1721,7 @@
                 "D": "All of the others."
               },
               "answer": "Segmentation is the technique of dividing or partitioning an image into parts.",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 17,
@@ -2018,9 +1733,7 @@
                 "D": "All of the others"
               },
               "answer": "All of the others",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 18,
@@ -2032,9 +1745,7 @@
                 "D": "All of the others"
               },
               "answer": "The computer understands the image as a matrix of pixels.",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 19,
@@ -2046,9 +1757,7 @@
                 "D": "None of the others"
               },
               "answer": "All of the others",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 20,
@@ -2060,9 +1769,7 @@
                 "D": "500nm- 900nm"
               },
               "answer": "400nm- 700nm",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 21,
@@ -2074,9 +1781,7 @@
                 "D": "All of the others"
               },
               "answer": "All of the others",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 22,
@@ -2088,9 +1793,7 @@
                 "D": "Discontinuous Fourier Transform"
               },
               "answer": "Discrete Fourier Transform",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 23,
@@ -2102,9 +1805,7 @@
                 "D": "Based on the color of each pixel at the position I(x,y,t) relative to the overall image at time t+1"
               },
               "answer": "Given a pixel in I(x,y,t), look for nearby pixels of the same color in I(x,y,t+1)",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 24,
@@ -2116,9 +1817,7 @@
                 "D": "It is described as a multi-model for the process of segmentation."
               },
               "answer": "It defines a separate boundary or curvature for the regions of the target object for segmentation.",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 25,
@@ -2130,9 +1829,7 @@
                 "D": "Watershed transformation"
               },
               "answer": "Watershed transformation",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 26,
@@ -2144,9 +1841,7 @@
                 "D": "Geometrical registration and photometric registration."
               },
               "answer": "It is a process that includes two operations, image alignment, and blending.",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 27,
@@ -2158,9 +1853,7 @@
                 "D": "All of the others"
               },
               "answer": "Using a feature-based approach to remove objects from image frames. Then we get a completed panoramas image.",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 28,
@@ -2172,9 +1865,7 @@
                 "D": "Multi pass filter"
               },
               "answer": "Elliptical Weighted Average (EWA) filter",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 29,
@@ -2186,9 +1877,7 @@
                 "D": "Contour"
               },
               "answer": "Gradient",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 30,
@@ -2200,9 +1889,7 @@
                 "D": "All of the others"
               },
               "answer": "All of the others",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 31,
@@ -2214,9 +1901,7 @@
                 "D": "Feature-Based filter"
               },
               "answer": "Feature-Based alignment",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 32,
@@ -2228,9 +1913,7 @@
                 "D": "All of the others."
               },
               "answer": "The shape of the cancerous cells plays a vital role in determining the severity of cancer.",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 33,
@@ -2242,9 +1925,7 @@
                 "D": "None of the others"
               },
               "answer": "Cylindrical panoramic",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 34,
@@ -2256,9 +1937,7 @@
                 "D": "ppm"
               },
               "answer": "jpg",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 35,
@@ -2270,9 +1949,7 @@
                 "D": "It is scaling, skewing, and rotation."
               },
               "answer": "It moves an object to a different position on the screen.",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 36,
@@ -2284,9 +1961,7 @@
                 "D": "All of the others"
               },
               "answer": "All of the others",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 37,
@@ -2298,9 +1973,7 @@
                 "D": "Randomly"
               },
               "answer": "Randomly",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 38,
@@ -2312,9 +1985,7 @@
                 "D": "All of the others"
               },
               "answer": "All of the others",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 39,
@@ -2326,9 +1997,7 @@
                 "D": "Histogram of oriented gradients"
               },
               "answer": "Histogram of oriented gradients",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 40,
@@ -2340,9 +2009,7 @@
                 "D": "The image will stay the same size when you use white light as the source (sun)."
               },
               "answer": "The object is inverted.",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 41,
@@ -2354,9 +2021,7 @@
                 "D": "180"
               },
               "answer": "45",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 42,
@@ -2368,9 +2033,7 @@
                 "D": "Image histogram is used to synthesize colors in an image."
               },
               "answer": "It is a type of histogram that acts as a graphical representation of the tonal distribution in a digital image.",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 43,
@@ -2382,9 +2045,7 @@
                 "D": "All of the others"
               },
               "answer": "It enhance image structures at different scales.",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 44,
@@ -2396,9 +2057,7 @@
                 "D": "All of the others"
               },
               "answer": "Position address and intensity value",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 45,
@@ -2410,9 +2069,7 @@
                 "D": "All of the others"
               },
               "answer": "All of the others",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 46,
@@ -2424,9 +2081,7 @@
                 "D": "This approach requires an external mechanism to detect the object in every frame."
               },
               "answer": "Objects detected in consecutive frames are represented by object deterministic, probabilistic methods, and the association of the object is based on the previous object state which can include object position and motion.",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 47,
@@ -2438,9 +2093,7 @@
                 "D": "Gaussian White filter"
               },
               "answer": "Anisotropic filtering",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 48,
@@ -2452,9 +2105,7 @@
                 "D": "F(w)H*(w)"
               },
               "answer": "F(w)H(w)",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 49,
@@ -2466,9 +2117,7 @@
                 "D": "All of the others"
               },
               "answer": "All of the others",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 50,
@@ -2480,9 +2129,7 @@
                 "D": "All of the others"
               },
               "answer": "All of the others",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             }
           ]
         }
@@ -2504,9 +2151,7 @@
                 "D": "Transforms data using the natural logarithm"
               },
               "answer": "Scales data to a fixed range, often between 0 and 1",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 2,
@@ -2518,9 +2163,7 @@
                 "D": "To reduce the number of features in the dataset"
               },
               "answer": "To estimate the performance of a model on an independent dataset",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 3,
@@ -2532,9 +2175,7 @@
                 "D": "Reducing bias"
               },
               "answer": "Handling multicollinearity",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 4,
@@ -2546,9 +2187,7 @@
                 "D": "Random"
               },
               "answer": "Linear",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 5,
@@ -2560,9 +2199,7 @@
                 "D": "create_dataframe()"
               },
               "answer": "read_csv()",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 6,
@@ -2574,9 +2211,7 @@
                 "D": "When data has missing values"
               },
               "answer": "When data has a skewed distribution",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 7,
@@ -2588,9 +2223,7 @@
                 "D": "A set of potential model evaluation metrics"
               },
               "answer": "A set of potential model parameters",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 8,
@@ -2602,9 +2235,7 @@
                 "D": "By relying on default hyperparameters"
               },
               "answer": "By trying all possible combinations of hyperparameters",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 9,
@@ -2616,9 +2247,7 @@
                 "D": "To search for the best dataset"
               },
               "answer": "To search for the best hyperparameters",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 10,
@@ -2630,9 +2259,7 @@
                 "D": "ElasticNet regression"
               },
               "answer": "Polynomial regression",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 11,
@@ -2644,9 +2271,7 @@
                 "D": "All of the above"
               },
               "answer": "All of the above",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 12,
@@ -2658,9 +2283,7 @@
                 "D": "Standard deviation"
               },
               "answer": "Interquartile range (IQR)",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 13,
@@ -2672,9 +2295,7 @@
                 "D": "Remove ticks from the plot axis"
               },
               "answer": "Create multiple plots within a single figure",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 14,
@@ -2686,9 +2307,7 @@
                 "D": "create_histogram()"
               },
               "answer": "hist()",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 15,
@@ -2700,9 +2319,7 @@
                 "D": "plt.scatter()"
               },
               "answer": "plt.pie()",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 16,
@@ -2714,9 +2331,7 @@
                 "D": "dcc.Dropdown()"
               },
               "answer": "dcc.RangeSlider()",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 17,
@@ -2728,9 +2343,7 @@
                 "D": "plot_area"
               },
               "answer": "plot(kind='area')",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 18,
@@ -2742,9 +2355,7 @@
                 "D": "dcc.Graph()"
               },
               "answer": "dcc.Input()",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 19,
@@ -2756,9 +2367,7 @@
                 "D": "dcc.Graph()"
               },
               "answer": "dcc.Input()",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 20,
@@ -2770,9 +2379,7 @@
                 "D": "TXT"
               },
               "answer": "GeoJSON",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 21,
@@ -2784,9 +2391,7 @@
                 "D": "Legends cannot be added to pie charts"
               },
               "answer": "legend=True",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 22,
@@ -2798,9 +2403,7 @@
                 "D": "sns.boxplot()"
               },
               "answer": "sns.countplot()",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 23,
@@ -2812,9 +2415,7 @@
                 "D": "line"
               },
               "answer": "linewidth",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 24,
@@ -2826,9 +2427,7 @@
                 "D": "sns.stackedplot()"
               },
               "answer": "sns.barplot()",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 25,
@@ -2840,9 +2439,7 @@
                 "D": "Dash"
               },
               "answer": "Dash",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 26,
@@ -2854,9 +2451,7 @@
                 "D": "Folium"
               },
               "answer": "Plotly",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 27,
@@ -2868,9 +2463,7 @@
                 "D": "Randomly assigned sizes"
               },
               "answer": "Based on word count",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 28,
@@ -2882,9 +2475,7 @@
                 "D": "sns.scatterplot()"
               },
               "answer": "sns.heatmap()",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 29,
@@ -2896,9 +2487,7 @@
                 "D": "Streamlined API authentication"
               },
               "answer": "Improved user engagement across different channels",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 30,
@@ -2910,9 +2499,7 @@
                 "D": "create_heatmap()"
               },
               "answer": "heatmap()",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 31,
@@ -2924,9 +2511,7 @@
                 "D": "Understanding and processing textual content"
               },
               "answer": "Understanding and processing textual content",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 32,
@@ -2938,9 +2523,7 @@
                 "D": "Creating visualization reports"
               },
               "answer": "Enabling conversations within Slack channels",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 33,
@@ -2952,9 +2535,7 @@
                 "D": "Extracting entities from text"
               },
               "answer": "Translating text between languages",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 34,
@@ -2966,9 +2547,7 @@
                 "D": "To import existing chatbot configurations"
               },
               "answer": "To debug chatbot",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 35,
@@ -2980,9 +2559,7 @@
                 "D": "Storing user data"
               },
               "answer": "Controlling the flow of the conversation",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 36,
@@ -2994,9 +2571,7 @@
                 "D": "To handle user input validation"
               },
               "answer": "To deploy the chatbot to applications",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 37,
@@ -3008,9 +2583,7 @@
                 "D": "Extracting entities from unstructured text"
               },
               "answer": "Converting written text into spoken words",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 38,
@@ -3022,9 +2595,7 @@
                 "D": "Generating small talk responses"
               },
               "answer": "Identifying and extracting specific information from user input",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 39,
@@ -3036,9 +2607,7 @@
                 "D": "Evaluating the model performance"
               },
               "answer": "Training the model on training data",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 40,
@@ -3050,9 +2619,7 @@
                 "D": "Evaluating the model performance"
               },
               "answer": "Compiling the model with optimizer, loss function, and metrics",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 41,
@@ -3064,9 +2631,7 @@
                 "D": "Improving convergence speed"
               },
               "answer": "Reducing overfitting",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 42,
@@ -3078,9 +2643,7 @@
                 "D": "@update_content"
               },
               "answer": "@app.callback",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 43,
@@ -3092,9 +2655,7 @@
                 "D": "Calculating gradients"
               },
               "answer": "Adding non-linearity to the model",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 44,
@@ -3106,9 +2667,7 @@
                 "D": "0th to 25th percentile"
               },
               "answer": "75th to 100th percentile",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 45,
@@ -3120,9 +2679,7 @@
                 "D": "MaxAbsScaler()"
               },
               "answer": "MinMaxScaler()",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 46,
@@ -3134,9 +2691,7 @@
                 "D": "One-Hot Encoding"
               },
               "answer": "Principal Component Analysis (PCA)",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 47,
@@ -3148,9 +2703,7 @@
                 "D": "To reduce the dimensionality of the dataset"
               },
               "answer": "To standardize the range of independent variables",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 48,
@@ -3162,9 +2715,7 @@
                 "D": "model.add_layer()"
               },
               "answer": "model.add()",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 49,
@@ -3176,9 +2727,7 @@
                 "D": "Reinforcement learning"
               },
               "answer": "Supervised learning",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 50,
@@ -3190,9 +2739,7 @@
                 "D": "Flatten layer"
               },
               "answer": "MaxPooling layer",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             }
           ]
         },
@@ -3209,9 +2756,7 @@
                 "D": "It is a circular statistical graphic divided into slices to illustrate numerical proportion."
               },
               "answer": "It is commonly used to compare the values of a variable at a given point in time.",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 2,
@@ -3223,9 +2768,7 @@
                 "D": "HTTP"
               },
               "answer": "GET",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 3,
@@ -3237,9 +2780,7 @@
                 "D": "Process"
               },
               "answer": "Ask",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 4,
@@ -3251,9 +2792,7 @@
                 "D": "r-score"
               },
               "answer": "z-score",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 5,
@@ -3265,9 +2804,7 @@
                 "D": "df.change(columns={\"point\": \"location\"}, inplace=True)"
               },
               "answer": "df.rename(columns={\"point\": \"location\"}, inplace=True)",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 6,
@@ -3279,9 +2816,7 @@
                 "D": "It is an interesting visualization that is normally created to display progress toward goals."
               },
               "answer": "It is an interesting visualization that is normally created to display progress toward goals.",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 7,
@@ -3293,9 +2828,7 @@
                 "D": "Make a pie chart to identify a new timeline."
               },
               "answer": "Perform a root cause analysis",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 8,
@@ -3307,9 +2840,7 @@
                 "D": "the slope"
               },
               "answer": "the predictor",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 9,
@@ -3321,9 +2852,7 @@
                 "D": "return total of numeric"
               },
               "answer": "return counts of unique values",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 10,
@@ -3335,9 +2864,7 @@
                 "D": "[-4]"
               },
               "answer": "[3]",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 11,
@@ -3349,9 +2876,7 @@
                 "D": "The original project manager of the process change"
               },
               "answer": "The source of the effects - the problem itself",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 12,
@@ -3363,9 +2888,7 @@
                 "D": "You don't need to re-deploy your chatbot every time you change the content within Watson Assistant."
               },
               "answer": "You don't need to re-deploy your chatbot every time you change the dialog within Watson Assistant.",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 13,
@@ -3377,9 +2900,7 @@
                 "D": "Absolute"
               },
               "answer": "Current",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 14,
@@ -3391,9 +2912,7 @@
                 "D": "Github"
               },
               "answer": "Slack",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 15,
@@ -3405,9 +2924,7 @@
                 "D": "Intents are a collection of questions that users will ask the virtual assistant."
               },
               "answer": "Intents are purposes or goals that are expressed in a customer's input.",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 16,
@@ -3419,9 +2936,7 @@
                 "D": "the slope"
               },
               "answer": "the intercept",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 17,
@@ -3433,9 +2948,7 @@
                 "D": "None of the others"
               },
               "answer": "A choropleth map is a thematic map in which areas are shaded or patterned in proportion to the measurement of the statistical variable being displayed on the map",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 18,
@@ -3447,9 +2960,7 @@
                 "D": "add the not a null values with 100 in the column 'price'"
               },
               "answer": "replace the not a number values with 100 in the column 'price'",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 19,
@@ -3461,9 +2972,7 @@
                 "D": "None of the answers"
               },
               "answer": "Both student support service and chatbots",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 20,
@@ -3475,9 +2984,7 @@
                 "D": "Pie chart"
               },
               "answer": "scatter plot",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 21,
@@ -3489,9 +2996,7 @@
                 "D": "find the difference between the slope values and the predicted values then square it."
               },
               "answer": "find the difference between the actual values and the predicted values then square it.",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 22,
@@ -3503,9 +3008,7 @@
                 "D": "The OS changed, and the subprocess created the error."
               },
               "answer": "The developer ran the code to display the value at the 11th place in the array.",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 23,
@@ -3517,9 +3020,7 @@
                 "D": "with open (\"/Users/Animals/Dogs/dogNames.txt\", \"w\") as dogNames"
               },
               "answer": "with open(\"/Users/Animals/Dogs/dogNames.txt\", \"w\") as dogNames",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 24,
@@ -3531,9 +3032,7 @@
                 "D": "None of the others"
               },
               "answer": "Multiple linear regression",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 25,
@@ -3545,9 +3044,7 @@
                 "D": "To identify the specific goals that stakeholders have."
               },
               "answer": "To identify the specific goals that stakeholders have.",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 26,
@@ -3559,9 +3056,7 @@
                 "D": "image"
               },
               "answer": "text",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 27,
@@ -3573,9 +3068,7 @@
                 "D": ".high"
               },
               "answer": ".max()",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 28,
@@ -3587,9 +3080,7 @@
                 "D": "grades.min() = grades"
               },
               "answer": "lowest_grade = grades.min()",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 29,
@@ -3601,9 +3092,7 @@
                 "D": "Infinity"
               },
               "answer": "1",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 30,
@@ -3615,9 +3104,7 @@
                 "D": "less than 0.001"
               },
               "answer": "less than 0.001",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 31,
@@ -3629,9 +3116,7 @@
                 "D": "the slope"
               },
               "answer": "the slope",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 32,
@@ -3643,9 +3128,7 @@
                 "D": "grades = grades.mean() and lowest_grade = grades.min()"
               },
               "answer": "grades = grades.mean() and lowest_grade = grades.min()",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 33,
@@ -3657,9 +3140,7 @@
                 "D": "Use the CLOSE statement in place of the open command"
               },
               "answer": "Use a WITH statement with the open command",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 34,
@@ -3671,9 +3152,7 @@
                 "D": "It is commonly used to compare the values of a variable at a given point in time."
               },
               "answer": "It is commonly used to represent cumulated totals using numbers or percentages over time.",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 35,
@@ -3685,9 +3164,7 @@
                 "D": "Positive linear relationship"
               },
               "answer": "Positive linear relationship",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 36,
@@ -3699,9 +3176,7 @@
                 "D": "df.column['price']"
               },
               "answer": "df['price']",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 37,
@@ -3713,9 +3188,7 @@
                 "D": "All answer is correct"
               },
               "answer": "Seaborn is a Python visualization library that provides a high-level interface for drawing attractive statistical graphics",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 38,
@@ -3727,9 +3200,7 @@
                 "D": "with open (\"/Users/Animals/Dogs/dogNames.txt\", \"w\") as dogNames"
               },
               "answer": "with open(\"/Users/Animals/Dogs/dogNames.txt\", \"w\") as dogNames",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 39,
@@ -3741,9 +3212,7 @@
                 "D": "df['size'] = df[\"size\"]+df[\"size\"].max()"
               },
               "answer": "df['size'] = df[\"size\"]+df[\"size\"].max()",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 40,
@@ -3755,9 +3224,7 @@
                 "D": "Phone calls, Watson Speech to Text - Text to Speech APIs and Text Agent with Watson."
               },
               "answer": "Phone calls, Watson Speech to Text - Text to Speech APIs and Voice Agent with Watson.",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 41,
@@ -3769,9 +3236,7 @@
                 "D": "dog_names = 'dogs.csv'\ndf = pandas.read_csv(dog_names)\ndf = x5"
               },
               "answer": "dog_names = 'dogs.csv'\ndf = pandas.read_csv(dog_names)\ndf.head()",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 42,
@@ -3783,9 +3248,7 @@
                 "D": "original intent"
               },
               "answer": "source cause",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 43,
@@ -3797,9 +3260,7 @@
                 "D": "The 'w' mode"
               },
               "answer": "The 'a' mode",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 44,
@@ -3811,9 +3272,7 @@
                 "D": "types"
               },
               "answer": "dtypes",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 45,
@@ -3825,9 +3284,7 @@
                 "D": "None of the others"
               },
               "answer": "A dialog skill uses Watson natural language processing and machine learning technologies to understand user questions and respond the answers.",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 46,
@@ -3839,9 +3296,7 @@
                 "D": "mean value"
               },
               "answer": "1",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 47,
@@ -3853,9 +3308,7 @@
                 "D": "cat_names.mv \"Felix\" \"Oreo\""
               },
               "answer": "cat_names[0] = \"Oreo\"",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 48,
@@ -3867,9 +3320,7 @@
                 "D": "df.show(include='None')"
               },
               "answer": "df.describe(include='all')",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 49,
@@ -3881,9 +3332,7 @@
                 "D": "Backend Layer; Artist Layer; Scripting Layer."
               },
               "answer": "Backend Layer; Artist Layer; Scripting Layer.",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 50,
@@ -3895,9 +3344,7 @@
                 "D": "It enables both the binding of data to a map for choropleth visualizations as well as passing visualizations as markers on the map."
               },
               "answer": "It enables both the binding of data to a map for choropleth visualizations as well as passing visualizations as markers on the map.",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             }
           ]
         }
@@ -3919,9 +3366,7 @@
                 "D": "せんじつ"
               },
               "answer": "ぜんじつ",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 2,
@@ -3933,9 +3378,7 @@
                 "D": "きょう"
               },
               "answer": "きょう",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 3,
@@ -3947,9 +3390,7 @@
                 "D": "めいつき"
               },
               "answer": "まいつき",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 4,
@@ -3961,9 +3402,7 @@
                 "D": "問きます"
               },
               "answer": "聞きます",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 5,
@@ -3975,9 +3414,7 @@
                 "D": "玉合"
               },
               "answer": "国会",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 6,
@@ -3989,9 +3426,7 @@
                 "D": "科野"
               },
               "answer": "料理",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 7,
@@ -4003,13 +3438,11 @@
                 "D": "きれいの"
               },
               "answer": "きれいな",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 8,
-              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\n先週ともだちのいえへ()。",
+              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\n先週ともだちのいえへ(____)。",
               "options": {
                 "A": "いきます",
                 "B": "いきました",
@@ -4017,13 +3450,11 @@
                 "D": "いきましたです"
               },
               "answer": "いきました",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 9,
-              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nきのうはてんきが()。",
+              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nきのうはてんきが(____)。",
               "options": {
                 "A": "いいでした",
                 "B": "よかたです",
@@ -4031,13 +3462,11 @@
                 "D": "いかったです"
               },
               "answer": "よかったです",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 10,
-              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nIphoneの けいたいでんわが()です。",
+              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nIphoneの けいたいでんわが(____)です。",
               "options": {
                 "A": "ほしくないかった",
                 "B": "ほし",
@@ -4045,13 +3474,11 @@
                 "D": "ほしいい"
               },
               "answer": "ほしかった",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 11,
-              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nA「サラダを()。」\nB「あ、ありがとうございます。」",
+              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nA「サラダを(____)。」\nB「あ、ありがとうございます。」",
               "options": {
                 "A": "とってください",
                 "B": "とりたいです",
@@ -4059,13 +3486,11 @@
                 "D": "とっています"
               },
               "answer": "とりましょうか",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 12,
-              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nこのまちはあまり()。",
+              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nこのまちはあまり(____)。",
               "options": {
                 "A": "きれいじゃありません",
                 "B": "きれいなです",
@@ -4073,9 +3498,7 @@
                 "D": "きれくないです"
               },
               "answer": "きれいじゃありません",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 13,
@@ -4087,13 +3510,11 @@
                 "D": "まだです"
               },
               "answer": "まだです",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 14,
-              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\n日本の食べ物ですしが()すきです。",
+              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\n日本の食べ物ですしが(____)すきです。",
               "options": {
                 "A": "いちばん",
                 "B": "ぜんぜん",
@@ -4101,13 +3522,11 @@
                 "D": "とても"
               },
               "answer": "いちばん",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 15,
-              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nやまへ しゃしんを()に行きます。",
+              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nやまへ しゃしんを(____)に行きます。",
               "options": {
                 "A": "とり",
                 "B": "とって",
@@ -4115,13 +3534,11 @@
                 "D": "とりたい"
               },
               "answer": "とり",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 16,
-              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nリンさん「パクさんはどこにいますか。」\nキムさん「となりのへやで ワンさんと()。」",
+              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nリンさん「パクさんはどこにいますか。」\nキムさん「となりのへやで ワンさんと(____)。」",
               "options": {
                 "A": "はなしました",
                 "B": "はなしましょう",
@@ -4129,13 +3546,11 @@
                 "D": "はなしています"
               },
               "answer": "はなしています",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 17,
-              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nけさ、10時におきましたから、()。",
+              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nけさ、10時におきましたから、(____)。",
               "options": {
                 "A": "うちでたべます",
                 "B": "たべません",
@@ -4143,13 +3558,11 @@
                 "D": "何もたべません"
               },
               "answer": "何もたべませんでした",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 18,
-              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\n名前を()ください。",
+              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\n名前を(____)ください。",
               "options": {
                 "A": "かって",
                 "B": "かいて",
@@ -4157,9 +3570,7 @@
                 "D": "かい"
               },
               "answer": "かいて",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 19,
@@ -4171,9 +3582,7 @@
                 "D": "どれ"
               },
               "answer": "どんな",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 20,
@@ -4185,13 +3594,11 @@
                 "D": "何時"
               },
               "answer": "いつ",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 21,
-              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nA:()パーティーに行きませんか。\nB: いそがしいですから。",
+              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nA:(____)パーティーに行きませんか。\nB: いそがしいですから。",
               "options": {
                 "A": "どうして",
                 "B": "どのくらい",
@@ -4199,13 +3606,11 @@
                 "D": "どれくらい"
               },
               "answer": "どうして",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 22,
-              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nへやのなかに()もいません。",
+              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nへやのなかに(____)もいません。",
               "options": {
                 "A": "どれ",
                 "B": "なん",
@@ -4213,13 +3618,11 @@
                 "D": "どこ"
               },
               "answer": "だれ",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 23,
-              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nA: 先週の週末(しゅうまつ)、()行きましたか。\nB: いいえ、どこも行きませんでした。",
+              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nA: 先週の週末(しゅうまつ)、(____)行きましたか。\nB: いいえ、どこも行きませんでした。",
               "options": {
                 "A": "どこかへ",
                 "B": "どこへ",
@@ -4227,13 +3630,11 @@
                 "D": "なにを"
               },
               "answer": "どこかへ",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 24,
-              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nA: 私の本をとってください。\nB:()ほんですか。\nA:その本です。",
+              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nA: 私の本をとってください。\nB:(____)ほんですか。\nA:その本です。",
               "options": {
                 "A": "どれの",
                 "B": "何の",
@@ -4241,13 +3642,11 @@
                 "D": "どんな"
               },
               "answer": "どの",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 25,
-              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nきょうは()あついです。",
+              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nきょうは(____)あついです。",
               "options": {
                 "A": "すこし",
                 "B": "あまり",
@@ -4255,13 +3654,11 @@
                 "D": "そして"
               },
               "answer": "すこし",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 26,
-              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nコーヒーにさとうを()。",
+              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nコーヒーにさとうを(____)。",
               "options": {
                 "A": "いれます",
                 "B": "だします",
@@ -4269,13 +3666,11 @@
                 "D": "とります"
               },
               "answer": "いれます",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 27,
-              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nさとうさんはギターを()。",
+              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nさとうさんはギターを(____)。",
               "options": {
                 "A": "あけます",
                 "B": "うたいます",
@@ -4283,13 +3678,11 @@
                 "D": "ひきます"
               },
               "answer": "ひきます",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 28,
-              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\n()とりょうりをつくります。",
+              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\n(____)とりょうりをつくります。",
               "options": {
                 "A": "デパート",
                 "B": "アニメ",
@@ -4297,13 +3690,11 @@
                 "D": "ドライブ"
               },
               "answer": "ルームメイト",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 29,
-              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nあしたやまに()。",
+              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nあしたやまに(____)。",
               "options": {
                 "A": "あいます",
                 "B": "とります",
@@ -4311,13 +3702,11 @@
                 "D": "のぼります"
               },
               "answer": "のぼります",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 30,
-              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nこんばん()があります。",
+              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nこんばん(____)があります。",
               "options": {
                 "A": "おととい",
                 "B": "ざんねん",
@@ -4325,9 +3714,7 @@
                 "D": "やくそく"
               },
               "answer": "やくそく",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             }
           ]
         }
@@ -4349,9 +3736,7 @@
                 "D": "example"
               },
               "answer": "target",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 2,
@@ -4363,9 +3748,7 @@
                 "D": "The goal of machine learning is to achieve low accuracy in prediction for future examples, and low accuracy for the training phase"
               },
               "answer": "The goal of machine learning is to achieve high accuracy in prediction for future examples, not for the training ones",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 3,
@@ -4377,9 +3760,7 @@
                 "D": "None of the others"
               },
               "answer": "Problem statement and data collection.",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 4,
@@ -4391,9 +3772,7 @@
                 "D": "pandas.read_csv('data.txt', header=0, delim_whitespace=True)"
               },
               "answer": "pandas.read_csv('data.txt', header=None, sep=' ')",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 5,
@@ -4405,10 +3784,7 @@
                 "D": "Cassandra"
               },
               "answer": "MySQL; PostgreSQL",
-              "answer_number": [
-                "A",
-                "B"
-              ]
+              "answer_number": ["A", "B"]
             },
             {
               "id": 6,
@@ -4420,9 +3796,7 @@
                 "D": "Jupyter/iPython (ipynb files)"
               },
               "answer": "Jupyter/iPython (ipynb files)",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 7,
@@ -4434,10 +3808,7 @@
                 "D": "None of these"
               },
               "answer": "EDA allows us to get an initial feel for the data.; It lets us determine if the data makes sense, or if further cleaning or more data is needed.",
-              "answer_number": [
-                "A",
-                "B"
-              ]
+              "answer_number": ["A", "B"]
             },
             {
               "id": 8,
@@ -4449,9 +3820,7 @@
                 "D": "They are represented by linear relationships in the data."
               },
               "answer": "They are higher order relationships in the data.",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 9,
@@ -4463,9 +3832,7 @@
                 "D": "Min-max scaling"
               },
               "answer": "Ordinal encoding",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 10,
@@ -4477,9 +3844,7 @@
                 "D": "The probability of observing the data given that the null hypothesis is true"
               },
               "answer": "The probability of observing the data given that the null hypothesis is true",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 11,
@@ -4491,9 +3856,7 @@
                 "D": "extrapolating Bayesian statistics"
               },
               "answer": "using the maximum likelihood estimation",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 12,
@@ -4505,9 +3868,7 @@
                 "D": "To assess the variability of a dataset"
               },
               "answer": "To provide a single value as the best guess for a parameter",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 13,
@@ -4519,9 +3880,7 @@
                 "D": "It is irrelevant in the context of machine learning."
               },
               "answer": "It focuses on selecting and transforming input variables to enhance model performance",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 14,
@@ -4533,9 +3892,7 @@
                 "D": "Reinforcement learning"
               },
               "answer": "Supervised learning",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 15,
@@ -4547,9 +3904,7 @@
                 "D": "To introduce randomness and diversity in the training process"
               },
               "answer": "To reduce overfitting by evaluating the model on unseen data",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 16,
@@ -4561,9 +3916,7 @@
                 "D": "None of the above."
               },
               "answer": "K-fold cross-validation will still lead to underfitting, for any k.",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 17,
@@ -4575,9 +3928,7 @@
                 "D": "To introduce non-linearity in the regression relationship"
               },
               "answer": "To reduce overfitting and stabilize coefficient estimates",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 18,
@@ -4589,9 +3940,7 @@
                 "D": "It converges slowly"
               },
               "answer": "It may lead to overfitting",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 19,
@@ -4603,9 +3952,7 @@
                 "D": "polyFeat.transform"
               },
               "answer": "polyFeat.fit and polyFeat.transform",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 20,
@@ -4617,9 +3964,7 @@
                 "D": "Feature engineering"
               },
               "answer": "Overfitting",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 21,
@@ -4631,9 +3976,7 @@
                 "D": "It has no impact on regularization"
               },
               "answer": "It controls the overall strength of regularization",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 22,
@@ -4645,9 +3988,7 @@
                 "D": "None of the others"
               },
               "answer": "None of the others",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 23,
@@ -4659,9 +4000,7 @@
                 "D": "more likely to set feature coefficients to zero."
               },
               "answer": "less likely to set feature coefficients to zero.",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 24,
@@ -4673,9 +4012,7 @@
                 "D": "Lambda encourages equalization of coefficients"
               },
               "answer": "Higher lambda encourages sparser solutions",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 25,
@@ -4687,9 +4024,7 @@
                 "D": "Logistic Regression models cannot be used for regression and classification."
               },
               "answer": "Logistic Regression is a generalized linear model.",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 26,
@@ -4701,9 +4036,7 @@
                 "D": "The trade-off between precision and recall"
               },
               "answer": "The ability to correctly identify positive instances",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 27,
@@ -4715,9 +4048,7 @@
                 "D": "import KNNClassifier from the sklearn.knearestneighbors module\ne.g. from sklearn.knearest neighbors import KNNClassifier"
               },
               "answer": "import Kneighbors Classifier from the sklearn.neighbors module\ne.g. from sklearn.neighbors import KNeighbors Classifier",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 28,
@@ -4729,9 +4060,7 @@
                 "D": "They are the weights assigned to features in the input data."
               },
               "answer": "They are the data points that lie closest to the decision boundary.",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 29,
@@ -4743,9 +4072,7 @@
                 "D": "Support Vector Machine models can be used for regression but not for classification."
               },
               "answer": "Support Vector Machine models rarely overfit on training data if using regularization.",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 30,
@@ -4757,9 +4084,7 @@
                 "D": "Hyperparameter Tuning"
               },
               "answer": "Classification and Regression",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 31,
@@ -4771,9 +4096,7 @@
                 "D": "Choose a number of trees past the point of diminishing returns"
               },
               "answer": "Tune number of trees as a hyperparameter that needs to be optimized",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 32,
@@ -4785,9 +4108,7 @@
                 "D": "Enhanced model generalization"
               },
               "answer": "Enhanced model generalization",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 33,
@@ -4799,9 +4120,7 @@
                 "D": "It focuses on increasing the size of the majority class"
               },
               "answer": "It generates synthetic samples for the minority class to balance the dataset",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 34,
@@ -4813,9 +4132,7 @@
                 "D": "Downsampling has no impact on the distribution of classes"
               },
               "answer": "Downsampling involves removing samples from the majority class",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 35,
@@ -4827,9 +4144,7 @@
                 "D": "F1 Score"
               },
               "answer": "F1 Score",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 36,
@@ -4841,9 +4156,7 @@
                 "D": "Random Over Sampling and Synthetic Over Sampling are identical techniques with different names."
               },
               "answer": "Random Over Sampling duplicates random instances of the minority class to balance the dataset, while Synthetic Over Sampling generates new synthetic instances.",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 37,
@@ -4855,9 +4168,7 @@
                 "D": "To increase the size of the dataset"
               },
               "answer": "To ensure that each class is represented proportionally in training and testing sets",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 38,
@@ -4869,9 +4180,7 @@
                 "D": "It is only suitable for small datasets"
               },
               "answer": "It is sensitive to the initial choice of centroids and can converge to local optima",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 39,
@@ -4883,9 +4192,7 @@
                 "D": "To assign cluster labels based on proximity"
               },
               "answer": "To minimize the within-cluster variance",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 40,
@@ -4897,9 +4204,7 @@
                 "D": "Predicting whether a customer will return to a store to make a major purchase."
               },
               "answer": "Image tracking",
-              "answer_number": [
-                "A"
-              ]
+              "answer_number": ["A"]
             },
             {
               "id": 41,
@@ -4911,9 +4216,7 @@
                 "D": "Grouping observations together to find similar patterns across them."
               },
               "answer": "Explaining the relationship between an individual's income and the price they pay for a car.",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 42,
@@ -4925,9 +4228,7 @@
                 "D": "When we use the probability formula, we put less weight on the points that are far away. So, our second cluster centroid is likely going to be more distant."
               },
               "answer": "When we use the probability formula, we put more weight on the points that are far away. So, our second cluster centroid is likely going to be more distant.",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 43,
@@ -4939,9 +4240,7 @@
                 "D": "K is unrelated to clustering; it refers to the number of iterations"
               },
               "answer": "K determines the number of clusters, influencing the final grouping of data points",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 44,
@@ -4953,9 +4252,7 @@
                 "D": "Balance the classes of a data set"
               },
               "answer": "Reduce the dimension of the data set.",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 45,
@@ -4967,9 +4264,7 @@
                 "D": "Sets the number of clusters"
               },
               "answer": "Defines neighborhood size",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 46,
@@ -4981,9 +4276,7 @@
                 "D": "Euclidean distance is only applicable to numerical data, while Manhattan distance is used for categorical data"
               },
               "answer": "Euclidean distance measures the straight-line distance, while Manhattan distance measures the sum of absolute differences along each dimension",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             },
             {
               "id": 47,
@@ -4995,9 +4288,7 @@
                 "D": "To classify data points into predefined clusters"
               },
               "answer": "To quantify the similarity or dissimilarity between data points",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 48,
@@ -5009,9 +4300,7 @@
                 "D": "By using the cumulative explained variance ratio to find an elbow point in the scree plot"
               },
               "answer": "By using the cumulative explained variance ratio to find an elbow point in the scree plot",
-              "answer_number": [
-                "D"
-              ]
+              "answer_number": ["D"]
             },
             {
               "id": 49,
@@ -5023,9 +4312,7 @@
                 "D": "Eigenvalues are not relevant in PCA"
               },
               "answer": "Eigenvalues indicate the importance of each principal component in capturing variance",
-              "answer_number": [
-                "B"
-              ]
+              "answer_number": ["B"]
             },
             {
               "id": 50,
@@ -5037,9 +4324,7 @@
                 "D": "The mean values of each feature"
               },
               "answer": "The eigenvectors of the covariance matrix",
-              "answer_number": [
-                "C"
-              ]
+              "answer_number": ["C"]
             }
           ]
         }
