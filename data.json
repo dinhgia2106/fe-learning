@@ -5096,11 +5096,12 @@
           "questions": [
             {
               "id": 1,
-              "question": "(Choose 1 answer)\nYou are evaluating a binary classifier. There are 80 positive outcomes in the test data, and 150 observations.Using a 50% threshold, the classifier predicts 60 positive outcomes, of which 20 are incorrect.\nWhat is the classifier's F1 score on the test sample?\nΑ. 75%",
+              "question": "(Choose 1 answer)\nYou are evaluating a binary classifier. There are 80 positive outcomes in the test data, and 150 observations. Using a 50% threshold, the classifier predicts 60 positive outcomes, of which 20 are incorrect.\nWhat is the classifier's F1 score on the test sample?",
               "options": {
+                "A": "75%",
                 "B": "57.2%",
                 "C": "67.5%",
-                "D": "42.8%\n\n\n1"
+                "D": "42.8%"
               },
               "answer": "57.2%",
               "answer_number": ["B"]
@@ -5112,19 +5113,19 @@
                 "A": "Cosine is useful for coordinate based measurements.",
                 "B": "Cosine is better for data such as text where location of occurrence is less important.",
                 "C": "Cosine distance is more sensitive to the curse of dimensionality",
-                "D": "Cosine distance is less sensitive to the curse of dimensionality\n1/50-CAP\n\n\n2"
+                "D": "Cosine distance is less sensitive to the curse of dimensionality"
               },
               "answer": "Cosine is better for data such as text where location of occurrence is less important.",
               "answer_number": ["B"]
             },
             {
               "id": 3,
-              "question": "(Choose 1 answer)",
+              "question": "(Choose 1 answer)\nWhich of the following examples is NOT a common use case of clustering in the real world?",
               "options": {
-                "A": "Anomaly detection.\nWhich of the following examples is NOT a common use case of clustering in the real world?",
+                "A": "Anomaly detection.",
                 "B": "Customer segmentation",
                 "C": "Determine risk factor and prevention factors for diseases such as osteoporosis",
-                "D": "Improve supervised learning.\n2/50-CAP"
+                "D": "Improve supervised learning."
               },
               "answer": "Determine risk factor and prevention factors for diseases such as osteoporosis",
               "answer_number": ["C"]
@@ -5136,7 +5137,7 @@
                 "A": "Random Upsampling preserves all original observations.",
                 "B": "Random Upsampling will generally lead to a lower F1 score.",
                 "C": "Random Upsampling generates observations that were not part of the original data.",
-                "D": "Random Upsampling results in excessive focus on the more frequently-occurring class.\n\n\n4"
+                "D": "Random Upsampling results in excessive focus on the more frequently-occurring class."
               },
               "answer": "Random Upsampling preserves all original observations.",
               "answer_number": ["A"]
@@ -5148,7 +5149,7 @@
                 "A": "A subset of deep learning.",
                 "B": "Any program that can sense, reason, act, and adapt.",
                 "C": "A subset of machine learning",
-                "D": "None of the others\n\n\n5"
+                "D": "None of the others"
               },
               "answer": "Any program that can sense, reason, act, and adapt.",
               "answer_number": ["B"]
@@ -5160,7 +5161,7 @@
                 "A": "No need to specify the number of clusters (cf. K-means), allows for noise, and can handle arbitrary-shaped clusters.",
                 "B": "Do well with different density, works with just one parameter, the n_clu defines itself.",
                 "C": "The algorithm will find the outliers first, draw regular shapes, works faster than other algorithms.",
-                "D": "The algorithm is computationally intensive, it is sensitive to outliers, and it requires few hyperparameters to be tuned.\n\n\n6"
+                "D": "The algorithm is computationally intensive, it is sensitive to outliers, and it requires few hyperparameters to be tuned."
               },
               "answer": "No need to specify the number of clusters (cf. K-means), allows for noise, and can handle arbitrary-shaped clusters.",
               "answer_number": ["A"]
@@ -5184,19 +5185,19 @@
                 "A": "Random Forest methods",
                 "B": "Boosting methods",
                 "C": "The Pasting method of Bootstrap aggregation",
-                "D": "The Bagging method of Bootstrap aggregation\nOsh\n8"
+                "D": "The Bagging method of Bootstrap aggregation"
               },
               "answer": "Boosting methods",
               "answer_number": ["B"]
             },
             {
               "id": 9,
-              "question": "(Choose 1 answer)\nWhich statement about the Pandas read csv function is TRUE?",
+              "question": "(Choose 1 answer)\nWhich statement about the Pandas read_csv function is TRUE?",
               "options": {
                 "A": "It can only read comma-delimited data",
                 "B": "It can read both tab-delimited and space-delimited data",
                 "C": "It reads data into a 2-dimensional NumPy array",
-                "D": "It allows only one argument: the name of the file\n\n\n9"
+                "D": "It allows only one argument: the name of the file"
               },
               "answer": "It can read both tab-delimited and space-delimited data",
               "answer_number": ["B"]
@@ -5208,31 +5209,31 @@
                 "A": "the smallest significance level at which the null hypothesis would be rejected",
                 "B": "the probability of the null hypothesis being true",
                 "C": "the probability of the null hypothesis being false",
-                "D": "the smallest significance level at which the null hypothesis is accepted\n\n\nQ: 10"
+                "D": "the smallest significance level at which the null hypothesis is accepted"
               },
               "answer": "the smallest significance level at which the null hypothesis would be rejected",
               "answer_number": ["A"]
             },
             {
               "id": 11,
-              "question": "(Choose 1 answer)\nWhat happen with our second cluster centroid when we use the probability formula?",
+              "question": "(Choose 1 answer)\nWhat happens with our second cluster centroid when we use the probability formula (as in K-means++)?",
               "options": {
                 "A": "When we use the probability formula, we put less weight on the points that are far away. So, our second cluster centroid is likely going to be closer.",
                 "B": "When we use the probability formula, we put more weight on the points that are far away. So, our second cluster centroid is likely going to be more distant.",
                 "C": "When we use the probability formula, we put more weight on the lighter centroids, because it will take more computational power to draw our clusters. So, the second cluster centroid is likely going to be less distant.",
-                "D": "When we use the probability formula, we put less weight on the points that are far away. So, our second cluster centroid is likely going to be more distant.\n\n\nQ: 11"
+                "D": "When we use the probability formula, we put less weight on the points that are far away. So, our second cluster centroid is likely going to be more distant."
               },
               "answer": "When we use the probability formula, we put less weight on the points that are far away. So, our second cluster centroid is likely going to be closer.",
               "answer_number": ["A"]
             },
             {
               "id": 12,
-              "question": "(Choose 1 answer)\n11/50-CAP\nWhich of the following statements about regularization is TRUE?",
+              "question": "(Choose 1 answer)\nWhich of the following statements about regularization is TRUE?",
               "options": {
                 "A": "Regularization always reduces the number of selected features.",
                 "B": "Regularization increases the likelihood of overfitting relative to training data.",
                 "C": "Regularization decreases the likelihood of overfitting relative to training data.",
-                "D": "Regularization performs feature selection without a negative impact in the likelihood of overfitting relative to the training data.\n\n\nQ: 12"
+                "D": "Regularization performs feature selection without a negative impact in the likelihood of overfitting relative to the training data."
               },
               "answer": "Regularization decreases the likelihood of overfitting relative to training data.",
               "answer_number": ["C"]
@@ -5241,12 +5242,12 @@
               "id": 13,
               "question": "(Choose 1 answer)\nHow do we define the core points when we use the DBSCAN algorithm?",
               "options": {
-                "A": "A point that has more than n_clu neighbors in their E-neighborhood.",
-                "B": "An E-neighbor point than has fewer than n_clu neighbors itself.",
-                "C": "A point that has no points in its E-neighborhood.",
-                "D": "A point that has the same amount of n_clu neighbors within and outside the E-neighborhood\n\n\nQ: 13"
+                "A": "A point that has more than MinPts neighbors in their Epsilon-neighborhood.",
+                "B": "An Epsilon-neighbor point that has fewer than MinPts neighbors itself.",
+                "C": "A point that has no points in its Epsilon-neighborhood.",
+                "D": "A point that has the same amount of MinPts neighbors within and outside the Epsilon-neighborhood"
               },
-              "answer": "A point that has more than n_clu neighbors in their E-neighborhood.",
+              "answer": "A point that has more than MinPts neighbors in their Epsilon-neighborhood.",
               "answer_number": ["A"]
             },
             {
@@ -5256,21 +5257,21 @@
                 "A": "import classifier ensemble from the sklearn. Gradient Boosting module e.g. from sklearn.gradientboosting import ClassifierEnsemble",
                 "B": "import gradient boosting from the sklearn.classifierensemble module e.g. from sklearn.classifierensemble import GradientBoosting",
                 "C": "import gradient boosting classifier from the sklearn.ensemble module\ne.g. from sklearn.ensemble import GradientBoostingClassifier",
-                "D": "import classifier from the sklearn.gradientboosting module\ne.g. from sklearn.gradientboosting import Classifier\nOsh\nQ: 14"
+                "D": "import classifier from the sklearn.gradientboosting module\ne.g. from sklearn.gradientboosting import Classifier"
               },
               "answer": "import gradient boosting classifier from the sklearn.ensemble module\ne.g. from sklearn.ensemble import GradientBoostingClassifier",
               "answer_number": ["C"]
             },
             {
               "id": 15,
-              "question": "(Choose 1 answer)\nSelect the option that best completes the following sentence:\nFor data with many features, principal components analysis",
+              "question": "(Choose 1 answer)\nSelect the option that best completes the following sentence:\nFor data with many features, principal components analysis...",
               "options": {
                 "A": "identifies which features can be safely discarded",
                 "B": "reduces the number of features without losing any information.",
                 "C": "establishes a minimum number of viable features for use in the analysis.",
-                "D": "generates new features that are linear combinations of the original features.\n\n\nQ: 15"
+                "D": "generates new features that are linear combinations of the original features."
               },
-              "answer": "generates new features that are linear combinations of the original features.\n\n\nQ: 15",
+              "answer": "generates new features that are linear combinations of the original features.",
               "answer_number": ["D"]
             },
             {
@@ -5280,31 +5281,31 @@
                 "A": "import logistic regression from the sklearn.linear_model module\ne.g. from sklearn.linear_model import LogisticRegression",
                 "B": "import Logistic from the sklearn.regression module\ne.g. from sklearn.regression import Logistic",
                 "C": "import Logistic from the sklearn.linear_regression module\ne.g. from sklearn.linear_regression import Logistic",
-                "D": "import logistic regression from the sklearn.linear classifer module\ne.g. from sklearn.linearclassifer import Logistic Regression\nOsh\nQ: 16"
+                "D": "import logistic regression from the sklearn.linear classifier module\ne.g. from sklearn.linearclassifer import Logistic Regression"
               },
               "answer": "import logistic regression from the sklearn.linear_model module\ne.g. from sklearn.linear_model import LogisticRegression",
               "answer_number": ["A"]
             },
             {
               "id": 17,
-              "question": "Which of the following is an example of a file type that uses Javascript Object Notation JSON) formatting?\n(Choose 1 answer)\n16/50-CAP",
+              "question": "(Choose 1 answer)\nWhich of the following is an example of a file type that uses Javascript Object Notation (JSON) formatting?",
               "options": {
-                "A": "Python (py files)",
-                "B": "Javascript (js files)",
-                "C": "SQL Database (sql files)",
-                "D": "Jupyter/iPython (ipynb files)\n\n\nQ: 17"
+                "A": "Python (.py files)",
+                "B": "Javascript (.js files)",
+                "C": "SQL Database (.sql files)",
+                "D": "Jupyter/iPython (.ipynb files)"
               },
-              "answer": "Jupyter/iPython (ipynb files)\n\n\nQ: 17",
+              "answer": "Jupyter/iPython (.ipynb files)",
               "answer_number": ["D"]
             },
             {
               "id": 18,
-              "question": "(Choose 1 answer)\n17/50-CAP\nDecision trees used as classifiers compute the value assigned to a leaf by calculating the ratio: number of observations of one class divided by the number of observations in that leaf\nE.g. number of customers that are younger than 50 years old divided by the total number of customers.\nHow are leaf values calculated for regression decision trees?",
+              "question": "(Choose 1 answer)\nDecision trees used as classifiers compute the value assigned to a leaf by calculating the ratio: number of observations of one class divided by the number of observations in that leaf. How are leaf values calculated for regression decision trees?",
               "options": {
                 "A": "average value of the predicted variable",
                 "B": "median value of the predicted variable",
                 "C": "mode value of the predicted variable",
-                "D": "weighted average value of the predicted variable\nOsh\nQ: 18"
+                "D": "weighted average value of the predicted variable"
               },
               "answer": "average value of the predicted variable",
               "answer_number": ["A"]
@@ -5314,9 +5315,9 @@
               "question": "(Choose 1 answer)\nThis is the best way to choose the number of trees to build on a Bagging ensemble.",
               "options": {
                 "A": "Choose a large number of trees, typically above 100",
-                "B": "Prioratize training error metrics over out of bag sample",
+                "B": "Prioritize training error metrics over out of bag sample",
                 "C": "Tune number of trees as a hyperparameter that needs to be optimized",
-                "D": "Choose a number of trees past the point of diminishing returns\n\n\nQ: 19"
+                "D": "Choose a number of trees past the point of diminishing returns"
               },
               "answer": "Tune number of trees as a hyperparameter that needs to be optimized",
               "answer_number": ["C"]
@@ -5328,7 +5329,7 @@
                 "A": "Random Trees",
                 "B": "Boosting",
                 "C": "Bagging",
-                "D": "Random Forest\nOsh\nQ: 20"
+                "D": "Random Forest"
               },
               "answer": "Boosting",
               "answer_number": ["B"]
@@ -5340,31 +5341,31 @@
                 "A": "K-fold cross-validation will still lead to underfitting, for any k.",
                 "B": "K-cross-validation with a small k will reduce or eliminate underfitting.",
                 "C": "K-fold cross-validation with a large k will reduce or eliminate underfitting.",
-                "D": "None of the above.\n\n\nQ: 21"
+                "D": "None of the above."
               },
               "answer": "K-fold cross-validation will still lead to underfitting, for any k.",
               "answer_number": ["A"]
             },
             {
               "id": 22,
-              "question": "(Choose 1 answer)\n21/50-CAP\nIn which case below is it most plausible to conclude that an observation includes an outlier for one of the features?",
+              "question": "(Choose 1 answer)\nIn which case below is it most plausible to conclude that an observation includes an outlier for one of the features?",
               "options": {
                 "A": "One feature has a deleted residual value above 3.",
                 "B": "The observation includes the maximum target value.",
                 "C": "The observation is missing values for several of the features.",
-                "D": "One feature has an internally-studentized residual value above 3.\nOsh\nQ: 22"
+                "D": "One feature has an internally-studentized residual value above 3."
               },
-              "answer": "One feature has an internally-studentized residual value above 3.\nOsh\nQ: 22",
+              "answer": "One feature has an internally-studentized residual value above 3.",
               "answer_number": ["D"]
             },
             {
               "id": 23,
-              "question": "(Choose 1 answer)\n22/50-CAP\nYou can use supervised machine learning for all of the following examples, EXCEPT:",
+              "question": "(Choose 1 answer)\nYou can use supervised machine learning for all of the following examples, EXCEPT:",
               "options": {
                 "A": "Segment customers by their demographics.",
                 "B": "Predict the number of customers that will visit a store on a given week.",
                 "C": "Predict the probability of a customer returning to a store.",
-                "D": "Interpret the main drivers that determine if a customer will return to a store.\n\n\nQ: 23"
+                "D": "Interpret the main drivers that determine if a customer will return to a store."
               },
               "answer": "Segment customers by their demographics.",
               "answer_number": ["A"]
@@ -5376,43 +5377,43 @@
                 "A": "X_train, X_test, y_train, y_test = train_test_split(x, y, test_size=0.5)",
                 "B": "X_train, X_test, y_train, y_test = train_test_split(x, y, test_size=0.33)",
                 "C": "X_train, y_test = train_test_split(x, y, test_size=0.33)",
-                "D": "X_train, y_test = train_test_split(x, y, test_size=0.5)\n\n\nQ: 24"
+                "D": "X_train, y_test = train_test_split(x, y, test_size=0.5)"
               },
               "answer": "X_train, X_test, y_train, y_test = train_test_split(x, y, test_size=0.33)",
               "answer_number": ["B"]
             },
             {
               "id": 25,
-              "question": "(Choose 1 answer)\n24/50-CAP\nCompared with Lasso regression (assuming similar implementation), Ridge regression is:",
+              "question": "(Choose 1 answer)\nCompared with Lasso regression (assuming similar implementation), Ridge regression is:",
               "options": {
                 "A": "less likely to overfit to training data.",
                 "B": "more likely to overfit to training data.",
                 "C": "less likely to set feature coefficients to zero.",
-                "D": "more likely to set feature coefficients to zero.\n\n\nQ: 25"
+                "D": "more likely to set feature coefficients to zero."
               },
               "answer": "less likely to set feature coefficients to zero.",
               "answer_number": ["C"]
             },
             {
               "id": 26,
-              "question": "(Choose 1 answer)\n25/50-CAP\nWhich of the following statements is FALSE?",
+              "question": "(Choose 1 answer)\nWhich of the following statements is FALSE?",
               "options": {
                 "A": "In Analytic View, increasing L2/L1 penalties force coefficients to be smaller, restricting their plausible range.",
                 "B": "Under the Geometric formulation, the cost function minimum is found at the intersection of the penalty boundary and a contour of the traditional OLS cost function surface.",
-                "C": "Under the Probabilistic formulation, L2 (Ridge) regularization imposes Gaussian prior on the coefficients,while L1 (Lasso) regularization imposes Laplacian prior.",
-                "D": "None of the others\nthe exam.\nOsh\nQ: 26"
+                "C": "Under the Probabilistic formulation, L2 (Ridge) regularization imposes Gaussian prior on the coefficients, while L1 (Lasso) regularization imposes Laplacian prior.",
+                "D": "None of the others"
               },
-              "answer": "None of the others\nthe exam.\nOsh\nQ: 26",
+              "answer": "None of the others",
               "answer_number": ["D"]
             },
             {
               "id": 27,
-              "question": "(Choose 1 answer)\n26/50-CAP\nThe main purpose of scaling features before fitting a k nearest neighbor model is to:",
+              "question": "(Choose 1 answer)\nThe main purpose of scaling features before fitting a k nearest neighbor model is to:",
               "options": {
                 "A": "Help find the appropriate value of k",
                 "B": "Ensure decision boundaries have roughly the same size for all classes",
                 "C": "Ensure that features have similar influence on the distance calculation",
-                "D": "Break ties in case there is the same number of neighbors of different classes next to a given observation\n\n\nQ: 27"
+                "D": "Break ties in case there is the same number of neighbors of different classes next to a given observation"
               },
               "answer": "Ensure that features have similar influence on the distance calculation",
               "answer_number": ["C"]
@@ -5424,9 +5425,9 @@
                 "A": "Supervised Machine Learning",
                 "B": "Unsupervised Machine Learning",
                 "C": "Mixed Machine Learning",
-                "D": "Semi-Supervised Machine Learning\n\n\nQ: 28"
+                "D": "Semi-Supervised Machine Learning"
               },
-              "answer": "Semi-Supervised Machine Learning\n\n\nQ: 28",
+              "answer": "Semi-Supervised Machine Learning",
               "answer_number": ["D"]
             },
             {
@@ -5436,81 +5437,81 @@
                 "A": "Downsampling.",
                 "B": "Mix of in-sample and out-of-sample.",
                 "C": "Mix of downsampling and upsampling.",
-                "D": "Upsampling.\n\n\nQ: 29"
+                "D": "Upsampling."
               },
               "answer": "Mix of in-sample and out-of-sample.",
               "answer_number": ["B"]
             },
             {
               "id": 30,
-              "question": "What is an ensemble model that needs you to look at out of bag error?\n(Choose 1 answer)\n29/50-CAP",
+              "question": "(Choose 1 answer)\nWhat is an ensemble model that needs you to look at out of bag error?",
               "options": {
                 "A": "Logistic Regression.",
                 "B": "Out of Bag Regression",
                 "C": "Random Forest",
-                "D": "Stacking\n\n\nQ: 30"
+                "D": "Stacking"
               },
               "answer": "Random Forest",
               "answer_number": ["C"]
             },
             {
               "id": 31,
-              "question": "(Choose 1 answer)\nYou are evaluating a binary classifier. There are 50 positive outcomes in the test data, and 100 observations.Using a 50% threshold, the classifier predicts 40 positive outcomes, of which 10 are incorrect.\nIncreasing the threshold to 60% results in 5 additional positive predictions, all of which are correct. Which of the following statements about this new model (compared with the original model that had a 50% threshold) is TRUE?",
+              "question": "(Choose 1 answer)\nYou are evaluating a binary classifier. There are 50 positive outcomes in the test data, and 100 observations. Using a 50% threshold, the classifier predicts 40 positive outcomes, of which 10 are incorrect.\nIncreasing the threshold to 60% results in the classifier predicting 35 positive outcomes (5 fewer), and now only 8 are incorrect (2 fewer incorrect predictions). Which of the following statements about this new model (compared with the original model that had a 50% threshold) is TRUE?",
               "options": {
                 "A": "The F1 score of the classifier would decrease.",
                 "B": "The area under the ROC curve would decrease.",
-                "C": "The F1 score of the classifier would remain the same.",
-                "D": "The area under the ROC curve would remain the same.\n\n\nQ: 31"
+                "C": "The F1 score of the classifier would increase.",
+                "D": "The area under the ROC curve would remain the same."
               },
-              "answer": "The area under the ROC curve would remain the same.\n\n\nQ: 31",
+              "answer": "The area under the ROC curve would remain the same.",
               "answer_number": ["D"]
             },
             {
               "id": 32,
               "question": "(Choose 1 answer)\nWhich of the following statements is a characteristic of the DBSCAN algorithm?",
               "options": {
-                "A": "Can handle tons of data and weird shapes.",
+                "A": "Can handle arbitrary shapes and identifies noise/outliers.",
                 "B": "Finds uneven cluster sizes (one is big, some are tiny).",
-                "C": "It will do a great performance finding many clusters.",
-                "D": "It will do a great performance finding few clusters.\n\n\nQ: 32"
+                "C": "Performs well when finding many clusters.",
+                "D": "Performs well when finding few clusters."
               },
-              "answer": "Can handle tons of data and weird shapes.",
+              "answer": "Can handle arbitrary shapes and identifies noise/outliers.",
               "answer_number": ["A"]
             },
             {
               "id": 33,
-              "question": "(Choose 1 answer)\n32/50-CAP\nWhich of the following statements correctly defines the weaknesses of the DBSCAN algorithm?",
+              "question": "(Choose 1 answer)\nWhich of the following statements correctly defines the weaknesses of the DBSCAN algorithm?",
               "options": {
-                "A": "The clusters it find might not be trustworthy, it needs noisy data to work, and it can't handle subgroups.",
-                "B": "It needs two parameters as input, finding appropriate values of & and n_clu can be difficult, and it does not do well with clusters of different density.",
+                "A": "The clusters it finds might not be trustworthy, it needs noisy data to work, and it can't handle subgroups.",
+                "B": "It needs two parameters as input (Epsilon and MinPts), finding appropriate values can be difficult, and it does not do well with clusters of different density.",
                 "C": "The algorithm will find the outliers first, it draws regular shapes, and it works faster than other algorithms.",
-                "D": "The algorithm is computationally intensive, it is sensitive to outliers, and it requires too many hyperparameters to be tuned.\n\n\nQ: 33"
+                "D": "The algorithm is computationally intensive, it is sensitive to outliers, and it requires too many hyperparameters to be tuned."
               },
-              "answer": "It needs two parameters as input, finding appropriate values of & and n_clu can be difficult, and it does not do well with clusters of different density.",
+              "answer": "It needs two parameters as input (Epsilon and MinPts), finding appropriate values can be difficult, and it does not do well with clusters of different density.",
               "answer_number": ["B"]
             },
             {
               "id": 34,
-              "question": "(Choose 1 answer)\n34/50-CAP\nComplete the following sentence: The training data is used to fit the model, while the test data is used to:",
+              "question": "(Choose 1 answer)\nComplete the following sentence: The training data is used to fit the model, while the test data is used to:",
               "options": {
                 "A": "measure the parameters and hyperparameters of the model",
                 "B": "tweak the model hyperparameters",
                 "C": "tweak the model parameters",
-                "D": "measure error and performance of the model\n\n\nQ: 35"
+                "D": "measure error and performance of the model"
               },
-              "answer": "measure error and performance of the model\n\n\nQ: 35",
+              "answer": "measure error and performance of the model",
               "answer_number": ["D"]
             },
             {
               "id": 35,
-              "question": "(Choose 1 answer)\n35/50-CAP\nWhich of the following statements is a characteristic of the Mean Shift algorithm?",
+              "question": "(Choose 1 answer)\nWhich of the following statements is a characteristic of the Mean Shift algorithm?",
               "options": {
-                "A": "Not require us to set the number of clusters, the number of clusters will be determined for us.",
-                "B": "Bad with non-spherical cluster shapes.",
-                "C": "You need to decide the number of clusters on your own, choosing the numbers directly or the minimum distance threshold.",
-                "D": "Good with non-spherical cluster shapes.\n\n\nQ: 36"
+                "A": "Does not require us to set the number of clusters; the number of clusters will be determined automatically.",
+                "B": "Performs poorly with non-spherical cluster shapes.",
+                "C": "Requires deciding the number of clusters beforehand, either directly or via a minimum distance threshold.",
+                "D": "Performs well with non-spherical cluster shapes."
               },
-              "answer": "Not require us to set the number of clusters, the number of clusters will be determined for us.",
+              "answer": "Does not require us to set the number of clusters; the number of clusters will be determined automatically.",
               "answer_number": ["A"]
             },
             {
@@ -5518,23 +5519,23 @@
               "question": "(Choose 1 answer)\nWhich statement about unsupervised algorithms is TRUE?",
               "options": {
                 "A": "Unsupervised algorithms are relevant when we have outcomes we are trying to predict.",
-                "B": "Unsupervised algorithms are relevant when we don't have the outcomes we are trying to predict and when we want to break down our data set into smaller groups.",
+                "B": "Unsupervised algorithms are relevant when we don't have labeled outcomes and want to discover patterns or structure (like grouping) in the data.",
                 "C": "Unsupervised algorithms are typically used to forecast time related patterns like stock market trends or sales forecasts.",
-                "D": "Unsupervised algorithms are relevant in cases that require explainability, for example comparing parameters from one model to another.\n\n\nQ: 37"
+                "D": "Unsupervised algorithms are relevant in cases that require explainability, for example comparing parameters from one model to another."
               },
-              "answer": "Unsupervised algorithms are relevant when we don't have the outcomes we are trying to predict and when we want to break down our data set into smaller groups.",
+              "answer": "Unsupervised algorithms are relevant when we don't have labeled outcomes and want to discover patterns or structure (like grouping) in the data.",
               "answer_number": ["B"]
             },
             {
               "id": 37,
-              "question": "(Choose 1 answer)\n37/50-CAP\nWhich of the following statements is a characteristic of the K-means algorithm?",
+              "question": "(Choose 1 answer)\nWhich of the following statements is a characteristic of the K-means algorithm?",
               "options": {
-                "A": "It is limited to use the Euclidean distance within his formulation.",
-                "B": "To determine the number of clusters we use the elbow method.",
+                "A": "It is limited to using the Euclidean distance within its formulation.",
+                "B": "The elbow method is commonly used to help determine the number of clusters (k).",
                 "C": "Can be slow to calculate as the number of observations increases.",
-                "D": "It's limited to use the Ward distance within his formulation.\n\n\nQ: 38"
+                "D": "It's limited to using the Ward distance within its formulation."
               },
-              "answer": "To determine the number of clusters we use the elbow method.",
+              "answer": "The elbow method is commonly used to help determine the number of clusters (k).",
               "answer_number": ["B"]
             },
             {
@@ -5543,10 +5544,10 @@
               "options": {
                 "A": "Data sampling and categorization",
                 "B": "Outliers and duplicated data",
-                "C": "Lack of relevant data and bad data",
-                "D": "Lack of training and expertise\n\n\nQ: 39"
+                "C": "Lack of relevant data and poor data quality",
+                "D": "Lack of training and expertise"
               },
-              "answer": "Lack of relevant data and bad data",
+              "answer": "Lack of relevant data and poor data quality",
               "answer_number": ["C"]
             },
             {
@@ -5554,131 +5555,131 @@
               "question": "(Choose 1 answer)\nWhat is the main goal of adding polynomial features to a linear regression?",
               "options": {
                 "A": "Remove the linearity of the regression and turn it into a polynomial model.",
-                "B": "Capture the relation of the outcome with features of higher order.",
+                "B": "Capture non-linear relationships between features and the outcome.",
                 "C": "Increase the interpretability of a black box model.",
-                "D": "Ensure similar results across all folds when using K-fold cross validation.\n\n\nQ: 40"
+                "D": "Ensure similar results across all folds when using K-fold cross validation."
               },
-              "answer": "Capture the relation of the outcome with features of higher order.",
+              "answer": "Capture non-linear relationships between features and the outcome.",
               "answer_number": ["B"]
             },
             {
               "id": 40,
               "question": "(Choose 1 answer)\nWhich statement about Support Vector Machines is TRUE?",
               "options": {
-                "A": "Support Vector Machine models are non-linear.",
-                "B": "Support Vector Machine models rarely overfit on training data if using regularization.",
+                "A": "Support Vector Machine models are inherently non-linear.",
+                "B": "Support Vector Machine models can be less prone to overfitting, especially when using regularization (e.g., the C parameter).",
                 "C": "Support Vector Machine models can be used for classification but not for regression.",
-                "D": "Support Vector Machine models can be used for regression but not for classification.\n\n\nQ: 41"
+                "D": "Support Vector Machine models can be used for regression but not for classification."
               },
-              "answer": "Support Vector Machine models rarely overfit on training data if using regularization.",
+              "answer": "Support Vector Machine models can be less prone to overfitting, especially when using regularization (e.g., the C parameter).",
               "answer_number": ["B"]
             },
             {
               "id": 41,
-              "question": "(Choose 1 answer)\n41/50-CAP\nWhat are polynomial features?",
+              "question": "(Choose 1 answer)\nWhat are polynomial features?",
               "options": {
-                "A": "They are higher order relationships in the data.",
+                "A": "Features representing higher-order or interaction terms derived from original features.",
                 "B": "They are logistic regression coefficients.",
-                "C": "They are lower order relationships in the data.",
-                "D": "They are represented by linear relationships in the data.\n\n\nQ: 42"
+                "C": "They represent only lower-order relationships in the data.",
+                "D": "They are represented by linear relationships in the data."
               },
-              "answer": "They are higher order relationships in the data.",
+              "answer": "Features representing higher-order or interaction terms derived from original features.",
               "answer_number": ["A"]
             },
             {
               "id": 42,
-              "question": "(Choose 1 answer)\n42/50-CAP\nThese are all characteristics of decision trees, EXCEPT:",
+              "question": "(Choose 1 answer)\nThese are all characteristics of decision trees, EXCEPT:",
               "options": {
                 "A": "They segment data based on features to predict results",
-                "B": "They split nodes into leaves",
+                "B": "They split nodes into child nodes (often called leaves at the end)",
                 "C": "They can be used for either classification or regression",
-                "D": "They have well rounded decision boundaries\n\n\nQ: 43"
+                "D": "They inherently produce smooth, well-rounded decision boundaries"
               },
-              "answer": "They have well rounded decision boundaries\n\n\nQ: 43",
+              "answer": "They inherently produce smooth, well-rounded decision boundaries",
               "answer_number": ["D"]
             },
             {
               "id": 43,
-              "question": "(Choose 1 answer)\n43/50-CAP\nConsider the following statements about Estimation and Inference:\na. In general, the population parameters are unknown.\nb. Parametric models have finite number of parameters.",
+              "question": "(Choose 1 answer)\nConsider the following statements about Estimation and Inference:\na. In general, the population parameters are unknown.\nb. Parametric models have a fixed, finite number of parameters.",
               "options": {
                 "A": "a and b are true",
                 "B": "a and b are false",
                 "C": "a is true and b is false",
-                "D": "a is false and b is true\n\n\nQ: 44"
+                "D": "a is false and b is true"
               },
               "answer": "a and b are true",
               "answer_number": ["A"]
             },
             {
               "id": 44,
-              "question": "(Choose 1 answer)\n44/50-CAP\nThese are all characteristics of the k nearest neighbors algorithm EXCEPT:",
+              "question": "(Choose 1 answer)\nThese are all characteristics of the k nearest neighbors algorithm EXCEPT:",
               "options": {
-                "A": "It is sensitive to scaling",
-                "B": "It determines decision boundaries to make predictions",
-                "C": "It determines the value for k",
-                "D": "It is well suited to predict variables with multiple classes\n\n\nQ: 45"
+                "A": "It is sensitive to feature scaling",
+                "B": "It uses distance to neighbors to make predictions, implicitly defining decision boundaries",
+                "C": "It automatically determines the optimal value for k",
+                "D": "It is well suited to predict variables with multiple classes"
               },
-              "answer": "It determines the value for k",
+              "answer": "It automatically determines the optimal value for k",
               "answer_number": ["C"]
             },
             {
               "id": 45,
-              "question": "(Choose 1 answer)\n45/50-CAP\nWhat is the most common sklearn methods to add polynomial features to your data?",
+              "question": "(Choose 1 answer)\nWhat are the most common sklearn methods from `PolynomialFeatures` to add polynomial features to your data?",
               "options": {
                 "A": "polyFeat.add and polyFeat.transform",
                 "B": "polyFeat.add and polyFeat.fit",
-                "C": "polyFeat.fit and polyFeat.transform",
-                "D": "polyFeat.transform\n\n\nQ: 46"
+                "C": "polyFeat.fit_transform (or fit then transform)",
+                "D": "polyFeat.transform"
               },
-              "answer": "polyFeat.fit and polyFeat.transform",
+              "answer": "polyFeat.fit_transform (or fit then transform)",
               "answer_number": ["C"]
             },
             {
               "id": 46,
-              "question": "Which distance metric is usefulwhen we have text documents and we want to group similar topics together?\n(Choose 1 answer)\n46/50-CAP",
+              "question": "(Choose 1 answer)\nWhich distance metric is particularly useful when comparing sets, like the presence/absence of words in text documents, to group similar topics?",
               "options": {
                 "A": "Manhattan Distance",
-                "B": "Euclidean",
-                "C": "Jaccard",
-                "D": "Mahalanobis Distance\nOsh\nQ: 47"
+                "B": "Euclidean Distance",
+                "C": "Jaccard Distance / Similarity",
+                "D": "Mahalanobis Distance"
               },
-              "answer": "Jaccard",
+              "answer": "Jaccard Distance / Similarity",
               "answer_number": ["C"]
             },
             {
               "id": 47,
-              "question": "(Choose 1 answer)",
+              "question": "(Choose 1 answer)\nThis is the syntax you need to predict new data after you have trained a linear regression model called `LR` in scikit-learn:",
               "options": {
-                "A": "LR-predict(X_test)\nThis is the syntax you need to predict new data after you have trained a linear regression called LR:",
+                "A": "LR-predict(X_test)",
                 "B": "LR.predict(X_test)",
                 "C": "LR.predict(LR, X_test)",
-                "D": "predict(LR, X_test)\n\n\nQ: 48"
+                "D": "predict(LR, X_test)"
               },
               "answer": "LR.predict(X_test)",
               "answer_number": ["B"]
             },
             {
               "id": 48,
-              "question": "(Choose 1 answer)\nThis option describes a way of turning a regression problem for a classification problem:",
+              "question": "(Choose 1 answer)\nThis option describes a common way of turning a regression problem into a classification problem:",
               "options": {
-                "A": "Create a new variable that flags 1 for above a certain value and 0 otherwise",
-                "B": "Use outlier treatment",
-                "C": "Use missing value handling",
-                "D": "Create a new variable that uses autoencoding to transform a continuous outcome into categorical\n\n\nQ: 49"
+                "A": "Create a new binary target variable by thresholding the original continuous outcome (e.g., 1 if above value X, 0 otherwise).",
+                "B": "Use outlier treatment techniques.",
+                "C": "Use missing value handling techniques.",
+                "D": "Create a new variable that uses autoencoding to transform a continuous outcome into categorical."
               },
-              "answer": "Create a new variable that flags 1 for above a certain value and 0 otherwise",
+              "answer": "Create a new binary target variable by thresholding the original continuous outcome (e.g., 1 if above value X, 0 otherwise).",
               "answer_number": ["A"]
             },
             {
               "id": 49,
-              "question": "(Choose 1 answer)\nAll of these are characteristics of SVMS, EXCEPT:",
+              "question": "(Choose 1 answer)\nAll of these are characteristics of SVMs, EXCEPT:",
               "options": {
-                "A": "Support Vector Machines do not return predicted probabilities.",
-                "B": "Support Vector Machines use decision boundaries for classification.",
-                "C": "The algorithm behind Support Vector Machines calculates hyperplanes that minimize misclassification error.",
-                "D": "Support Vector Machine models are non-linear.\n\n\nQ: 50"
+                "A": "Standard Support Vector Machines do not directly output predicted probabilities (though methods exist to calibrate them).",
+                "B": "Support Vector Machines use hyperplanes (decision boundaries) for classification.",
+                "C": "The algorithm behind Support Vector Machines finds a hyperplane that maximizes the margin between classes.",
+                "D": "Support Vector Machine models are inherently linear (though kernels can make them non-linear)."
               },
-              "answer": "Support Vector Machine models are non-linear.\n\n\nQ: 50",
+              "answer": "Support Vector Machine models are inherently linear (though kernels can make them non-linear).",
               "answer_number": ["D"]
             }
           ]
