@@ -3347,6 +3347,226 @@
               "answer_number": ["D"]
             }
           ]
+        },
+        {
+          "quiz_set": "SP23_FE",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Multiple Choices\n(Choose 1 answer)\n✔D\nAt which stage should an analyst define the problem?",
+              "options": {
+                "A": "The ask phase",
+                "B": "The prepare phase",
+                "C": "The process phase.",
+                "D": "The analysis phase."
+              },
+              "answer": "The ask phase",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 2,
+              "question": "Multiple Choices\nConsider the following equation, what is the parameter b1? Y=b0 + b1x\n(Choose 1 answer)",
+              "options": {
+                "A": "the predictor",
+                "B": "the target",
+                "C": "the intercept",
+                "D": "the slope"
+              },
+              "answer": "the slope",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 3,
+              "question": "Multiple Choices\n(Choose 1 answer)\nWhat are two examples of endpoints in an API?",
+              "options": {
+                "A": "Protocols and web service",
+                "B": "Client and protocols",
+                "C": "Data and web service",
+                "D": "Client and web service"
+              },
+              "answer": "Client and web service",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 4,
+              "question": "Multiple Choices\nAnswer (Choose 1 answer)\nChoose the best describes of Folium library",
+              "options": {
+                "A": "It is a powerful R library that helps you create several types of Leaflet maps.",
+                "B": "It enables focus on the binding of data to a map for choropleth visualizations",
+                "C": "It enables focus on passing visualizations as markers on the map.",
+                "D": "It enables both the binding of data to a map for choropleth visualizations as well as passing visu as markers on the map."
+              },
+              "answer": "It enables both the binding of data to a map for choropleth visualizations as well as passing visu as markers on the map.",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 5,
+              "question": "Multiple Choices\n(Choose 1 answer)\nWhat is the maximum value for feature scaling?",
+              "options": {
+                "A": "1",
+                "B": "-infinity\nCO",
+                "D": "+infinity"
+              },
+              "answer": "1",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 6,
+              "question": "Multiple Choices\nAnswer (Choose 1 answer)\nWhat is the Overfitting in model building?",
+              "options": {
+                "A": "where the model is too flexible and fits the noise rather than the function.",
+                "B": "where the model is too different and fits the noise rather than the function.",
+                "C": "where the model is too correct to fit the data.",
+                "D": "where the model is too simple to fit the data."
+              },
+              "answer": "where the model is too flexible and fits the noise rather than the function.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 7,
+              "question": "Multiple Choices\nAnswer (Choose 1 answer)",
+              "options": {
+                "A": "Slack\nFacebook Messenger and button. Choose the best answer are integration options within Watson Assistant from the Add Integration",
+                "B": "Google Search",
+                "C": "Yahoo messager",
+                "D": "Github"
+              },
+              "answer": "Slack\nFacebook Messenger and button. Choose the best answer are integration options within Watson Assistant from the Add Integration",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 8,
+              "question": "Multiple Choices\nAnswer (Choose 1 answer)\nHow do you understand a student advisor chatbot? Choose the best answer",
+              "options": {
+                "A": "A student advisor chatbot can provide answers to most questions but not allow escalation to a human customer care team.",
+                "B": "Users can ask what's the difference between auditing a course and paying for it. The student advisor chatbot will answer.",
+                "C": "When questions are sent to the student advisor chatbot, the consulting team will divide to answer user questions.",
+                "D": "All of the others"
+              },
+              "answer": "Users can ask what's the difference between auditing a course and paying for it. The student advisor chatbot will answer.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 9,
+              "question": "Multiple Choices\nAnswer (Choose 1 answer)\nChoose the one that best describes of Area chart",
+              "options": {
+                "A": "It is commonly used to represent cumulated totals using numbers or percentages over time.",
+                "B": "It is a type of plot which displays information as a series of data points called 'markers' connected by straight line segments.",
+                "C": "It is a way of representing the frequency distribution of a variable.",
+                "D": "It is commonly used to compare the values of a variable at a given point in time."
+              },
+              "answer": "It is commonly used to represent cumulated totals using numbers or percentages over time.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 10,
+              "question": "Multiple Choices\nAnswer (Choose 1 answer)",
+              "options": {
+                "A": "source cause\nWhat should be investigated to assist with remediation when a process change error occurs?",
+                "B": "stakeholders involved",
+                "C": "purpose",
+                "D": "original intent"
+              },
+              "answer": "source cause\nWhat should be investigated to assist with remediation when a process change error occurs?",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 11,
+              "question": "Multiple Choices\nAnswer (Choose 1 answer)\nWhat would be added to the command highest_gpa = grades to produce the highest number in an array of student GPAs?",
+              "options": {
+                "A": "max",
+                "B": "(high)",
+                "C": ".max()",
+                "D": ".high"
+              },
+              "answer": ".max()",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 12,
+              "question": "Multiple Choices\nAnswer (Choose 1 answer)\nWhat is the Pearson Correlation between variables X and Y if X = Y?",
+              "options": {
+                "A": "0",
+                "B": "-1",
+                "C": "1",
+                "D": "+infinity"
+              },
+              "answer": "1",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 13,
+              "question": "Multiple Choices\nAnswer (Choose 1 answer)",
+              "options": {
+                "A": "the predictor\nConsider the following equation, what is the parameter b0? Y= b0 + b1x",
+                "B": "the target",
+                "C": "the intercept",
+                "D": "the slope"
+              },
+              "answer": "the intercept",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 14,
+              "question": "Multiple Choices\nAnswer (Choose 1 answer)\nData visualization is a way to show a complex data in a form that is graphical and easy to understand. But why?",
+              "options": {
+                "A": "for exploratory data analysis",
+                "B": "communicate data clearly",
+                "C": "share unbiased representation of data",
+                "D": "all of the others"
+              },
+              "answer": "all of the others",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 15,
+              "question": "Multiple Choices\nAnswer (Choose 1 answer)\nWhat information does the regression plot show us? Choose the best answer",
+              "options": {
+                "A": "The length of the correlation",
+                "B": "The value of the relationship",
+                "C": "Relationship between the slope and intercept",
+                "D": "Relationship between two variables"
+              },
+              "answer": "Relationship between two variables",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 16,
+              "question": "Multiple Choices\nAnswer (Choose 1 answer)\nWhy are communication skills an important part of the first phase of data analysis?",
+              "options": {
+                "A": "To establish direct contact for needed updates.",
+                "B": "To communicate the results to stakeholders.",
+                "C": "To establish a process for change.",
+                "D": "To identify the specific goals that stakeholders have."
+              },
+              "answer": "To identify the specific goals that stakeholders have.",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 17,
+              "question": "Multiple Choices\nAnswer (Choose 1 answer)",
+              "options": {
+                "A": "-1\nWhat value of R2 (coefficient of determination) indicates your model performs best?",
+                "B": "0",
+                "C": "1",
+                "D": "Infinity"
+              },
+              "answer": "1",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 18,
+              "question": "Multiple Choices\nAnswer (Choose 1 answer)\nis a type of plot that displays values pertaining to typically two variables against each other. Choose the best answer:",
+              "options": {
+                "A": "box plot",
+                "B": "scatter plot",
+                "C": "Histogram",
+                "D": "Pie chart"
+              },
+              "answer": "scatter plot",
+              "answer_number": ["B"]
+            }
+          ]
         }
       ]
     },
@@ -3715,6 +3935,549 @@
               },
               "answer": "やくそく",
               "answer_number": ["D"]
+            }
+          ]
+        },
+        {
+          "quiz_set": "SU24_FE",
+          "questions": [
+            {
+              "id": 1,
+              "question": "(Choose 1 answer)\nCác chữ Hán trong ngoặc [ ] có cách đọc tương ứng như thế nào? Hãy chọn đáp án đúng trong A, B, C,D\n午前、としょかんへ【行きます】。",
+              "options": {
+                "A": "おきます",
+                "B": "ききます",
+                "C": "かきます",
+                "D": "いきます\n\n\n1"
+              },
+              "answer": "いきます\n\n\n1",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 2,
+              "question": "(Choose 1 answer)\nCác chữ Hán trong ngoặc [ ] có cách đọc tương ứng như thế nào? Hãy chọn đáp án đúng trong A, B, C, D 食べ物で【肉】がいちばん すきです。",
+              "options": {
+                "A": "ごはん",
+                "B": "たまご",
+                "C": "やさい",
+                "D": "にく"
+              },
+              "answer": "にく",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 3,
+              "question": "A Các chữ Hán trong ngoặc [ ] có cách đọc tương ứng như thế nào? Hãy chọn đáp án đúng trong A, B, C, D 【来月】ホームステイにいきます。\n(Choose 1 answer)",
+              "options": {
+                "A": "らいしゅう",
+                "B": "こんげつ",
+                "C": "らいげつ",
+                "D": "せんしゅう"
+              },
+              "answer": "らいげつ",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 4,
+              "question": "(Choose 1 answer)\nA Các chữ Hán trong ngoặc ( ) có cách đọc tương ứng như thế nào? Hãy chọn đáp án đúng trong A, B, C, D\n来週【お寺】へいきます。",
+              "options": {
+                "A": "おすし",
+                "B": "おてら",
+                "C": "おしろ",
+                "D": "おなまえ"
+              },
+              "answer": "おてら",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 5,
+              "question": "A Các chữ Hán trong ngoặc [ ] có cách đọc tương ứng như thế nào? Hãy chọn đáp án đúng trong A, B,",
+              "options": {
+                "C": "ときょう",
+                "A": "ときょ",
+                "B": "とうきょう",
+                "D": "とうきょ"
+              },
+              "answer": "とうきょう",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 6,
+              "question": "(Choose 1 answer)\nCác từ trong ngoặc [ ] dưới đây có chữ Hán tương ứng như thế nào? Hãy chọn đáp án đúng trong A, B,",
+              "options": {
+                "C": "野",
+                "A": "東",
+                "B": "京",
+                "D": "理"
+              },
+              "answer": "東",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 7,
+              "question": "(Choose 1 answer)\nCác từ trong ngoặc [ ] dưới đây có chữ Hán tương ứng như thế nào? Hãy chọn đáp án đúng trong A, B,",
+              "options": {
+                "C": "来周",
+                "B": "来月",
+                "D": "先週"
+              },
+              "answer": "先週",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 8,
+              "question": "A Các từ trong ngoặc [ ] dưới đây có chữ Hán tương ứng như thế nào? Hãy chọn đáp án đúng trong A, B,",
+              "options": {
+                "C": "会いてください",
+                "A": "帰いてください",
+                "B": "書いてください",
+                "D": "聞いてください"
+              },
+              "answer": "書いてください",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 9,
+              "question": "Multile Choices\n(Choose 1 answer)\nCác từ trong ngoặc [ ] dưới đây có chữ Hán tương ứng như thế nào? Hãy chọn đáp án đúng trong A, B,",
+              "options": {
+                "C": "飲み物",
+                "A": "読み物",
+                "B": "食み物",
+                "D": "買み物"
+              },
+              "answer": "飲み物",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 10,
+              "question": "A Các từ trong ngoặc [ ] dưới đây có chữ Hán tương ứng như thế nào? Hãy chọn đáp án đúng trong A, B,",
+              "options": {
+                "C": "行きます",
+                "A": "会きます",
+                "B": "話きます",
+                "D": "書きます"
+              },
+              "answer": "行きます",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 11,
+              "question": "Multile Choices\n(Choose 1 answer)\nChọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống ランさん、このりょうりの ( )かたをおしえてください。",
+              "options": {
+                "A": "つくりました",
+                "B": "つくり",
+                "C": "つくりま",
+                "D": "つくります"
+              },
+              "answer": "つくり",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 12,
+              "question": "Multile Choices\n(Choose 1 answer)\nHãy chọn dạng phủ định của từ dưới đây:\n「にぎやか」",
+              "options": {
+                "A": "にぎやかでした",
+                "B": "にぎやかではありませんでした",
+                "C": "にぎやかじゃありません",
+                "D": "にぎやかかった"
+              },
+              "answer": "にぎやかじゃありません",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 13,
+              "question": "(Choose 1 answer)\nChọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống 山田(やまだ)さんは、いま、先生()はなしています。\nC",
+              "options": {
+                "A": "と",
+                "B": "も",
+                "C": "で",
+                "D": "が"
+              },
+              "answer": "と",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 14,
+              "question": "A Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\n(Choose 1 answer)\n)おかね( ) かりました。Bともだち(",
+              "options": {
+                "A": "に/を",
+                "B": "に/で",
+                "C": "で/に",
+                "D": "を/に"
+              },
+              "answer": "に/を",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 15,
+              "question": "A Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống B きのう、ともだちとおんせん( )はいりました。\n(Choose 1 answer)\nC",
+              "options": {
+                "A": "で",
+                "B": "を",
+                "C": "に",
+                "D": "A"
+              },
+              "answer": "に",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 16,
+              "question": "(Choose 1 answer)\nChọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nA: カレーと すしとどちらがすきですか。\nB:すきです。",
+              "options": {
+                "A": "どちらは",
+                "B": "どちらも",
+                "C": "どちら",
+                "D": "どちらが"
+              },
+              "answer": "どちらも",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 17,
+              "question": "(Choose 1 answer)\nChọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống わたしは 日本料理(りょうり)()すきです。",
+              "options": {
+                "A": "を",
+                "B": "が",
+                "C": "は",
+                "D": "に"
+              },
+              "answer": "が",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 18,
+              "question": "Multile Choices\n(Choose 1 answer)\nHãy chọn dạng quá khứ của từ dưới đây:\nB 「やすみ」",
+              "options": {
+                "A": "やすみじゃありません",
+                "B": "やすみかった",
+                "C": "やすみです",
+                "D": "やすみでした"
+              },
+              "answer": "やすみでした",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 19,
+              "question": "A Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nB うちから がっこうまで10ぷんです。\n(Choose 1 answer)",
+              "options": {
+                "A": "あるいて",
+                "B": "バイク",
+                "C": "でんしゃ",
+                "D": "じどうしゃ"
+              },
+              "answer": "あるいて",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 20,
+              "question": "(Choose 1 answer)\nChọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống コンサートのチケット2枚(まい)あります。",
+              "options": {
+                "A": "X/が",
+                "B": "が/が",
+                "C": "が/×",
+                "D": "が/と"
+              },
+              "answer": "が/×",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 21,
+              "question": "A Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống B きれいなしゃしんですね。だれ()とりましたか。\n(Choose 1 answer)\nC",
+              "options": {
+                "A": "の\nD B. は",
+                "C": "が",
+                "D": "に"
+              },
+              "answer": "が",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 22,
+              "question": "(Choose 1 answer)\nChọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống ラーメンはいちばん()たべものです。",
+              "options": {
+                "A": "きらいい",
+                "B": "きらい",
+                "C": "きらいな",
+                "D": "きらく"
+              },
+              "answer": "きらいな",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 23,
+              "question": "A B Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống テーブルのうえ()、くだもの( )おいてください。\n(Choose 1 answer)\nC",
+              "options": {
+                "A": "に/を",
+                "B": "で/を",
+                "C": "を/が",
+                "D": "から/を"
+              },
+              "answer": "に/を",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 24,
+              "question": "(Choose 1 answer)\nChọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nA: しゅうまつ、なにをしましたか。B: りょこうをしました。りょこうは",
+              "options": {
+                "A": "たのしかった",
+                "B": "ふるかった",
+                "C": "たのしい",
+                "D": "ふるい\n\nです。"
+              },
+              "answer": "たのしかった",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 25,
+              "question": "A Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống B へしょくじに行きます。\n(Choose 1 answer)",
+              "options": {
+                "A": "レストラン",
+                "B": "ほんや",
+                "C": "日本",
+                "D": "くに"
+              },
+              "answer": "レストラン",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 26,
+              "question": "Multile Choices\n(Choose 1 answer)\nChọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nB とうきょうは3月、すこし",
+              "options": {
+                "A": "たかいです",
+                "B": "あたたかくないです",
+                "C": "あたたかいです",
+                "D": "つめたくないです"
+              },
+              "answer": "あたたかいです",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 27,
+              "question": "(Choose 1 answer)\nB 今年のふゆ、スキーをしに行きます。\nChọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nC",
+              "options": {
+                "A": "ほっかいどう",
+                "B": "デパート",
+                "C": "きっさてん",
+                "D": "レストラン"
+              },
+              "answer": "ほっかいどう",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 28,
+              "question": "A Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống 先生(せんせい)の時計(とけい)は() 時計(とけい)ですか。B\n(Choose 1 answer)",
+              "options": {
+                "A": "どの",
+                "B": "なん",
+                "C": "どれ",
+                "D": "どう"
+              },
+              "answer": "どの",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 29,
+              "question": "(Choose 1 answer)\nChọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống )。\nA:マルコさん、やさいを(\nB:はい、わかりました。\nC",
+              "options": {
+                "A": "あらいますか",
+                "B": "あらいましたか",
+                "C": "あらってください",
+                "D": "あらいませんか"
+              },
+              "answer": "あらってください",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 30,
+              "question": "(Choose 1 answer)\nChọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nA: あのやまはたかいですか。\nB: いいえ、",
+              "options": {
+                "A": "たかくなかったです",
+                "B": "たかいです",
+                "C": "たかくないです",
+                "D": "たかかったです"
+              },
+              "answer": "たかくないです",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 31,
+              "question": "(Choose 1 answer)\nChọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống あした、ハノイで サッカーのがあります。",
+              "options": {
+                "A": "しあい",
+                "B": "まつり",
+                "C": "セール",
+                "D": "ようじ"
+              },
+              "answer": "しあい",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 32,
+              "question": "A Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống バンコクから アユタヤまでで6時間くらいですB\n(Choose 1 answer)",
+              "options": {
+                "A": "きょうかい",
+                "B": "おんせん",
+                "C": "じんじゃ",
+                "D": "ひこうき"
+              },
+              "answer": "ひこうき",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 33,
+              "question": "A Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống 田中: いっしょにかいものに行きませんか。B\n(Choose 1 answer)\nミラー:。行きましょう。\nC",
+              "options": {
+                "A": "ちょっと",
+                "B": "いいですね",
+                "C": "そうですね",
+                "D": "すみません"
+              },
+              "answer": "いいですね",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 34,
+              "question": "(Choose 1 answer)\nChọn nghĩa tiếng Việt tương ứng của từ sau:\nB “てんきがわるい",
+              "options": {
+                "A": "Núi thấp",
+                "B": "Núi cao",
+                "C": "Thời tiết xấu",
+                "D": "Thời tiết đẹp"
+              },
+              "answer": "Thời tiết xấu",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 35,
+              "question": "A Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\n(Choose 1 answer)\nデパートのBにいきました。\nC",
+              "options": {
+                "A": "やくそく",
+                "B": "セール",
+                "C": "しあい",
+                "D": "コース"
+              },
+              "answer": "セール",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 36,
+              "question": "A Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống まいばん、ゲームをします。ゲームはです。\n(Choose 1 answer)",
+              "options": {
+                "A": "ひま",
+                "B": "たいへん",
+                "C": "やすい",
+                "D": "おもしろい"
+              },
+              "answer": "おもしろい",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 37,
+              "question": "(Choose 1 answer)\nChọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống 毎日、アルバイトをします。です。",
+              "options": {
+                "A": "たいへん",
+                "B": "てんきがいい",
+                "C": "きもちがいい",
+                "D": "あつい"
+              },
+              "answer": "たいへん",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 38,
+              "question": "A Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\n(Choose 1 answer)\nほうりゅうじはおてらです。\nC",
+              "options": {
+                "A": "さむい",
+                "B": "つめたい",
+                "C": "ふるい",
+                "D": "からい"
+              },
+              "answer": "ふるい",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 39,
+              "question": "A Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nB ケーキはです。\n(Choose 1 answer)\nC",
+              "options": {
+                "A": "ひくい",
+                "B": "にがい",
+                "C": "からい",
+                "D": "あまい"
+              },
+              "answer": "あまい",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 40,
+              "question": "A Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\n(Choose 1 answer)\nはとてもにぎやかです。\nC",
+              "options": {
+                "A": "かわ",
+                "B": "おしろ",
+                "C": "パーティー",
+                "D": "きのう"
+              },
+              "answer": "パーティー",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 41,
+              "question": "A Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\n(Choose 1 answer)\nB 私のまちはとてもです。\nC",
+              "options": {
+                "A": "おいしい",
+                "B": "あまい",
+                "C": "にぎやか",
+                "D": "つめたい"
+              },
+              "answer": "にぎやか",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 42,
+              "question": "Multile Choices\n(Choose 1 answer)\nChọn từ khác loại trong những từ sau:A\n①たいへん\nB ② ひま\n③ きれい\nC ④やすい",
+              "options": {
+                "A": "きれい",
+                "B": "やすい",
+                "C": "ひま",
+                "D": "たいへん"
+              },
+              "answer": "やすい",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 43,
+              "question": "A Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\n(Choose 1 answer)\nB やきゅうを",
+              "options": {
+                "A": "あそびます",
+                "B": "いきます",
+                "C": "かえります",
+                "D": "します"
+              },
+              "answer": "します",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 44,
+              "question": "(Choose 1 answer)\nChọn từ khác loại trong số các từ sau:\n①すっぱい\nB ②ふるい③にがい\nC ④からい",
+              "options": {
+                "A": "すっぱい",
+                "B": "ふるい",
+                "C": "からい",
+                "D": "にがい"
+              },
+              "answer": "ふるい",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 45,
+              "question": "Questions\nReading 1/1:\nReal size\nZoom In\nZoom Out\n23\nPN=3\n1) Chọn từ thích hợp điền vào",
+              "options": {
+                "A": "きもちがよかったですB. おいしかったです\nNext Reading",
+                "B": "かしました",
+                "C": "きれいでした",
+                "D": "あつかったです\n\n\n1"
+              },
+              "answer": "きれいでした, きれいでした, きれいでした",
+              "answer_number": ["C", "C", "C"]
             }
           ]
         }
@@ -4325,6 +5088,2495 @@
               },
               "answer": "The eigenvectors of the covariance matrix",
               "answer_number": ["C"]
+            }
+          ]
+        },
+        {
+          "quiz_set": "SP24_FE",
+          "questions": [
+            {
+              "id": 1,
+              "question": "(Choose 1 answer)\nYou are evaluating a binary classifier. There are 80 positive outcomes in the test data, and 150 observations.Using a 50% threshold, the classifier predicts 60 positive outcomes, of which 20 are incorrect.\nWhat is the classifier's F1 score on the test sample?\nΑ. 75%",
+              "options": {
+                "B": "57.2%",
+                "C": "67.5%",
+                "D": "42.8%\n\n\n1"
+              },
+              "answer": "57.2%",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 2,
+              "question": "(Choose 1 answer)\nThe following statement is an example of a business case where we can use the Cosine Distance?",
+              "options": {
+                "A": "Cosine is useful for coordinate based measurements.",
+                "B": "Cosine is better for data such as text where location of occurrence is less important.",
+                "C": "Cosine distance is more sensitive to the curse of dimensionality",
+                "D": "Cosine distance is less sensitive to the curse of dimensionality\n1/50-CAP\n\n\n2"
+              },
+              "answer": "Cosine is better for data such as text where location of occurrence is less important.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 3,
+              "question": "(Choose 1 answer)",
+              "options": {
+                "A": "Anomaly detection.\nWhich of the following examples is NOT a common use case of clustering in the real world?",
+                "B": "Customer segmentation",
+                "C": "Determine risk factor and prevention factors for diseases such as osteoporosis",
+                "D": "Improve supervised learning.\n2/50-CAP"
+              },
+              "answer": "Determine risk factor and prevention factors for diseases such as osteoporosis",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 4,
+              "question": "(Choose 1 answer)\nWhich of the following statements about Random Upsampling is TRUE?",
+              "options": {
+                "A": "Random Upsampling preserves all original observations.",
+                "B": "Random Upsampling will generally lead to a lower F1 score.",
+                "C": "Random Upsampling generates observations that were not part of the original data.",
+                "D": "Random Upsampling results in excessive focus on the more frequently-occurring class.\n\n\n4"
+              },
+              "answer": "Random Upsampling preserves all original observations.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 5,
+              "question": "(Choose 1 answer)\nWhat is artificial intelligence?",
+              "options": {
+                "A": "A subset of deep learning.",
+                "B": "Any program that can sense, reason, act, and adapt.",
+                "C": "A subset of machine learning",
+                "D": "None of the others\n\n\n5"
+              },
+              "answer": "Any program that can sense, reason, act, and adapt.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 6,
+              "question": "(Choose 1 answer)\nWhich of the following statements correctly defines the strengths of the DBSCAN algorithm?",
+              "options": {
+                "A": "No need to specify the number of clusters (cf. K-means), allows for noise, and can handle arbitrary-shaped clusters.",
+                "B": "Do well with different density, works with just one parameter, the n_clu defines itself.",
+                "C": "The algorithm will find the outliers first, draw regular shapes, works faster than other algorithms.",
+                "D": "The algorithm is computationally intensive, it is sensitive to outliers, and it requires few hyperparameters to be tuned.\n\n\n6"
+              },
+              "answer": "No need to specify the number of clusters (cf. K-means), allows for noise, and can handle arbitrary-shaped clusters.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 7,
+              "question": "(Choose 1 answer)\nWhat does NoSQL stand for and what does it represent?",
+              "options": {
+                "A": "NoSQL stands for Not-only SQL, and it represents a set of databases that are relational, therefore, they have fixed structure.",
+                "B": "NoSQL stands for Non-Structured Query Language, and it represents a set of relational databases with fixed schemas.",
+                "C": "NoSQL stands for Non-Structured Query Language, and it represents a set of non-relational databases with varied schemas.",
+                "D": "NoSQL stands for Not-only SQL, and it represents a set of databases that are not relational, therefore,they vary in structure."
+              },
+              "answer": "NoSQL stands for Not-only SQL, and it represents a set of databases that are not relational, therefore,they vary in structure.",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 8,
+              "question": "(Choose 1 answer)\nWhich type of Ensemble modeling approach is NOT a special case of model averaging?",
+              "options": {
+                "A": "Random Forest methods",
+                "B": "Boosting methods",
+                "C": "The Pasting method of Bootstrap aggregation",
+                "D": "The Bagging method of Bootstrap aggregation\nOsh\n8"
+              },
+              "answer": "Boosting methods",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 9,
+              "question": "(Choose 1 answer)\nWhich statement about the Pandas read csv function is TRUE?",
+              "options": {
+                "A": "It can only read comma-delimited data",
+                "B": "It can read both tab-delimited and space-delimited data",
+                "C": "It reads data into a 2-dimensional NumPy array",
+                "D": "It allows only one argument: the name of the file\n\n\n9"
+              },
+              "answer": "It can read both tab-delimited and space-delimited data",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 10,
+              "question": "(Choose 1 answer)\nA p-value is:",
+              "options": {
+                "A": "the smallest significance level at which the null hypothesis would be rejected",
+                "B": "the probability of the null hypothesis being true",
+                "C": "the probability of the null hypothesis being false",
+                "D": "the smallest significance level at which the null hypothesis is accepted\n\n\nQ: 10"
+              },
+              "answer": "the smallest significance level at which the null hypothesis would be rejected",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 11,
+              "question": "(Choose 1 answer)\nWhat happen with our second cluster centroid when we use the probability formula?",
+              "options": {
+                "A": "When we use the probability formula, we put less weight on the points that are far away. So, our second cluster centroid is likely going to be closer.",
+                "B": "When we use the probability formula, we put more weight on the points that are far away. So, our second cluster centroid is likely going to be more distant.",
+                "C": "When we use the probability formula, we put more weight on the lighter centroids, because it will take more computational power to draw our clusters. So, the second cluster centroid is likely going to be less distant.",
+                "D": "When we use the probability formula, we put less weight on the points that are far away. So, our second cluster centroid is likely going to be more distant.\n\n\nQ: 11"
+              },
+              "answer": "When we use the probability formula, we put less weight on the points that are far away. So, our second cluster centroid is likely going to be closer.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 12,
+              "question": "(Choose 1 answer)\n11/50-CAP\nWhich of the following statements about regularization is TRUE?",
+              "options": {
+                "A": "Regularization always reduces the number of selected features.",
+                "B": "Regularization increases the likelihood of overfitting relative to training data.",
+                "C": "Regularization decreases the likelihood of overfitting relative to training data.",
+                "D": "Regularization performs feature selection without a negative impact in the likelihood of overfitting relative to the training data.\n\n\nQ: 12"
+              },
+              "answer": "Regularization decreases the likelihood of overfitting relative to training data.",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 13,
+              "question": "(Choose 1 answer)\nHow do we define the core points when we use the DBSCAN algorithm?",
+              "options": {
+                "A": "A point that has more than n_clu neighbors in their E-neighborhood.",
+                "B": "An E-neighbor point than has fewer than n_clu neighbors itself.",
+                "C": "A point that has no points in its E-neighborhood.",
+                "D": "A point that has the same amount of n_clu neighbors within and outside the E-neighborhood\n\n\nQ: 13"
+              },
+              "answer": "A point that has more than n_clu neighbors in their E-neighborhood.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 14,
+              "question": "(Choose 1 answer)\nUsually the first step to fit a gradient boosting classifier model using scikit learn is to:",
+              "options": {
+                "A": "import classifier ensemble from the sklearn. Gradient Boosting module e.g. from sklearn.gradientboosting import ClassifierEnsemble",
+                "B": "import gradient boosting from the sklearn.classifierensemble module e.g. from sklearn.classifierensemble import GradientBoosting",
+                "C": "import gradient boosting classifier from the sklearn.ensemble module\ne.g. from sklearn.ensemble import GradientBoostingClassifier",
+                "D": "import classifier from the sklearn.gradientboosting module\ne.g. from sklearn.gradientboosting import Classifier\nOsh\nQ: 14"
+              },
+              "answer": "import gradient boosting classifier from the sklearn.ensemble module\ne.g. from sklearn.ensemble import GradientBoostingClassifier",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 15,
+              "question": "(Choose 1 answer)\nSelect the option that best completes the following sentence:\nFor data with many features, principal components analysis",
+              "options": {
+                "A": "identifies which features can be safely discarded",
+                "B": "reduces the number of features without losing any information.",
+                "C": "establishes a minimum number of viable features for use in the analysis.",
+                "D": "generates new features that are linear combinations of the original features.\n\n\nQ: 15"
+              },
+              "answer": "generates new features that are linear combinations of the original features.\n\n\nQ: 15",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 16,
+              "question": "(Choose 1 answer)\nUsually the first step to fit a logistic regression model using scikit learn is to:",
+              "options": {
+                "A": "import logistic regression from the sklearn.linear_model module\ne.g. from sklearn.linear_model import LogisticRegression",
+                "B": "import Logistic from the sklearn.regression module\ne.g. from sklearn.regression import Logistic",
+                "C": "import Logistic from the sklearn.linear_regression module\ne.g. from sklearn.linear_regression import Logistic",
+                "D": "import logistic regression from the sklearn.linear classifer module\ne.g. from sklearn.linearclassifer import Logistic Regression\nOsh\nQ: 16"
+              },
+              "answer": "import logistic regression from the sklearn.linear_model module\ne.g. from sklearn.linear_model import LogisticRegression",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 17,
+              "question": "Which of the following is an example of a file type that uses Javascript Object Notation JSON) formatting?\n(Choose 1 answer)\n16/50-CAP",
+              "options": {
+                "A": "Python (py files)",
+                "B": "Javascript (js files)",
+                "C": "SQL Database (sql files)",
+                "D": "Jupyter/iPython (ipynb files)\n\n\nQ: 17"
+              },
+              "answer": "Jupyter/iPython (ipynb files)\n\n\nQ: 17",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 18,
+              "question": "(Choose 1 answer)\n17/50-CAP\nDecision trees used as classifiers compute the value assigned to a leaf by calculating the ratio: number of observations of one class divided by the number of observations in that leaf\nE.g. number of customers that are younger than 50 years old divided by the total number of customers.\nHow are leaf values calculated for regression decision trees?",
+              "options": {
+                "A": "average value of the predicted variable",
+                "B": "median value of the predicted variable",
+                "C": "mode value of the predicted variable",
+                "D": "weighted average value of the predicted variable\nOsh\nQ: 18"
+              },
+              "answer": "average value of the predicted variable",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 19,
+              "question": "(Choose 1 answer)\nThis is the best way to choose the number of trees to build on a Bagging ensemble.",
+              "options": {
+                "A": "Choose a large number of trees, typically above 100",
+                "B": "Prioratize training error metrics over out of bag sample",
+                "C": "Tune number of trees as a hyperparameter that needs to be optimized",
+                "D": "Choose a number of trees past the point of diminishing returns\n\n\nQ: 19"
+              },
+              "answer": "Tune number of trees as a hyperparameter that needs to be optimized",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 20,
+              "question": "(Choose 1 answer)\nThis is an ensemble model that does not use bootstrapped samples to fit the base trees, takes residuals into account, and fits the base trees iteratively:",
+              "options": {
+                "A": "Random Trees",
+                "B": "Boosting",
+                "C": "Bagging",
+                "D": "Random Forest\nOsh\nQ: 20"
+              },
+              "answer": "Boosting",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 21,
+              "question": "(Choose 1 answer)\nIf a low-complexity model is underfitting during estimation, which of the following is MOST LIKELY true (holding the model constant)?",
+              "options": {
+                "A": "K-fold cross-validation will still lead to underfitting, for any k.",
+                "B": "K-cross-validation with a small k will reduce or eliminate underfitting.",
+                "C": "K-fold cross-validation with a large k will reduce or eliminate underfitting.",
+                "D": "None of the above.\n\n\nQ: 21"
+              },
+              "answer": "K-fold cross-validation will still lead to underfitting, for any k.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 22,
+              "question": "(Choose 1 answer)\n21/50-CAP\nIn which case below is it most plausible to conclude that an observation includes an outlier for one of the features?",
+              "options": {
+                "A": "One feature has a deleted residual value above 3.",
+                "B": "The observation includes the maximum target value.",
+                "C": "The observation is missing values for several of the features.",
+                "D": "One feature has an internally-studentized residual value above 3.\nOsh\nQ: 22"
+              },
+              "answer": "One feature has an internally-studentized residual value above 3.\nOsh\nQ: 22",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 23,
+              "question": "(Choose 1 answer)\n22/50-CAP\nYou can use supervised machine learning for all of the following examples, EXCEPT:",
+              "options": {
+                "A": "Segment customers by their demographics.",
+                "B": "Predict the number of customers that will visit a store on a given week.",
+                "C": "Predict the probability of a customer returning to a store.",
+                "D": "Interpret the main drivers that determine if a customer will return to a store.\n\n\nQ: 23"
+              },
+              "answer": "Segment customers by their demographics.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 24,
+              "question": "(Choose 1 answer)\nSelect the option that has the syntax to obtain the data splits you will need to train a model having a test split that is a third the size of your available data.",
+              "options": {
+                "A": "X_train, X_test, y_train, y_test = train_test_split(x, y, test_size=0.5)",
+                "B": "X_train, X_test, y_train, y_test = train_test_split(x, y, test_size=0.33)",
+                "C": "X_train, y_test = train_test_split(x, y, test_size=0.33)",
+                "D": "X_train, y_test = train_test_split(x, y, test_size=0.5)\n\n\nQ: 24"
+              },
+              "answer": "X_train, X_test, y_train, y_test = train_test_split(x, y, test_size=0.33)",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 25,
+              "question": "(Choose 1 answer)\n24/50-CAP\nCompared with Lasso regression (assuming similar implementation), Ridge regression is:",
+              "options": {
+                "A": "less likely to overfit to training data.",
+                "B": "more likely to overfit to training data.",
+                "C": "less likely to set feature coefficients to zero.",
+                "D": "more likely to set feature coefficients to zero.\n\n\nQ: 25"
+              },
+              "answer": "less likely to set feature coefficients to zero.",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 26,
+              "question": "(Choose 1 answer)\n25/50-CAP\nWhich of the following statements is FALSE?",
+              "options": {
+                "A": "In Analytic View, increasing L2/L1 penalties force coefficients to be smaller, restricting their plausible range.",
+                "B": "Under the Geometric formulation, the cost function minimum is found at the intersection of the penalty boundary and a contour of the traditional OLS cost function surface.",
+                "C": "Under the Probabilistic formulation, L2 (Ridge) regularization imposes Gaussian prior on the coefficients,while L1 (Lasso) regularization imposes Laplacian prior.",
+                "D": "None of the others\nthe exam.\nOsh\nQ: 26"
+              },
+              "answer": "None of the others\nthe exam.\nOsh\nQ: 26",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 27,
+              "question": "(Choose 1 answer)\n26/50-CAP\nThe main purpose of scaling features before fitting a k nearest neighbor model is to:",
+              "options": {
+                "A": "Help find the appropriate value of k",
+                "B": "Ensure decision boundaries have roughly the same size for all classes",
+                "C": "Ensure that features have similar influence on the distance calculation",
+                "D": "Break ties in case there is the same number of neighbors of different classes next to a given observation\n\n\nQ: 27"
+              },
+              "answer": "Ensure that features have similar influence on the distance calculation",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 28,
+              "question": "(Choose 1 answer)\nThis is the type of Machine Learning that uses both data with labeled outcomes and data without labeled outcomes:",
+              "options": {
+                "A": "Supervised Machine Learning",
+                "B": "Unsupervised Machine Learning",
+                "C": "Mixed Machine Learning",
+                "D": "Semi-Supervised Machine Learning\n\n\nQ: 28"
+              },
+              "answer": "Semi-Supervised Machine Learning\n\n\nQ: 28",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 29,
+              "question": "(Choose 1 answer)\nThese are all methods of dealing with unbalanced classes EXCEPT:",
+              "options": {
+                "A": "Downsampling.",
+                "B": "Mix of in-sample and out-of-sample.",
+                "C": "Mix of downsampling and upsampling.",
+                "D": "Upsampling.\n\n\nQ: 29"
+              },
+              "answer": "Mix of in-sample and out-of-sample.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 30,
+              "question": "What is an ensemble model that needs you to look at out of bag error?\n(Choose 1 answer)\n29/50-CAP",
+              "options": {
+                "A": "Logistic Regression.",
+                "B": "Out of Bag Regression",
+                "C": "Random Forest",
+                "D": "Stacking\n\n\nQ: 30"
+              },
+              "answer": "Random Forest",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 31,
+              "question": "(Choose 1 answer)\nYou are evaluating a binary classifier. There are 50 positive outcomes in the test data, and 100 observations.Using a 50% threshold, the classifier predicts 40 positive outcomes, of which 10 are incorrect.\nIncreasing the threshold to 60% results in 5 additional positive predictions, all of which are correct. Which of the following statements about this new model (compared with the original model that had a 50% threshold) is TRUE?",
+              "options": {
+                "A": "The F1 score of the classifier would decrease.",
+                "B": "The area under the ROC curve would decrease.",
+                "C": "The F1 score of the classifier would remain the same.",
+                "D": "The area under the ROC curve would remain the same.\n\n\nQ: 31"
+              },
+              "answer": "The area under the ROC curve would remain the same.\n\n\nQ: 31",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 32,
+              "question": "(Choose 1 answer)\nWhich of the following statements is a characteristic of the DBSCAN algorithm?",
+              "options": {
+                "A": "Can handle tons of data and weird shapes.",
+                "B": "Finds uneven cluster sizes (one is big, some are tiny).",
+                "C": "It will do a great performance finding many clusters.",
+                "D": "It will do a great performance finding few clusters.\n\n\nQ: 32"
+              },
+              "answer": "Can handle tons of data and weird shapes.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 33,
+              "question": "(Choose 1 answer)\n32/50-CAP\nWhich of the following statements correctly defines the weaknesses of the DBSCAN algorithm?",
+              "options": {
+                "A": "The clusters it find might not be trustworthy, it needs noisy data to work, and it can't handle subgroups.",
+                "B": "It needs two parameters as input, finding appropriate values of & and n_clu can be difficult, and it does not do well with clusters of different density.",
+                "C": "The algorithm will find the outliers first, it draws regular shapes, and it works faster than other algorithms.",
+                "D": "The algorithm is computationally intensive, it is sensitive to outliers, and it requires too many hyperparameters to be tuned.\n\n\nQ: 33"
+              },
+              "answer": "It needs two parameters as input, finding appropriate values of & and n_clu can be difficult, and it does not do well with clusters of different density.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 34,
+              "question": "(Choose 1 answer)\n34/50-CAP\nComplete the following sentence: The training data is used to fit the model, while the test data is used to:",
+              "options": {
+                "A": "measure the parameters and hyperparameters of the model",
+                "B": "tweak the model hyperparameters",
+                "C": "tweak the model parameters",
+                "D": "measure error and performance of the model\n\n\nQ: 35"
+              },
+              "answer": "measure error and performance of the model\n\n\nQ: 35",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 35,
+              "question": "(Choose 1 answer)\n35/50-CAP\nWhich of the following statements is a characteristic of the Mean Shift algorithm?",
+              "options": {
+                "A": "Not require us to set the number of clusters, the number of clusters will be determined for us.",
+                "B": "Bad with non-spherical cluster shapes.",
+                "C": "You need to decide the number of clusters on your own, choosing the numbers directly or the minimum distance threshold.",
+                "D": "Good with non-spherical cluster shapes.\n\n\nQ: 36"
+              },
+              "answer": "Not require us to set the number of clusters, the number of clusters will be determined for us.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 36,
+              "question": "(Choose 1 answer)\nWhich statement about unsupervised algorithms is TRUE?",
+              "options": {
+                "A": "Unsupervised algorithms are relevant when we have outcomes we are trying to predict.",
+                "B": "Unsupervised algorithms are relevant when we don't have the outcomes we are trying to predict and when we want to break down our data set into smaller groups.",
+                "C": "Unsupervised algorithms are typically used to forecast time related patterns like stock market trends or sales forecasts.",
+                "D": "Unsupervised algorithms are relevant in cases that require explainability, for example comparing parameters from one model to another.\n\n\nQ: 37"
+              },
+              "answer": "Unsupervised algorithms are relevant when we don't have the outcomes we are trying to predict and when we want to break down our data set into smaller groups.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 37,
+              "question": "(Choose 1 answer)\n37/50-CAP\nWhich of the following statements is a characteristic of the K-means algorithm?",
+              "options": {
+                "A": "It is limited to use the Euclidean distance within his formulation.",
+                "B": "To determine the number of clusters we use the elbow method.",
+                "C": "Can be slow to calculate as the number of observations increases.",
+                "D": "It's limited to use the Ward distance within his formulation.\n\n\nQ: 38"
+              },
+              "answer": "To determine the number of clusters we use the elbow method.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 38,
+              "question": "(Choose 1 answer)\nWhat are the two main data problems companies face when getting started with artificial intelligence/machine learning?",
+              "options": {
+                "A": "Data sampling and categorization",
+                "B": "Outliers and duplicated data",
+                "C": "Lack of relevant data and bad data",
+                "D": "Lack of training and expertise\n\n\nQ: 39"
+              },
+              "answer": "Lack of relevant data and bad data",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 39,
+              "question": "(Choose 1 answer)\nWhat is the main goal of adding polynomial features to a linear regression?",
+              "options": {
+                "A": "Remove the linearity of the regression and turn it into a polynomial model.",
+                "B": "Capture the relation of the outcome with features of higher order.",
+                "C": "Increase the interpretability of a black box model.",
+                "D": "Ensure similar results across all folds when using K-fold cross validation.\n\n\nQ: 40"
+              },
+              "answer": "Capture the relation of the outcome with features of higher order.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 40,
+              "question": "(Choose 1 answer)\nWhich statement about Support Vector Machines is TRUE?",
+              "options": {
+                "A": "Support Vector Machine models are non-linear.",
+                "B": "Support Vector Machine models rarely overfit on training data if using regularization.",
+                "C": "Support Vector Machine models can be used for classification but not for regression.",
+                "D": "Support Vector Machine models can be used for regression but not for classification.\n\n\nQ: 41"
+              },
+              "answer": "Support Vector Machine models rarely overfit on training data if using regularization.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 41,
+              "question": "(Choose 1 answer)\n41/50-CAP\nWhat are polynomial features?",
+              "options": {
+                "A": "They are higher order relationships in the data.",
+                "B": "They are logistic regression coefficients.",
+                "C": "They are lower order relationships in the data.",
+                "D": "They are represented by linear relationships in the data.\n\n\nQ: 42"
+              },
+              "answer": "They are higher order relationships in the data.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 42,
+              "question": "(Choose 1 answer)\n42/50-CAP\nThese are all characteristics of decision trees, EXCEPT:",
+              "options": {
+                "A": "They segment data based on features to predict results",
+                "B": "They split nodes into leaves",
+                "C": "They can be used for either classification or regression",
+                "D": "They have well rounded decision boundaries\n\n\nQ: 43"
+              },
+              "answer": "They have well rounded decision boundaries\n\n\nQ: 43",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 43,
+              "question": "(Choose 1 answer)\n43/50-CAP\nConsider the following statements about Estimation and Inference:\na. In general, the population parameters are unknown.\nb. Parametric models have finite number of parameters.",
+              "options": {
+                "A": "a and b are true",
+                "B": "a and b are false",
+                "C": "a is true and b is false",
+                "D": "a is false and b is true\n\n\nQ: 44"
+              },
+              "answer": "a and b are true",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 44,
+              "question": "(Choose 1 answer)\n44/50-CAP\nThese are all characteristics of the k nearest neighbors algorithm EXCEPT:",
+              "options": {
+                "A": "It is sensitive to scaling",
+                "B": "It determines decision boundaries to make predictions",
+                "C": "It determines the value for k",
+                "D": "It is well suited to predict variables with multiple classes\n\n\nQ: 45"
+              },
+              "answer": "It determines the value for k",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 45,
+              "question": "(Choose 1 answer)\n45/50-CAP\nWhat is the most common sklearn methods to add polynomial features to your data?",
+              "options": {
+                "A": "polyFeat.add and polyFeat.transform",
+                "B": "polyFeat.add and polyFeat.fit",
+                "C": "polyFeat.fit and polyFeat.transform",
+                "D": "polyFeat.transform\n\n\nQ: 46"
+              },
+              "answer": "polyFeat.fit and polyFeat.transform",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 46,
+              "question": "Which distance metric is usefulwhen we have text documents and we want to group similar topics together?\n(Choose 1 answer)\n46/50-CAP",
+              "options": {
+                "A": "Manhattan Distance",
+                "B": "Euclidean",
+                "C": "Jaccard",
+                "D": "Mahalanobis Distance\nOsh\nQ: 47"
+              },
+              "answer": "Jaccard",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 47,
+              "question": "(Choose 1 answer)",
+              "options": {
+                "A": "LR-predict(X_test)\nThis is the syntax you need to predict new data after you have trained a linear regression called LR:",
+                "B": "LR.predict(X_test)",
+                "C": "LR.predict(LR, X_test)",
+                "D": "predict(LR, X_test)\n\n\nQ: 48"
+              },
+              "answer": "LR.predict(X_test)",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 48,
+              "question": "(Choose 1 answer)\nThis option describes a way of turning a regression problem for a classification problem:",
+              "options": {
+                "A": "Create a new variable that flags 1 for above a certain value and 0 otherwise",
+                "B": "Use outlier treatment",
+                "C": "Use missing value handling",
+                "D": "Create a new variable that uses autoencoding to transform a continuous outcome into categorical\n\n\nQ: 49"
+              },
+              "answer": "Create a new variable that flags 1 for above a certain value and 0 otherwise",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 49,
+              "question": "(Choose 1 answer)\nAll of these are characteristics of SVMS, EXCEPT:",
+              "options": {
+                "A": "Support Vector Machines do not return predicted probabilities.",
+                "B": "Support Vector Machines use decision boundaries for classification.",
+                "C": "The algorithm behind Support Vector Machines calculates hyperplanes that minimize misclassification error.",
+                "D": "Support Vector Machine models are non-linear.\n\n\nQ: 50"
+              },
+              "answer": "Support Vector Machine models are non-linear.\n\n\nQ: 50",
+              "answer_number": ["D"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "course_ID": "AIL303",
+      "quiz_sets": [
+        {
+          "quiz_set": "SU23_FE",
+          "questions": [
+            {
+              "id": 1,
+              "question": "1\nAnswer (Choose 1 answer)\nWhich of the following statements is a characteristic of the Mean Shift algorithm?",
+              "options": {
+                "A": "Not require us to set the number of clusters, the number of clusters will be determined for",
+                "B": "Bad with non-spherical cluster shapes.",
+                "C": "You need to decide the number of clusters on your own, choosing the numbers directly o distance threshold.",
+                "D": "Good with non-spherical cluster shapes."
+              },
+              "answer": "Not require us to set the number of clusters, the number of clusters will be determined for",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 2,
+              "question": "2\n(Choose 1 answer)\nWhich statement about evaluating a Machine Learning model is the most accurate?",
+              "options": {
+                "A": "Model selection involves choosing a model that minimizes the cost function.",
+                "B": "Model estimation involves choosing parameters that minimize the cost function.",
+                "C": "Model estimation involves choosing a cost function that can be compared across models\nD . Model selection involves choosing modeling parameters that minimize in-sample validati"
+              },
+              "answer": "Model estimation involves choosing parameters that minimize the cost function.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 3,
+              "question": "3\n(Choose 1 answer)\nYou are evaluating a binary classifier. There are 50 positive outcomes in the test data, and 1 Using a 50% threshold, the classifier predicts 40 positive outcomes, of which 10 are incorrec\nThe threshold is now increased further, to 70%. Which of the following statements is TRUE?",
+              "options": {
+                "A": "The Recall of the classifier would decrease.",
+                "B": "The Precision of the classifier would decrease.",
+                "C": "The Recall of the classifier would increase or remain the same.",
+                "D": "The Precision of the classifier would increase or remain the same."
+              },
+              "answer": "The Recall of the classifier would decrease.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 4,
+              "question": "4\n(Choose 1 answer)\nThe main purpose of splitting your data into a training and testing sets is:",
+              "options": {
+                "A": "To improve accuracy",
+                "B": "To avoid overfitting",
+                "C": "To improve regularization",
+                "D": "To improve crossvalidation and overfitting"
+              },
+              "answer": "To avoid overfitting",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 5,
+              "question": "5\nAnswer (Choose 1 answer)\nWhat is the main condition to use stacking as ensemble method?",
+              "options": {
+                "A": "Models need to be parametric",
+                "B": "Models need to be nonparametric",
+                "C": "Models need to output residual values for each class",
+                "D": "Models need to output predicted probabilities"
+              },
+              "answer": "Models need to output predicted probabilities",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 6,
+              "question": "5\n(Choose 1 answer)\nWhat is the main condition to use stacking as ensemble method?",
+              "options": {
+                "A": "Models need to be parametric",
+                "B": "Models need to be nonparametric",
+                "C": "Models need to output residual values for each class",
+                "D": "Models need to output predicted probabilities"
+              },
+              "answer": "Models need to output predicted probabilities",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 7,
+              "question": "6\nAnswer (Choose 1 answer)\nWhat are the first two steps of a typical machine learning workflow?",
+              "options": {
+                "A": "Problem statement and data cleaning.",
+                "B": "Problem statement and data collection.",
+                "C": "Data collection and data transformation.",
+                "D": "None of the others"
+              },
+              "answer": "Problem statement and data collection.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 8,
+              "question": "7\nAnswer (Choose 1 answer)\nThese are all characteristics of the k nearest neighbors algorithm EXCEPT:",
+              "options": {
+                "A": "It is sensitive to scaling",
+                "B": "It determines decision boundaries to make predictions",
+                "C": "It determines the value for k",
+                "D": "It is well suited to predict variables with multiple classes"
+              },
+              "answer": "It determines the value for k",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 9,
+              "question": "8\n(Choose 1 answer)\nYou are evaluating a binary classifier. There are 80 positive outcomes in the test data, and 1 Using a 50% threshold, the classifier predicts 60 positive outcomes, of which 20 are incorrec\nWhat is the classifier's Recall on the test sample?",
+              "options": {
+                "A": "66.7%",
+                "B": "37.5%",
+                "C": "50%",
+                "D": "33.%"
+              },
+              "answer": "50%",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 10,
+              "question": "9\n(Choose 1 answer)\nWhich of the following statements is a characteristic of the DBSCAN algorithm?",
+              "options": {
+                "A": "Can handle tons of data and weird shapes.",
+                "B": "Finds uneven cluster sizes (one is big, some are tiny).",
+                "C": "It will do a great performance finding many clusters.",
+                "D": "It will do a great performance finding few clusters."
+              },
+              "answer": "Can handle tons of data and weird shapes.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 11,
+              "question": "(10\n(Choose 1 answer)\nWhat is an ensemble model that needs you to look at out of bag error?",
+              "options": {
+                "A": "Logistic Regression.",
+                "B": "Out of Bag Regression",
+                "C": "Random Forest",
+                "D": "Stacking"
+              },
+              "answer": "Random Forest",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 12,
+              "question": "(11\n(Choose 1 answer)\nWhich of the following statements about cloud data access using Pandas is TRUE?",
+              "options": {
+                "A": "With read_csv, the online file must be comma-delimited.",
+                "B": "The read_csv function can read data directly from a website or url.",
+                "C": "With read_csv, the destination file must have column names in the first row.",
+                "D": "A remote destination file must be downloaded locally before it can be read by Pandas."
+              },
+              "answer": "The read_csv function can read data directly from a website or url.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 13,
+              "question": "(12\n(Choose 1 answer)\nWhat is the main difference between kernel PCA and linear PCA?",
+              "options": {
+                "A": "The objective of linear PCA is to decrease the dimensionality of the space whereas the o PCA is to increase the dimensionality of the space.",
+                "B": "Kernel PCA tend to uncover non-linearity structure within the dataset by increasing the di space thanks to the kernel trick.",
+                "C": "Kernel PCA and Linear PCA are both Linear dimensionality reduction algorithm but they optimization method.",
+                "D": "Kernel PCA tend to preserve the geometric distances between the points while reducing of the space."
+              },
+              "answer": "Kernel PCA tend to uncover non-linearity structure within the dataset by increasing the di space thanks to the kernel trick.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 14,
+              "question": "13\nAnswer (Choose 1 answer)\nBOTH Ridge regression and Lasso regression",
+              "options": {
+                "A": "do not adjust the cost function used to estimate a model.",
+                "B": "add a term to the loss function proportional to a regularization parameter.",
+                "C": "add a term to the loss function proportional to the square of parameter coefficients.",
+                "D": "add a term to the loss function proportional to the absolute value of parameter coefficients"
+              },
+              "answer": "add a term to the loss function proportional to a regularization parameter.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 15,
+              "question": "(14\nAnswer (Choose 1 answer)\nA p-value is:",
+              "options": {
+                "A": "the smallest significance level at which the null hypothesis would be rejected",
+                "B": "the probability of the null hypothesis being true",
+                "C": "the probability of the null hypothesis being false",
+                "D": "the smallest significance level at which the null hypothesis is accepted"
+              },
+              "answer": "the smallest significance level at which the null hypothesis would be rejected",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 16,
+              "question": "15\nAnswer (Choose 1 answer)\nIn k-fold cross-validation, how will increase of k affect the variance (across subsamples) of e parameters?",
+              "options": {
+                "A": "Increasing of k will not affect the variance of estimated parameters.",
+                "B": "Increasing of k will usually reduce the variance of estimated parameters.",
+                "C": "Increasing of k will usually increase the variance of estimated parameters.",
+                "D": "Increasing of k will increase the variance of estimated parameters if models are underfit,models are overfit."
+              },
+              "answer": "Increasing of k will usually increase the variance of estimated parameters.",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 17,
+              "question": "(16)\nAnswer (Choose 1 answer)\nAll of these are characteristics of SVMS, EXCEPT:",
+              "options": {
+                "A": "Support Vector Machines do not return predicted probabilities.",
+                "B": "Support Vector Machines use decision boundaries for classification.",
+                "C": "The algorithm behind Support Vector Machines calculates hyperplanes that minimize mis error.",
+                "D": "Support Vector Machine models are non-linear."
+              },
+              "answer": "Support Vector Machine models are non-linear.",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 18,
+              "question": "(17\nAnswer (Choose 1 answer)\nWhich of the following examples is NOT a common use case of clustering in the real world?",
+              "options": {
+                "A": "Anomaly detection.",
+                "B": "Customer segmentation",
+                "C": "Determine risk factor and prevention factors for diseases such as osteoporosis",
+                "D": "Improve supervised learning."
+              },
+              "answer": "Determine risk factor and prevention factors for diseases such as osteoporosis",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 19,
+              "question": "18\nAnswer (Choose 1 answer)\nWhich statement about the Pandas read csv function is TRUE?",
+              "options": {
+                "A": "It can only read comma-delimited data",
+                "B": "It can read both tab-delimited and space-delimited data",
+                "C": "It reads data into a 2-dimensional NumPy array",
+                "D": "It allows only one argument: the name of the fle"
+              },
+              "answer": "It can read both tab-delimited and space-delimited data",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 20,
+              "question": "19\n(Choose 1 answer)\nAnother common term for the testing split is:",
+              "options": {
+                "A": "Training split",
+                "B": "Validation split",
+                "C": "Corroboration split",
+                "D": "Cross validation split"
+              },
+              "answer": "Validation split",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 21,
+              "question": "20\nAnswer (Choose 1 answer)\nConsider the following statements about Estimation and Inference:\na. In general, the population parameters are unknown.\nb. Parametric models have finite number of parameters.",
+              "options": {
+                "A": "a and b are true",
+                "B": "a and b are false",
+                "C": "a is true and b is false",
+                "D": "a is false and b is true"
+              },
+              "answer": "a and b are true",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 22,
+              "question": "21\nAnswer (Choose 1 answer)\nThis option describes a way of turning a regression problem for a classification problem:",
+              "options": {
+                "A": "Create a new variable that flags 1 for above a certain value and 0 otherwise",
+                "B": "Use outlier treatment",
+                "C": "Use missing value handling",
+                "D": "Create a new variable that uses autoencoding to transform a continuous outcome into ca"
+              },
+              "answer": "Create a new variable that flags 1 for above a certain value and 0 otherwise",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 23,
+              "question": "22\n(Choose 1 answer)\nWhich of the following measure methods computes the inertia and pick the pair that is going minimize the inertia value?",
+              "options": {
+                "A": "Single linkage",
+                "B": "Average linkage",
+                "C": "Ward linkage",
+                "D": "Complete linkage"
+              },
+              "answer": "Ward linkage",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 24,
+              "question": "23\nAnswer (Choose 1 answer)\nWhich type of Ensemble modeling approach is NOT a special case of model averaging?",
+              "options": {
+                "A": "Random Forest methods",
+                "B": "Boosting methods",
+                "C": "The Pasting method of Bootstrap aggregation",
+                "D": "The Bagging method of Bootstrap aggregation"
+              },
+              "answer": "Boosting methods",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 25,
+              "question": "(24)\nAnswer (Choose 1 answer)\nWhat does NoSQL stand for and what does it represent?",
+              "options": {
+                "A": "NoSQL stands for Not-only SQL, and it represents a set of databases that are relational,have fixed structure.",
+                "B": "NoSQL stands for Non-Structured Query Language, and it represents a set of relational c fixed schemas.",
+                "C": "NoSQL stands for Non-Structured Query Language, and it represents a set of non-relatic with varied schemas.",
+                "D": "NoSQL stands for Not-only SQL, and it represents a set of databases that are not relatio they vary in structure."
+              },
+              "answer": "NoSQL stands for Not-only SQL, and it represents a set of databases that are not relatio they vary in structure.",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 26,
+              "question": "(25)\nAnswer (Choose 1 answer)\nThese are two of the most common libraries for data visualization:",
+              "options": {
+                "A": "matplotlib and seaborn",
+                "B": "scipy and seaborn",
+                "C": "numpy and matplotlib",
+                "D": "scipy and numpy"
+              },
+              "answer": "matplotlib and seaborn",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 27,
+              "question": "(26)\n(Choose 1 answer)\nWhich of the following statements best describes the iterative part of the K-means algorithm?",
+              "options": {
+                "A": "The k-means algorithm assigns a number of clusters at random.",
+                "B": "The k-means algorithm adjusts the centroids to the new mean of each cluster, and then it this process until no example is assigned to another cluster.",
+                "C": "The k-means algorithm iteratively deletes outliers.",
+                "D": "The k-means algorithm iteratively calculates the distance from each point to the centroid"
+              },
+              "answer": "The k-means algorithm adjusts the centroids to the new mean of each cluster, and then it this process until no example is assigned to another cluster.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 28,
+              "question": "27\nAnswer (Choose 1 answer)\nYou can use supervised machine learning for all of the following examples, EXCEPT:",
+              "options": {
+                "A": "Segment customers by their demographics.",
+                "B": "Predict the number of customers that will visit a store on a given week.",
+                "C": "Predict the probability of a customer returning to a store.",
+                "D": "Interpret the main drivers that determine if a customer will return to a store."
+              },
+              "answer": "Segment customers by their demographics.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 29,
+              "question": "28\n(Choose 1 answer)\nWhich statement about Logistic Regression is TRUE?",
+              "options": {
+                "A": "Logistic Regression is a generalized linear model.",
+                "B": "Logistic Regression models can only predict variables with 2 classes.",
+                "C": "Logistic Regression models can be used for classification but not for regression.",
+                "D": "Logistic Regression models can be used for regression but not for classification."
+              },
+              "answer": "Logistic Regression is a generalized linear model.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 30,
+              "question": "29 Answer\n(Choose 1 answer)\nWhat is the other name we can give to the L2 distance?",
+              "options": {
+                "A": "Hamming Distance",
+                "B": "Euclidean Distance",
+                "C": "Manhattan Distance",
+                "D": "Mahalanobis Distance"
+              },
+              "answer": "Euclidean Distance",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 31,
+              "question": "30\nAnswer (Choose 1 answer)\nWhich of the following statements about model complexity is TRUE?",
+              "options": {
+                "A": "Higher model complexity leads to a lower chance of overfitting.",
+                "B": "Higher model complexity leads to a higher chance of overfitting.",
+                "C": "Reducing the number of features while adding feature interactions leads to a lower chanc",
+                "D": "Reducing the number of features while adding feature interactions leads to a higher char"
+              },
+              "answer": "Higher model complexity leads to a higher chance of overfitting.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 32,
+              "question": "31\n(Choose 1 answer)\nWhat is the most common sklearn methods to add polynomial features to your data?",
+              "options": {
+                "A": "polyFeat.add and polyFeat.transform",
+                "B": "polyFeat.add and polyFeat.fit",
+                "C": "polyFeat.fit and polyFeat.transform",
+                "D": "polyFeat.transform"
+              },
+              "answer": "polyFeat.fit and polyFeat.transform",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 33,
+              "question": "32\n(Choose 1 answer)\nUsually, the first step to fit a support vector machine classifer model using scikit learn is to:",
+              "options": {
+                "A": "import svm from the sklearn.svm module\ne.g. from sklearn.svm import svm",
+                "B": "import SVM from the sklearn.classifer module\ne.g. from sklearn.classifier import SVM",
+                "C": "import SVC from the sklearn.svm module\ne.g. from sklearn.svm import SVC",
+                "D": "import support vector classifier from the sklearn.svms module\ne.g. from sklearn.svms import supportvectorclassifer"
+              },
+              "answer": "import SVC from the sklearn.svm module\ne.g. from sklearn.svm import SVC",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 34,
+              "question": "(33)\nAnswer (Choose 1 answer)\nThe main purpose of scaling features before fitting a k nearest neighbor model is to:",
+              "options": {
+                "A": "Help find the appropriate value of k",
+                "B": "Ensure decision boundaries have roughly the same size for all classes",
+                "C": "Ensure that features have similar influence on the distance calculation",
+                "D": "Break ties in case there is the same number of neighbors of different classes next to a gir"
+              },
+              "answer": "Ensure that features have similar influence on the distance calculation",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 35,
+              "question": "35 Answer\n(Choose 1 answer)\nWhich of the following statements is FALSE?",
+              "options": {
+                "A": "In Analytic View, increasing L2/L1 penalties force coefficients to be smaller, restricting th",
+                "B": "Under the Geometric formulation, the cost function minimum is found at the intersection c boundary and a contour of the traditional OLS cost function surface.",
+                "C": "Under the Probabilistic formulation, L2 (Ridge) regularization imposes Gaussian prior on while L1 (Lasso) regularization imposes Laplacian prior.",
+                "D": "None of the others"
+              },
+              "answer": "None of the others",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 36,
+              "question": "37\n(Choose 1 answer)\nWhich of the following statements about Synthetic Upsampling is TRUE?",
+              "options": {
+                "A": "Synthetic Upsampling will generally lead to a higher F1 score.",
+                "B": "Synthetic Upsampling uses fewer hyperparameters than Random Upsampling.",
+                "C": "Synthetic Upsampling generates observations that were not part of the original data.",
+                "D": "Synthetic Upsampling results in excessive focus on the more frequently-occurring class."
+              },
+              "answer": "Synthetic Upsampling generates observations that were not part of the original data.",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 37,
+              "question": "38\nAnswer (Choose 1 answer)\nUsually the first step to fit a gradient boosting classifier model using scikit learn is to:",
+              "options": {
+                "A": "import classifier ensemble from the sklearn. Gradient Boosting module\ne.g. from sklearn.gradientboosting import ClassifierEnsemble",
+                "B": "import gradient boosting from the sklearn.classifierensemble module\ne.g. from sklearn.classifierensemble import GradientBoosting",
+                "C": "import gradient boosting classifier from the sklearn.ensemble module\ne.g. from sklearn.ensemble import GradientBoostingClassifier",
+                "D": "import classifier from the sklearn.gradientboosting module\ne.g. from sklearn.gradientboosting import Classifier"
+              },
+              "answer": "import gradient boosting classifier from the sklearn.ensemble module\ne.g. from sklearn.ensemble import GradientBoostingClassifier",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 38,
+              "question": "40\nAnswer (Choose 1 answer)\nYou are evaluating a binary classifier. There are 80 positive outcomes in the test data, and 1 Using a 50% threshold, the classifier predicts 60 positive outcomes, of which 20 are incorrec\nWhat is the classifier's F1 score on the test sample?",
+              "options": {
+                "A": "75%",
+                "B": "57.2%",
+                "C": "67.5%",
+                "D": "42.8%"
+              },
+              "answer": "57.2%",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 39,
+              "question": "42\n(Choose 1 answer)\nThese are two main advantages of decision trees:",
+              "options": {
+                "A": "They do not tend to overfit and are not sensitive to changes in data",
+                "B": "They are very visual and easy to interpret",
+                "C": "They are resistant to outliers and output scaled features",
+                "D": "They output both parameters and significance levels"
+              },
+              "answer": "They are very visual and easy to interpret",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 40,
+              "question": "43\n(Choose 1 answer)\nThese are all characteristics of decision trees, EXCEPT:",
+              "options": {
+                "A": "They segment data based on features to predict results",
+                "B": "They split nodes into leaves",
+                "C": "They can be used for either classification or regression",
+                "D": "They have well rounded decision boundaries"
+              },
+              "answer": "They have well rounded decision boundaries",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 41,
+              "question": "(44)\n(Choose 1 answer)\nWhich of the following statements correctly defines the strengths of the DBSCAN algorithm?",
+              "options": {
+                "A": "No need to specify the number of clusters (cf. K-means), allows for noise, and can handle\nclusters.",
+                "B": "Do well with different density, works with just one parameter, the n_clu defines itself.",
+                "C": "The algorithm will find the outliers first, draw regular shapes, works faster than other algo",
+                "D": "The algorithm is computationally intensive, it is sensitive to outliers, and it requires few hy be tuned."
+              },
+              "answer": "No need to specify the number of clusters (cf. K-means), allows for noise, and can handle\nclusters.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 42,
+              "question": "(45)\nAnswer (Choose 1 answer)\nWhich statement describes better \"The Smarter initialization of K-mean clusters?",
+              "options": {
+                "A": "\"Draw a line between the data points to create 2 big clusters.\"",
+                "B": "\"After we find our centroids, we calculate the distance between all our data points.\"",
+                "C": "\"Pick one point random as initial point and for the second pick instead of doing it randoml assigning the probability of the distance.\"",
+                "D": "\"We start by having two centroids as far as possible between each other.\""
+              },
+              "answer": "\"Pick one point random as initial point and for the second pick instead of doing it randoml assigning the probability of the distance.\"",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 43,
+              "question": "(47\n(Choose 1 answer)\nSelect the option that has the syntax to obtain the data splits you will need to train a model h that is a third the size of your available data.",
+              "options": {
+                "A": "X_train, X_test, y_train, y_test = train_test_split(x, y, test_size=0.5)",
+                "B": "X_train, X_test, y_train, y_test = train_test_split(x, y, test_size=0.33)",
+                "C": "X_train, y_test = train_test_split(x, y, test_size=0.33)",
+                "D": "X_train, y_test = train_test_split(x, y, test_size=0.5)"
+              },
+              "answer": "X_train, X_test, y_train, y_test = train_test_split(x, y, test_size=0.33)",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 44,
+              "question": "48\n(Choose 1 answer)\nAll of these options are useful error measures to compare regression models except:",
+              "options": {
+                "A": "SSE",
+                "B": "R squared",
+                "C": "TSS",
+                "D": "ROC index"
+              },
+              "answer": "ROC index",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 45,
+              "question": "49\n(Choose 1 answer)\nWhich of the following statements is a characteristic of the Hierarchical Clustering (Ward) alc",
+              "options": {
+                "A": "If we use a mini batch to find our centroids and clusters this will find our clusters fairly quic",
+                "B": "It offers a lot of distance metrics and linkage options.",
+                "C": "Too small epsilon (too many clusters) is not trustworthy.",
+                "D": "Too large epsilon (too few clusters) is not trustworthy."
+              },
+              "answer": "It offers a lot of distance metrics and linkage options.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 46,
+              "question": "50\nAnswer (Choose 1 answer)\nThese are all methods of dealing with unbalanced classes EXCEPT:",
+              "options": {
+                "A": "Downsampling.",
+                "B": "Mix of in-sample and out-of-sample.",
+                "C": "Mix of downsampling and upsampling.",
+                "D": "Upsampling."
+              },
+              "answer": "Mix of in-sample and out-of-sample.",
+              "answer_number": ["B"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "course_ID": "JPD113",
+      "quiz_sets": [
+        {
+          "quiz_set": "FA24_FE",
+          "questions": [
+            {
+              "id": 1,
+              "question": "What is the correct reading for the Kanji 【学生】 in the sentence: マリーさんは 【学生】ですか。",
+              "options": {
+                "A": "がくせい",
+                "B": "ぜんせい",
+                "C": "かくせい",
+                "D": "せんせい"
+              },
+              "answer": "がくせい",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 2,
+              "question": "What is the correct Kanji for 【にひゃくまん】 in the sentence: このとけいは 【にひゃくまん】えんです。",
+              "options": {
+                "A": "十百万",
+                "B": "一百万",
+                "C": "三百万",
+                "D": "二百万"
+              },
+              "answer": "二百万",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 3,
+              "question": "A: ひるやすみはいつですか。\nB: ( )です。",
+              "options": {
+                "A": "日曜日と土曜日",
+                "B": "12時から1時まで",
+                "C": "ついたち",
+                "D": "しがつ"
+              },
+              "answer": "12時から1時まで",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 4,
+              "question": "A: エスカレーターはどこです。\nB: ( )です。",
+              "options": {
+                "A": "みっか",
+                "B": "あれ",
+                "C": "あちら",
+                "D": "これ"
+              },
+              "answer": "あちら",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 5,
+              "question": "A: これはどこのおさけですか。\nB: ( )のです。",
+              "options": {
+                "A": "かんこく",
+                "B": "とりにく",
+                "C": "さかな",
+                "D": "たまご"
+              },
+              "answer": "かんこく",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 6,
+              "question": "A: やまださん、なつやすみ、日本へかえりますか。\nB: いいえ、( )。",
+              "options": {
+                "A": "かえります",
+                "B": "かえりません",
+                "C": "かりますです",
+                "D": "かえりませんです"
+              },
+              "answer": "かえりません",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 7,
+              "question": "A「日曜日 こうえんでバーベキューをします。」\nB「( )。」",
+              "options": {
+                "A": "いいですね",
+                "B": "ありがとうございます",
+                "C": "じゃ",
+                "D": "おねがいします"
+              },
+              "answer": "いいですね",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 8,
+              "question": "A: はじめまして、パクです。よろしくおねがいします。\nB:ナタポンです。( )よろしくおねがいします。",
+              "options": {
+                "A": "どういたしまして",
+                "B": "ありがとう",
+                "C": "こちらこそ",
+                "D": "そうですか"
+              },
+              "answer": "こちらこそ",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 9,
+              "question": "( )にかいしゃへいきますか。",
+              "options": {
+                "A": "どこ",
+                "B": "なんじ",
+                "C": "いつ",
+                "D": "だれ"
+              },
+              "answer": "なんじ",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 10,
+              "question": "日曜日、( )もいきません。",
+              "options": {
+                "A": "だれ",
+                "B": "なに",
+                "C": "どこ",
+                "D": "いつ"
+              },
+              "answer": "どこ",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 11,
+              "question": "A: 「Trûng」は日本語で何ですか。\nB: ( )です。",
+              "options": {
+                "A": "とりにく",
+                "B": "たまご",
+                "C": "ぎゅうにく",
+                "D": "たばこ"
+              },
+              "answer": "たまご",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 12,
+              "question": "レストランで( )をします。",
+              "options": {
+                "A": "アルバイト",
+                "B": "ゴールデンウィーク",
+                "C": "スキー",
+                "D": "スケジュール"
+              },
+              "answer": "アルバイト",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 13,
+              "question": "ミラーさんは学生です。やまださん()学生です。",
+              "options": {
+                "A": "で",
+                "B": "や",
+                "C": "も",
+                "D": "と"
+              },
+              "answer": "も",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 14,
+              "question": "これはえいご()なんですか。",
+              "options": {
+                "A": "に",
+                "B": "まで",
+                "C": "で",
+                "D": "は"
+              },
+              "answer": "で",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 15,
+              "question": "What is the correct reading for the Kanji 【八日】 in the sentence: パクさんのたんじょうびは六月【八日】です。",
+              "options": {
+                "A": "ようか",
+                "B": "よっか",
+                "C": "みっか",
+                "D": "いつか"
+              },
+              "answer": "ようか",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 16,
+              "question": "What is the correct reading for the Kanji 【五十一才】 in the sentence: やまださんは 【五十一才】です。",
+              "options": {
+                "A": "さんじゅういっさい",
+                "B": "じゅうごさい",
+                "C": "ごじゅういちさい",
+                "D": "ごじゅういっさい"
+              },
+              "answer": "ごじゅういっさい",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 17,
+              "question": "What is the correct Kanji for 【じゅうにがつ】 in the sentence: キムさんのたんじょうびは 【じゅうにがつ】八日です。",
+              "options": {
+                "A": "十一月",
+                "B": "十三月",
+                "C": "十二月",
+                "D": "二十月"
+              },
+              "answer": "十二月",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 18,
+              "question": "What is the correct Kanji for 【もくようび】 in the sentence: たいいくかんのやすみは 【もくようび】です。",
+              "options": {
+                "A": "木曜日",
+                "B": "月曜日",
+                "C": "水曜日",
+                "D": "土曜日"
+              },
+              "answer": "木曜日",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 19,
+              "question": "まいばん、ほんを()。",
+              "options": {
+                "A": "よみます",
+                "B": "べんきょうします",
+                "C": "おきます",
+                "D": "します"
+              },
+              "answer": "よみます",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 20,
+              "question": "Choose the grammatically correct sentence using the words: じゃありません / 私 / かいしゃいん",
+              "options": {
+                "A": "じゃありませんは私のかいしゃいん。",
+                "B": "かいしゃいんは じゃありません私。",
+                "C": "私は かいしゃいんじゃありません。",
+                "D": "かいしゃいんは じゃありませんの私"
+              },
+              "answer": "私は かいしゃいんじゃありません。",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 21,
+              "question": "A: Namさんはベトナムじんですか。\nNam: ()、ベトナムじんです。",
+              "options": {
+                "A": "いいえ",
+                "B": "あのう",
+                "C": "はい",
+                "D": "あっ"
+              },
+              "answer": "はい",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 22,
+              "question": "A: ミラーさんは ( )\nミラー:はい、きょうしです。",
+              "options": {
+                "A": "きょうしですか。",
+                "B": "なんさいですか。",
+                "C": "おしごとは?",
+                "D": "いつですか。"
+              },
+              "answer": "きょうしですか。",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 23,
+              "question": "Choose the grammatically correct sentence using the words: カルロスさん / ですか / たんじょうび / いつ",
+              "options": {
+                "A": "カルロスさんも たんじょうびはいつですか。",
+                "B": "たんじょうびのカルロスさんはいつですか。",
+                "C": "いつはたんじょうびの カルロスさんですか。",
+                "D": "カルロスさんのたんじょうびはいつですか。"
+              },
+              "answer": "カルロスさんのたんじょうびはいつですか。",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 24,
+              "question": "A: あさ、( )に学校へきますか。\nB: 8時にきます。",
+              "options": {
+                "A": "何分",
+                "B": "何時",
+                "C": "いつ",
+                "D": "何才"
+              },
+              "answer": "何時",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 25,
+              "question": "はじめまして。私は()です。\nよろしくおねがいします。",
+              "options": {
+                "A": "マルコさん",
+                "B": "じゅうはっさい",
+                "C": "日本",
+                "D": "マルコ"
+              },
+              "answer": "マルコ",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 26,
+              "question": "私は(_)のきょうしです。",
+              "options": {
+                "A": "かいしゃいん",
+                "B": "高校(こうこう)",
+                "C": "しごと",
+                "D": "なまえ"
+              },
+              "answer": "高校(こうこう)",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 27,
+              "question": "Choose the word that is different from the others: ①とんかつ ②てんいん ③カレー ④たまご",
+              "options": {
+                "A": "たまご",
+                "B": "てんいん",
+                "C": "とんかつ",
+                "D": "カレー"
+              },
+              "answer": "てんいん",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 28,
+              "question": "パーティーで、おさけを ( )。",
+              "options": {
+                "A": "のみます",
+                "B": "たべます",
+                "C": "よみます",
+                "D": "ききます"
+              },
+              "answer": "のみます",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 29,
+              "question": "A : 6月1日から7日までは ホームステイです。\nB: えっ! ホームステイ? なにをしますか。\nA:①____をみます。 ②____をします。",
+              "options": {
+                "A": "①おすし/②おさけ",
+                "B": "①バーベーキュー/②はなび",
+                "C": "①はなび/②バーベーキュー",
+                "D": "①カレー/ビール"
+              },
+              "answer": "①はなび/②バーベーキュー",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 30,
+              "question": "A: りんごは ( )でなんですか。\nB:「Táo」です。",
+              "options": {
+                "A": "ベトナム語",
+                "B": "タイ語",
+                "C": "日本語",
+                "D": "フランス語"
+              },
+              "answer": "ベトナム語",
+              "answer_number": ["A"]
+            }
+          ]
+        },
+        {
+          "quiz_set": "FA24_FE",
+          "questions": [
+            {
+              "id": 1,
+              "question": "Các chữ Hán trong ngoặc [ ] có cách đọc tương ứng như thế nào? まいにち、3【時間】 べんきょうします。",
+              "options": {
+                "A": "じかん",
+                "B": "しがん",
+                "C": "じっかん",
+                "D": "しかん"
+              },
+              "answer": "じかん",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 2,
+              "question": "Các từ trong ngoặc [ ] dưới đây có chữ Hán tương ứng như thế nào? これは【ほん】ですか。",
+              "options": {
+                "A": "木",
+                "B": "本",
+                "C": "体",
+                "D": "休"
+              },
+              "answer": "本",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 3,
+              "question": "Chọn đáp án thích hợp để điền vào chỗ trống\nA: Bさんは学生ですか。\nB: いいえ、()。",
+              "options": {
+                "A": "がくせいです",
+                "B": "きょうしじゃありません",
+                "C": "きょうしです",
+                "D": "そうです"
+              },
+              "answer": "きょうしです",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 4,
+              "question": "Chọn đáp án thích hợp để điền vào chỗ trống\nA: ふゆやすみ、りょこうをしますか。\nB: いいえ、()。",
+              "options": {
+                "A": "りょこうをしません",
+                "B": "りょこうじゃありません",
+                "C": "りょこうをします",
+                "D": "りょこうではありません"
+              },
+              "answer": "りょこうをしません",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 5,
+              "question": "Chọn đáp án thích hợp để điền vào chỗ trống\nA:ただいま。\nB: ( )。",
+              "options": {
+                "A": "いってきます",
+                "B": "いっていらっしゃい",
+                "C": "いきます",
+                "D": "おかえりなさい"
+              },
+              "answer": "おかえりなさい",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 6,
+              "question": "Chọn đáp án thích hợp để điền vào chỗ trống\nA「にほんへいきます。」\nB「へえ。( )。」",
+              "options": {
+                "A": "いいです",
+                "B": "そうですか",
+                "C": "そうです",
+                "D": "えっ"
+              },
+              "answer": "そうですか",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 7,
+              "question": "Chọn đáp án thích hợp để điền vào chỗ trống:\nにちようび、()もしません。",
+              "options": {
+                "A": "なに",
+                "B": "いつ",
+                "C": "どこ",
+                "D": "だれ"
+              },
+              "answer": "なに",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 8,
+              "question": "Chọn đáp án thích hợp để điền vào chỗ trống:\nA:これは()のペンですか。\nB:せんせいのです。",
+              "options": {
+                "A": "どちら",
+                "B": "どこ",
+                "C": "なに",
+                "D": "だれ"
+              },
+              "answer": "だれ",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 9,
+              "question": "Chọn đáp án thích hợp để điền vào ngoặc cho câu sau:\nとんかつは( )のりょうりです。",
+              "options": {
+                "A": "やさい",
+                "B": "さかな",
+                "C": "ぶたにく",
+                "D": "とりにく"
+              },
+              "answer": "ぶたにく",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 10,
+              "question": "Chọn đáp án thích hợp để điền vào chỗ trống:\nA: さとうさん、おしごとは?\nB: 私は()です。",
+              "options": {
+                "A": "日本人",
+                "B": "だいがく",
+                "C": "はたち",
+                "D": "きょうし"
+              },
+              "answer": "きょうし",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 11,
+              "question": "Chọn đáp án thích hợp để điền vào chỗ trống\nミラーさんは学生です。やまださん()学生です。",
+              "options": {
+                "A": "で",
+                "B": "や",
+                "C": "と",
+                "D": "も"
+              },
+              "answer": "も",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 12,
+              "question": "Chọn đáp án thích hợp để điền vào chỗ trống\nこうえん()行きます。こうえん() バーベキューをします。",
+              "options": {
+                "A": "で/へ",
+                "B": "へ/で",
+                "C": "を/八",
+                "D": "へを"
+              },
+              "answer": "へ/で",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 13,
+              "question": "Các chữ Hán trong ngoặc [ ] có cách đọc tương ứng như thế nào? マルコさんは【十九才】です。",
+              "options": {
+                "A": "じゅうくさい",
+                "B": "じゅうきゅうさい",
+                "C": "じゅきゅさい",
+                "D": "じゅうきゅさい"
+              },
+              "answer": "じゅうきゅうさい",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 14,
+              "question": "Các chữ Hán trong ngoặc [ ] có cách đọc tương ứng như thế nào? ロンドンはいまごご【九時】です。",
+              "options": {
+                "A": "ろくじ",
+                "B": "<じ",
+                "C": "きゅうじ",
+                "D": "しちじ"
+              },
+              "answer": "<じ",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 15,
+              "question": "Các chữ Hán trong ngoặc [ ] có cách đọc tương ứng như thế nào?\nA:いま、何時ですか。\nB:三時【二十一分】です。",
+              "options": {
+                "A": "にじゅういっふん",
+                "B": "にじゅういっぷん",
+                "C": "にじゅういちぷん",
+                "D": "にじゅういちふん"
+              },
+              "answer": "にじゅういっぷん",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 16,
+              "question": "Các từ trong ngoặc [ ] dưới đây có chữ Hán tương ứng như thế nào? いま、【ごじ】です。",
+              "options": {
+                "A": "五寺",
+                "B": "六時",
+                "C": "五時",
+                "D": "六寺"
+              },
+              "answer": "五時",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 17,
+              "question": "Các từ trong ngoặc [ ] dưới đây có chữ Hán tương ứng như thế nào? たまごは【はっぴゃくえん】です。",
+              "options": {
+                "A": "九万円",
+                "B": "八万円",
+                "C": "八百円",
+                "D": "九百円"
+              },
+              "answer": "八百円",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 18,
+              "question": "Chọn đáp án thích hợp để điền vào chỗ trống:\nA:あのう、すみません。きつえんじょはどこですか。\nB:きつえんじょですか。きつえんじょは(_)です。",
+              "options": {
+                "A": "あれ",
+                "B": "あそこ",
+                "C": "この",
+                "D": "それ"
+              },
+              "answer": "あそこ",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 19,
+              "question": "Chọn đáp án thích hợp để điền vào chỗ trống:\n私は、まいあさ(___)6時→おきます。",
+              "options": {
+                "A": "も/に",
+                "B": "に/に",
+                "C": "に/X",
+                "D": "X/に"
+              },
+              "answer": "X/に",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 20,
+              "question": "Chọn đáp án thích hợp để điền vào chỗ trống\nA:はい、さくらとしょかんです。\nB: すみません、そちらは何時(_______) 何時 (____)ですか。",
+              "options": {
+                "A": "から/まで",
+                "B": "まで/から",
+                "C": "に/を",
+                "D": "に/と"
+              },
+              "answer": "から/まで",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 21,
+              "question": "Chọn đáp án thích hợp để điền vào chỗ trống:\nA:はい、さくらゆうびんきょくです。\nB: すみません、(__________)は何時までですか。",
+              "options": {
+                "A": "こちら",
+                "B": "ここ",
+                "C": "そちら",
+                "D": "あそこ"
+              },
+              "answer": "そちら",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 22,
+              "question": "Chọn đáp án thích hợp để điền vào chỗ trống\nなつやすみ、へいきますか。",
+              "options": {
+                "A": "ひる",
+                "B": "やすみ",
+                "C": "うみ",
+                "D": "ごはん"
+              },
+              "answer": "うみ",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 23,
+              "question": "Chọn đáp án thích hợp để điền vào chỗ trống\nA:あのう、すみません。ほんやはどこですか。\nB:ほんやはあそこです(________)。\nA:そうですか。",
+              "options": {
+                "A": "よ",
+                "B": "か",
+                "C": "は",
+                "D": "も"
+              },
+              "answer": "よ",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 24,
+              "question": "Dựa vào các từ gợi ý cho sẵn hãy chọn câu có ý nghĩa hoàn chỉnh: しゅみ/私/おんがく/りょうり/です",
+              "options": {
+                "A": "おんがくと しゅみは私のりょうりです。",
+                "B": "しゅみの私はおんがくと りょうりです。",
+                "C": "おんがくは私のしゅみと りょうりです。",
+                "D": "私のしゅみはおんがくと りょうりです。"
+              },
+              "answer": "私のしゅみはおんがくと りょうりです。",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 25,
+              "question": "Chọn đáp án thích hợp để điền vào chỗ trống\nA: まいにち、あさごはんをたべますか。\nB: いいえ、私は、あさ、",
+              "options": {
+                "A": "なにをたべますか",
+                "B": "なにもたべません",
+                "C": "たべます",
+                "D": "なにもたべます"
+              },
+              "answer": "なにもたべません",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 26,
+              "question": "Chọn đáp án thích hợp để điền vào chỗ trống\n私の(・はダニエルです。",
+              "options": {
+                "A": "なまえ",
+                "B": "おくに",
+                "C": "くに",
+                "D": "おなまえ"
+              },
+              "answer": "なまえ",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 27,
+              "question": "Hãy tìm nghĩa tiếng Việt tương ứng cho từ sau: “けいたいでんわ”",
+              "options": {
+                "A": "Điện thoại di động",
+                "B": "Thang máy",
+                "C": "Máy tính cá nhân",
+                "D": "Kim từ điển"
+              },
+              "answer": "Điện thoại di động",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 28,
+              "question": "Chọn đáp án thích hợp để điền vào ngoặc cho câu sau:\nA: すみません、これはなんのスープですか。\nてんいん:(__ )のスープです。",
+              "options": {
+                "A": "こうえん",
+                "B": "はなび",
+                "C": "ぶたにく",
+                "D": "かばん"
+              },
+              "answer": "ぶたにく",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 29,
+              "question": "Hãy tìm nghĩa tiếng Việt tương ứng cho từ sau: “エスカレーター”",
+              "options": {
+                "A": "Thang cuốn",
+                "B": "Nhà vệ sinh",
+                "C": "Thang máy",
+                "D": "Nơi hút thuốc"
+              },
+              "answer": "Thang cuốn",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 30,
+              "question": "Chọn đáp án thích hợp để điền vào chỗ trống\nA: 7月15日から20日までは スキーりょこうです。\nB: どこへいきますか。\nA:へいきます。",
+              "options": {
+                "A": "ほっかいどう",
+                "B": "はなび",
+                "C": "さいふ",
+                "D": "ちかてつ"
+              },
+              "answer": "ほっかいどう",
+              "answer_number": ["A"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "course_ID": "SWE201",
+      "quiz_sets": [
+        {
+          "quiz_set": "FA24_FE",
+          "questions": [
+            {
+              "id": 1,
+              "question": " Question: 1\n(Choose 1 answer)\nWhich of these are the 5 generic software engineering framework activities?",
+              "options": {
+                "A": "Communication, planning, modeling, construction, deployment",
+                "B": "Communication, risk management, measurement, production, reviewing",
+                "C": "Analysis, designing, programming, debugging, maintenance",
+                "D": "Analysis, planning, designing, programming, testing"
+              },
+              "answer": "Communication, planning, modeling, construction, deployment",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 2,
+              "question": " Question: 2\n(Choose 1 answer)\nThe ability to use a built-in function of a programming language to generate a random number is an example of which of the following?",
+              "options": {
+                "A": "Coupling",
+                "B": "Cohesion",
+                "C": "Information hiding",
+                "D": "Modularity"
+              },
+              "answer": "Information hiding",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 3,
+              "question": " Question: 3\n(Choose 1 answer)\nThe Scrum approach to documentation is:",
+              "options": {
+                "A": "Do no documentation because it is a waste of time",
+                "B": "Do the necessary documentation to support the development and use of the product",
+                "C": "Do sufficient documentation to prove you have done a good job",
+                "D": "Do more documentation than usual, because Agile is risky"
+              },
+              "answer": "Do the necessary documentation to support the development and use of the product",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 4,
+              "question": " Question: 4\n(Choose 1 answer)\nModule A relies directly on local data of module",
+              "options": {
+                "B": "Tight content coupling",
+                "A": "Tight common coupling",
+                "C": "Tight external coupling"
+              },
+              "answer": "Tight content coupling",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 5,
+              "question": " Question: 5\n(Choose 1 answer)\nWhich is statement false?",
+              "options": {
+                "A": "In the Observer pattern, one difficulty is that the Subject cannot pass an instance of itself to the Observer being updated, due to circular dependencies.",
+                "B": "Observer is an implementation of the Dependency Inversion principle.",
+                "C": "Strategy Pattern helps maintain the Open/Closed Principle."
+              },
+              "answer": "In the Observer pattern, one difficulty is that the Subject cannot pass an instance of itself to the Observer being updated, due to circular dependencies.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 6,
+              "question": " Question: 6\n(Choose 1 answer)\nAll of the following are stages in an object-oriented development process EXCЕРТ?",
+              "options": {
+                "A": "Object-oriented analysis",
+                "B": "Object-oriented design",
+                "C": "Object-oriented programming",
+                "D": "Object-oriented evolution"
+              },
+              "answer": "Object-oriented evolution",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 7,
+              "question": " Question: 7 (Choose 1 answer)\nWhich of the following statements align with following Agile Principle:\"Deliver working software frequently, from a couple of weeks to a couple of months, with a preference for the shorter timescale\"",
+              "options": {
+                "A": "We MUST release software to actual users every couple weeks.",
+                "B": "We should frequently deliver software in some environment (not necessarily to production always) to gather user/client feedback",
+                "C": "We should NOT release software to a production environment on a shorter timeframe. We should ONLY release it in lower environment (e.g., a test environment)."
+              },
+              "answer": "We should frequently deliver software in some environment (not necessarily to production always) to gather user/client feedback",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 8,
+              "question": " Question: 8\n(Choose 1 answer)\nWhich effective elements of the waterfall model than other ones?",
+              "options": {
+                "A": "Documentation is produced in each phase",
+                "B": "The product meets the immediate needs of customers",
+                "C": "The waterfall model can deliver the software product with fast speed",
+                "D": "All of the others"
+              },
+              "answer": "Documentation is produced in each phase",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 9,
+              "question": " Question: 9\n(Choose 1 answer)\nWhich of these software engineering activities are not a part of software processes?",
+              "options": {
+                "A": "Software development",
+                "B": "Software dependence",
+                "C": "Software validation",
+                "D": "Software specification"
+              },
+              "answer": "Software dependence",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 10,
+              "question": " Question: 10\n(Choose 2 answers)\nWhat is wrong with the following story (select two)?\n\"As a product owner, I want a list of highly-rated restaurants on the brochure.\"",
+              "options": {
+                "A": "It doesn't specify the value of the story (the \"why\" is missing).",
+                "B": "The user who benefits from this story is missing (the \"who\" is missing).",
+                "C": "The story is not small.",
+                "D": "The story is not negotiable"
+              },
+              "answer": "It doesn't specify the value of the story (the \"why\" is missing).",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 11,
+              "question": " Question: 11\n(Choose 1 answer)\nWhat is usually plotted on the x-axis of the Sprint Burndown Chart?",
+              "options": {
+                "A": "Days of the sprint",
+                "B": "Tasks",
+                "C": "Hours",
+                "D": "Team member names"
+              },
+              "answer": "Days of the sprint",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 12,
+              "question": " Question: 12\n(Choose 1 answer)\nWhich is not a core property of Kanban?",
+              "options": {
+                "A": "Daily stand-up",
+                "B": "Limit work-in-progress",
+                "C": "Measure & Manage Flow",
+                "D": "Make Process Policies Explicit\nE. Use Models to Recognize Improvement Opportunities"
+              },
+              "answer": "Daily stand-up",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 13,
+              "question": " Question: 13 (Choose 1 answer)\nWhich of the following statements are true about the XP value of \"Simplicity\"?",
+              "options": {
+                "A": "No matter what you are building, just choose a simple design even if it only partially solves the problem.",
+                "B": "Select the simplest design that could possibly work.",
+                "C": "Generalize your solution so it can work for unanticipated future requests.",
+                "D": "The software design for each component should fit on a single page."
+              },
+              "answer": "Select the simplest design that could possibly work.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 14,
+              "question": " Question: 14\n(Choose 1 answer)\nA team divided the application they were building into 4 parts and planning to build one part at a time. To build each part, they are planning to go through the steps of requirements, design, implementation, test, and deployment. Also, they are planning to complete each part fully with high fidelity. By fidelity we mean the completeness of the features implemented in each part. Based on this information, what type of model do you suggest they use for their software development process?",
+              "options": {
+                "A": "Iterative and Incremental",
+                "B": "Incremental",
+                "C": "Iterative"
+              },
+              "answer": "Incremental",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 15,
+              "question": " Question: 15\n(Choose 1 answer)\nWhich XP practice prescribes that \"the code [always be] written by two programmers at one machine\"?",
+              "options": {
+                "A": "Pair Programming",
+                "B": "Twin Programming",
+                "C": "Peer Programming",
+                "D": "Buddy Programming"
+              },
+              "answer": "Pair Programming",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 16,
+              "question": " Question: 16\n(Choose 1 answer)\nWhat is the Agile Manifesto?",
+              "options": {
+                "A": "A document that describes how to implement agile",
+                "B": "A document developed during agile planning",
+                "C": "A document developed for the customer",
+                "D": "A document that describes four highly valued concepts in agile"
+              },
+              "answer": "A document that describes four highly valued concepts in agile",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 17,
+              "question": " Question: 17\n(Choose 1 answer)\nSelect situations listed below where you would NOT use the unified process framework",
+              "options": {
+                "A": "Medium-sized project with some risks involved.",
+                "B": "Very small, simple project where the problem and solution are well known.",
+                "C": "Situation where the organization wants to deliver part of the application early to capture the market ahead of competition",
+                "D": "All requirements are not known early in the project"
+              },
+              "answer": "Very small, simple project where the problem and solution are well known.",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 18,
+              "question": " Question: 18\n(Choose 2 answers)\nWhat is wrong with following user story?\n\"I want the software to be easy to use.\"",
+              "options": {
+                "A": "No valid user is identified.",
+                "B": "It is not testable",
+                "C": "It does not specify the user this story is written for.",
+                "D": "The story is not valuable.\nE. The story is very big."
+              },
+              "answer": "No valid user is identified., It is not testable",
+              "answer_number": ["A", "B"]
+            },
+            {
+              "id": 19,
+              "question": " Question: 19\n(Choose 1 answer)\nWhen all of the responsibilities of a module are easily classified as being strongly related, this is an example of high what?",
+              "options": {
+                "A": "Cohesion",
+                "B": "Information hiding",
+                "C": "Coupling",
+                "D": "Modularity"
+              },
+              "answer": "Cohesion",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 20,
+              "question": " Question: 20\n(Choose 1 answer)\nWhich of the following IS NOT the limitations of the waterfall model?",
+              "options": {
+                "A": "It is difficult to respond to changes in the requirement",
+                "B": "Integration issues may remain undetected until the last phase",
+                "C": "Misinterpretations of requirement or design can remain undetected until the later phases",
+                "D": "It is not suitable for big projects"
+              },
+              "answer": "It is not suitable for big projects",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 21,
+              "question": " Question: 21\n(Choose 1 answer)\nAll of the following statement about design pattern are true EXCEPT",
+              "options": {
+                "A": "Design patterns are detail-level abstractions that document successful design solutions.",
+                "B": "They are fundamental to design reuse in object-oriented development",
+                "C": "A pattern description should include a pattern name, a problem and solution description, and a statement of the results and trade-offs of using the pattern",
+                "D": "None of the other choices"
+              },
+              "answer": "Design patterns are detail-level abstractions that document successful design solutions.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 22,
+              "question": " Question: 22\n(Choose 1 answer)\nWhite box testing, a software testing technique is sometimes called?",
+              "options": {
+                "A": "Graph Testing",
+                "B": "Basic path",
+                "C": "Glass box testing",
+                "D": "Dataflow"
+              },
+              "answer": "Glass box testing",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 23,
+              "question": " Question: 23\n(Choose 1 answer)\nWhich elements are described in design pattern?",
+              "options": {
+                "A": "Problem description",
+                "B": "Solution description",
+                "C": "Consequences",
+                "D": "All of the others"
+              },
+              "answer": "All of the others",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 24,
+              "question": " Question: 24\n(Choose 1 answer)\nThe two types of medium cohesion are:",
+              "options": {
+                "A": "There is no such thing as medium cohesion",
+                "B": "Sequential, logical association",
+                "C": "Communicational, sequential",
+                "D": "Coincidental, temporal"
+              },
+              "answer": "Communicational, sequential",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 25,
+              "question": " Question: 25\n(Choose 1 answer)\nWhere does software design fit in the traditional waterfall software development lifecycle?",
+              "options": {
+                "A": "Between implementation and deployment",
+                "B": "Between architecture and implementation",
+                "C": "Between specification and architecture",
+                "D": "Before requirements"
+              },
+              "answer": "Between architecture and implementation",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 26,
+              "question": " Question: 26\n(Choose 1 answer)\nWhat is difference between throw-away prototyping and exploratory development?",
+              "options": {
+                "A": "The throw-away prototyping starts with poor understand requirement while the other start with well understood ones",
+                "B": "The throw-away prototyping starts with well understood requirement while the other start with poor understand ones",
+                "C": "The throw-away prototyping get the ideas from the customer's proposal while the other get the ideas from the developer's prototype",
+                "D": "None of the others"
+              },
+              "answer": "The throw-away prototyping starts with poor understand requirement while the other start with well understood ones",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 27,
+              "question": " Question: 27\n(Choose 1 answer)\nThe two types of medium coupling are:",
+              "options": {
+                "A": "Data; Message",
+                "B": "Message; None",
+                "C": "Control; Data Structure",
+                "D": "Content; Common"
+              },
+              "answer": "Control; Data Structure",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 28,
+              "question": " Question: 28\n(Choose 1 answer)\nThe two types of strong cohesion are:",
+              "options": {
+                "A": "Coincidental, temporal",
+                "B": "Object, strong",
+                "C": "Object, functional",
+                "D": "Communicational, sequential"
+              },
+              "answer": "Object, functional",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 29,
+              "question": " Question: 29\n(Choose 1 answer)\nWhich of the following statements about cohesion is true?",
+              "options": {
+                "A": "Cohesion measures how well everything within a module fits together.",
+                "B": "Describes the implementation of a single logical entity or function.",
+                "C": "Represents a desirable design attitude.",
+                "D": "High cohesion is the aim in software development.\nE. All of the answers"
+              },
+              "answer": "Cohesion measures how well everything within a module fits together.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 30,
+              "question": " Question: 30\n(Choose 1 answer)\nA UNIX program where the output of one program is the input of another, is an example of which of the software architecture models below:",
+              "options": {
+                "A": "Blackboard Model.",
+                "B": "Layered Model.",
+                "C": "Pipe-and-Filter Model.",
+                "D": "Event-based Model\nE. Client-Server Model."
+              },
+              "answer": "Pipe-and-Filter Model.",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 31,
+              "question": " Question: 31 (Choose 1 answer)\nIf you need to have a cutover strategy where the replacement services are ready for the redirection of data with no installation, then you would choose which of the following cutover strategies?",
+              "options": {
+                "A": "Hot failover",
+                "B": "Warm standby",
+                "C": "Cold backup",
+                "D": "Warm failover"
+              },
+              "answer": "Hot failover",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 32,
+              "question": " Question: 32\n(Choose 1 answer)\nModules A and B both rely on global data or a global variable. This is an example of what type of coupling?",
+              "options": {
+                "A": "Tight common coupling",
+                "B": "Tight external coupling",
+                "C": "Tight content coupling"
+              },
+              "answer": "Tight common coupling",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 33,
+              "question": " Question: 33\n(Choose 1 answer)\nWhat is agile?",
+              "options": {
+                "A": "A blanket term describing several flexible project management approaches",
+                "B": "A blanket term describing several rigid project management approaches",
+                "C": "A blanket term describing several sequential project management approaches",
+                "D": "A blanket term describing several costly project management approaches"
+              },
+              "answer": "A blanket term describing several flexible project management approaches",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 34,
+              "question": " Question: 34\n(Choose 1 answer)\nModules rely on externally imposed format (or protocol or interface). This is an example of what type of coupling?",
+              "options": {
+                "A": "Tight common coupling",
+                "B": "Tight content coupling",
+                "C": "Tight external coupling"
+              },
+              "answer": "Tight external coupling",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 35,
+              "question": " Question: 35\n(Choose 1 answer)\nThe purpose of the WRSPM model is to ensure that",
+              "options": {
+                "A": "specifications meet the requirements.",
+                "B": "requirements meet specification",
+                "C": "None of the above"
+              },
+              "answer": "specifications meet the requirements.",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 36,
+              "question": " Question: 36\n(Choose 1 answer)\nOne piece of code runs after the other. This is an example of what type of cohesion?",
+              "options": {
+                "A": "Coincidental cohesion",
+                "B": "Logical association cohesion",
+                "C": "Temporal cohesion",
+                "D": "Procedural cohesion"
+              },
+              "answer": "Procedural cohesion",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 37,
+              "question": " Question: 37 (Choose 1 answer)\nWhich of the following are necessary before proper testing?",
+              "options": {
+                "A": "inputs which cause issues",
+                "B": "inputs, expected output, and an oracle",
+                "C": "inputs, expected output, an oracle, and the actual output",
+                "D": "inputs and expected output"
+              },
+              "answer": "inputs, expected output, and an oracle",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 38,
+              "question": " Question: 38\n(Choose 1 answer)\nIn Scrum projects, we plan to \"learn as we go\" because",
+              "options": {
+                "A": "It creates a better relationship between the developers and customer representatives",
+                "B": "Many projects are evolutionary, and a better solution emerges this way",
+                "C": "It is time-consuming to analyze everything at the beginning of a project",
+                "D": "It prevents late delivery of the project"
+              },
+              "answer": "Many projects are evolutionary, and a better solution emerges this way",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 39,
+              "question": " Question: 39\n(Choose 1 answer)\nDifferent pieces of code are activated at the same time. This is an example of what type of cohesion?",
+              "options": {
+                "A": "Coincidental cohesion",
+                "B": "Procedural cohesion",
+                "C": "Logical association cohesion",
+                "D": "Temporal cohesion"
+              },
+              "answer": "Temporal cohesion",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 40,
+              "question": " Question: 40\n(Choose 1 answer)\nIn your current project, you have access to some intern development resources, which are not currently operating at full capacity. You also know that the testing timeline will be truncated, due to delays in critical-path module development. Which strategy should you employ?",
+              "options": {
+                "A": "Allow the testing team to work without (or with quick-to-develop) drivers and stubs, and utilize the intern resources to aid testing once all critical-path development is complete",
+                "B": "Utilize the intern resources to design and develop drivers and stubs, while work continues on critical-path module development",
+                "C": "Allow the testing team to work without (or with quick-to-develop) drivers and stubs, while using intern resources to aid critical-path development",
+                "D": "Make no changes to the current project testing or development allocations, utilizing intern resources to\ncreate documentation."
+              },
+              "answer": "Utilize the intern resources to design and develop drivers and stubs, while work continues on critical-path module development",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 41,
+              "question": " Question: 41\n(Choose 1 answer)\nWhich technique or model is declared in \"system is thrown away when the system specification has been agreed\" statement?",
+              "options": {
+                "A": "Prototyping",
+                "B": "Throw-away prototype model",
+                "C": "Incremental development",
+                "D": "All of the others"
+              },
+              "answer": "Throw-away prototype model",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 42,
+              "question": " Question: 42\n(Choose 1 answer)\nIn the acceptance test, which technique is applied to test the completed system?",
+              "options": {
+                "A": "Black Box",
+                "B": "White Box",
+                "C": "Clear Box",
+                "D": "Glass Box\nE. All of the others"
+              },
+              "answer": "Black Box",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 43,
+              "question": " Question: 43\n(Choose 1 answer)\nIf you need to have a cutover strategy where the replacement machine is ready for a full setup and install, then you would choose which of the following cutover strategies?",
+              "options": {
+                "A": "Hot failover",
+                "B": "Warm standby",
+                "C": "Cold backup",
+                "D": "Warm failover"
+              },
+              "answer": "Cold backup",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 44,
+              "question": " Question: 44\n(Choose 1 answer)\nAnalyzing the extent to which other modules must change when a module is modified is an example of which of the following?",
+              "options": {
+                "A": "Cohesion",
+                "B": "Information hiding",
+                "C": "Coupling",
+                "D": "Modularity"
+              },
+              "answer": "Coupling",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 45,
+              "question": " Question: 45 (Choose 1 answer)\nIf an XP team cannot provide an estimate for a story, what should they do to gain a better understanding of the story?",
+              "options": {
+                "A": "Provide their best guess based on what they know.",
+                "B": "Skip that story and exclude that story from the release.",
+                "C": "No action required; keep the story with no estimates",
+                "D": "Create a spike story---a new story under which the team will do some research or other work to gain a better understanding of the original story."
+              },
+              "answer": "Create a spike story---a new story under which the team will do some research or other work to gain a better understanding of the original story.",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 46,
+              "question": " Question: 46\n(Choose 1 answer)\nWhich the software process model is appropriate easy to define of progress milestones?",
+              "options": {
+                "A": "The waterfall model",
+                "B": "The incremental model",
+                "C": "The spiral model",
+                "D": "None of the other choices"
+              },
+              "answer": "The waterfall model",
+              "answer_number": ["A"]
+            },
+            {
+              "id": 47,
+              "question": " Question: 47\n(Choose 1 answer)\nWhich is statement false?",
+              "options": {
+                "A": "Manually created tests can use randomly selected inputs to maximize defect finding.",
+                "B": "Code coverage includes statement coverage, ensuring all code statements are executed at least once by at least one test case and all tests pass.",
+                "C": "Program testing helps find defects, but testing can not prove there are no bugs.",
+                "D": "The developer of the code is the best person to test that code."
+              },
+              "answer": "The developer of the code is the best person to test that code.",
+              "answer_number": ["D"]
+            },
+            {
+              "id": 48,
+              "question": " Question: 48 (Choose 1 answer)\nWhich of the following IS FALSE about the Story Mapping technique?\n. One story map can only have one user. It is not recommended to have multiple users on same story map.A\n. The vertical axis (moving from top to bottom) in a story map represents rough priority.B",
+              "options": {
+                "C": "Only the product owner and users attend the story mapping exercise.The horizontal axis (moving from left to right) in a story map represents time.",
+                "D": "It is a user-centric approach where we map out the system from a user's perspective."
+              },
+              "answer": "Only the product owner and users attend the story mapping exercise.The horizontal axis (moving from left to right) in a story map represents time.",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 49,
+              "question": " Question: 49\n(Choose 1 answer)\nWhich of the following is LEAST desirable?",
+              "options": {
+                "A": "including functionality which entirely encapsulates all the necessary function for a specific task",
+                "B": "including functionality which modifies an object's own attributes",
+                "C": "including functionality which occurs around the same time",
+                "D": "including functionality which relys on the same input"
+              },
+              "answer": "including functionality which modifies an object's own attributes",
+              "answer_number": ["B"]
+            },
+            {
+              "id": 50,
+              "question": " Question: 50\n(Choose 1 answer)\nWhich of the following is NOT an aspect of software design?",
+              "options": {
+                "A": "Modularity",
+                "B": "Polymorphism",
+                "C": "Coupling",
+                "D": "Cohesion"
+              },
+              "answer": "Polymorphism",
+              "answer_number": ["B"]
             }
           ]
         }

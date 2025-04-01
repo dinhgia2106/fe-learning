@@ -169,8 +169,8 @@ def save_explanations(explanations):
                     "user_name": st.session_state.user_name
                 }
                 
-                # Insert the record to Supabase
-                supabase.table("explanations").insert(record).execute()
+                # Use upsert instead of insert
+                supabase.table("explanations").upsert(record).execute()
     except Exception as e:
         st.error(f"Error saving explanations: {e}")
 
