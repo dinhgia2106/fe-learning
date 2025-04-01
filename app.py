@@ -162,15 +162,23 @@ def save_explanations(explanations):
     try:
         if st.session_state.user_authenticated:
             for key, text in explanations.items():
-                # Prepare the record
-                record = {
-                    "explanation_key": key,
-                    "explanation_text": text,
-                    "user_name": st.session_state.user_name
-                }
-                
-                # Use upsert instead of insert
-                supabase.table("explanations").upsert(record).execute()
+                try:
+                    # Try to insert first
+                    record = {
+                        "explanation_key": key,
+                        "explanation_text": text,
+                        "user_name": st.session_state.user_name
+                    }
+                    supabase.table("explanations").insert(record).execute()
+                except Exception as insert_error:
+                    if "23505" in str(insert_error):  # PostgreSQL duplicate key error
+                        # If duplicate key, update instead
+                        supabase.table("explanations").update(
+                            {"explanation_text": text}
+                        ).eq("user_name", st.session_state.user_name).eq("explanation_key", key).execute()
+                    else:
+                        # Re-raise other errors
+                        raise
     except Exception as e:
         st.error(f"Error saving explanations: {e}")
 
