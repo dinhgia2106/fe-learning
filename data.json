@@ -5694,30 +5694,31 @@
           "questions": [
             {
               "id": 1,
-              "question": "1\nAnswer (Choose 1 answer)\nWhich of the following statements is a characteristic of the Mean Shift algorithm?",
+              "question": "Which of the following statements is a characteristic of the Mean Shift algorithm?",
               "options": {
-                "A": "Not require us to set the number of clusters, the number of clusters will be determined for",
-                "B": "Bad with non-spherical cluster shapes.",
-                "C": "You need to decide the number of clusters on your own, choosing the numbers directly o distance threshold.",
-                "D": "Good with non-spherical cluster shapes."
+                "A": "Does not require us to set the number of clusters; the number of clusters will be determined for us.",
+                "B": "Performs poorly with non-spherical cluster shapes.",
+                "C": "Requires deciding the number of clusters beforehand, either directly or via a minimum distance threshold.",
+                "D": "Performs well with non-spherical cluster shapes."
               },
-              "answer": "Not require us to set the number of clusters, the number of clusters will be determined for",
+              "answer": "Does not require us to set the number of clusters; the number of clusters will be determined for us.",
               "answer_number": ["A"]
             },
             {
               "id": 2,
-              "question": "2\n(Choose 1 answer)\nWhich statement about evaluating a Machine Learning model is the most accurate?",
+              "question": "Which statement about evaluating a Machine Learning model is the most accurate?",
               "options": {
                 "A": "Model selection involves choosing a model that minimizes the cost function.",
                 "B": "Model estimation involves choosing parameters that minimize the cost function.",
-                "C": "Model estimation involves choosing a cost function that can be compared across models\nD . Model selection involves choosing modeling parameters that minimize in-sample validati"
+                "C": "Model estimation involves choosing a cost function that can be compared across models.",
+                "D": "Model selection involves choosing modeling parameters that minimize in-sample validation error."
               },
               "answer": "Model estimation involves choosing parameters that minimize the cost function.",
               "answer_number": ["B"]
             },
             {
               "id": 3,
-              "question": "3\n(Choose 1 answer)\nYou are evaluating a binary classifier. There are 50 positive outcomes in the test data, and 1 Using a 50% threshold, the classifier predicts 40 positive outcomes, of which 10 are incorrec\nThe threshold is now increased further, to 70%. Which of the following statements is TRUE?",
+              "question": "You are evaluating a binary classifier. There are 50 positive outcomes in the test data, and 100 observations. Using a 50% threshold, the classifier predicts 40 positive outcomes, of which 10 are incorrect. The threshold is now increased further, to 70%. Which of the following statements is TRUE?",
               "options": {
                 "A": "The Recall of the classifier would decrease.",
                 "B": "The Precision of the classifier would decrease.",
@@ -5729,7 +5730,7 @@
             },
             {
               "id": 4,
-              "question": "4\n(Choose 1 answer)\nThe main purpose of splitting your data into a training and testing sets is:",
+              "question": "The main purpose of splitting your data into a training and testing sets is:",
               "options": {
                 "A": "To improve accuracy",
                 "B": "To avoid overfitting",
@@ -5741,19 +5742,7 @@
             },
             {
               "id": 5,
-              "question": "5\nAnswer (Choose 1 answer)\nWhat is the main condition to use stacking as ensemble method?",
-              "options": {
-                "A": "Models need to be parametric",
-                "B": "Models need to be nonparametric",
-                "C": "Models need to output residual values for each class",
-                "D": "Models need to output predicted probabilities"
-              },
-              "answer": "Models need to output predicted probabilities",
-              "answer_number": ["D"]
-            },
-            {
-              "id": 6,
-              "question": "5\n(Choose 1 answer)\nWhat is the main condition to use stacking as ensemble method?",
+              "question": "What is the main condition to use stacking as an ensemble method?",
               "options": {
                 "A": "Models need to be parametric",
                 "B": "Models need to be nonparametric",
@@ -5765,7 +5754,7 @@
             },
             {
               "id": 7,
-              "question": "6\nAnswer (Choose 1 answer)\nWhat are the first two steps of a typical machine learning workflow?",
+              "question": "What are the first two steps of a typical machine learning workflow?",
               "options": {
                 "A": "Problem statement and data cleaning.",
                 "B": "Problem statement and data collection.",
@@ -5777,43 +5766,43 @@
             },
             {
               "id": 8,
-              "question": "7\nAnswer (Choose 1 answer)\nThese are all characteristics of the k nearest neighbors algorithm EXCEPT:",
+              "question": "These are all characteristics of the k nearest neighbors algorithm EXCEPT:",
               "options": {
                 "A": "It is sensitive to scaling",
                 "B": "It determines decision boundaries to make predictions",
-                "C": "It determines the value for k",
+                "C": "It automatically determines the optimal value for k",
                 "D": "It is well suited to predict variables with multiple classes"
               },
-              "answer": "It determines the value for k",
+              "answer": "It automatically determines the optimal value for k",
               "answer_number": ["C"]
             },
             {
               "id": 9,
-              "question": "8\n(Choose 1 answer)\nYou are evaluating a binary classifier. There are 80 positive outcomes in the test data, and 1 Using a 50% threshold, the classifier predicts 60 positive outcomes, of which 20 are incorrec\nWhat is the classifier's Recall on the test sample?",
+              "question": "You are evaluating a binary classifier. There are 80 positive outcomes in the test data, and 150 observations. Using a 50% threshold, the classifier predicts 60 positive outcomes, of which 20 are incorrect. What is the classifier's Recall on the test sample?",
               "options": {
                 "A": "66.7%",
                 "B": "37.5%",
                 "C": "50%",
-                "D": "33.%"
+                "D": "33.3%"
               },
               "answer": "50%",
               "answer_number": ["C"]
             },
             {
               "id": 10,
-              "question": "9\n(Choose 1 answer)\nWhich of the following statements is a characteristic of the DBSCAN algorithm?",
+              "question": "Which of the following statements is a characteristic of the DBSCAN algorithm?",
               "options": {
-                "A": "Can handle tons of data and weird shapes.",
+                "A": "Can handle arbitrary shapes and identifies noise/outliers.",
                 "B": "Finds uneven cluster sizes (one is big, some are tiny).",
-                "C": "It will do a great performance finding many clusters.",
-                "D": "It will do a great performance finding few clusters."
+                "C": "Performs well when finding many clusters.",
+                "D": "Performs well when finding few clusters."
               },
-              "answer": "Can handle tons of data and weird shapes.",
+              "answer": "Can handle arbitrary shapes and identifies noise/outliers.",
               "answer_number": ["A"]
             },
             {
               "id": 11,
-              "question": "(10\n(Choose 1 answer)\nWhat is an ensemble model that needs you to look at out of bag error?",
+              "question": "What is an ensemble model that needs you to look at out-of-bag error?",
               "options": {
                 "A": "Logistic Regression.",
                 "B": "Out of Bag Regression",
@@ -5825,7 +5814,7 @@
             },
             {
               "id": 12,
-              "question": "(11\n(Choose 1 answer)\nWhich of the following statements about cloud data access using Pandas is TRUE?",
+              "question": "Which of the following statements about cloud data access using Pandas is TRUE?",
               "options": {
                 "A": "With read_csv, the online file must be comma-delimited.",
                 "B": "The read_csv function can read data directly from a website or url.",
@@ -5837,31 +5826,31 @@
             },
             {
               "id": 13,
-              "question": "(12\n(Choose 1 answer)\nWhat is the main difference between kernel PCA and linear PCA?",
+              "question": "What is the main difference between kernel PCA and linear PCA?",
               "options": {
-                "A": "The objective of linear PCA is to decrease the dimensionality of the space whereas the o PCA is to increase the dimensionality of the space.",
-                "B": "Kernel PCA tend to uncover non-linearity structure within the dataset by increasing the di space thanks to the kernel trick.",
-                "C": "Kernel PCA and Linear PCA are both Linear dimensionality reduction algorithm but they optimization method.",
-                "D": "Kernel PCA tend to preserve the geometric distances between the points while reducing of the space."
+                "A": "The objective of linear PCA is to decrease the dimensionality of the space whereas the objective of Kernel PCA is to increase the dimensionality of the space.",
+                "B": "Kernel PCA tends to uncover non-linearity structure within the dataset by increasing the dimensionality of the feature space thanks to the kernel trick.",
+                "C": "Kernel PCA and Linear PCA are both dimensionality reduction algorithms but they use different optimization methods.",
+                "D": "Kernel PCA tends to preserve the geometric distances between the points while reducing the dimensionality of the space."
               },
-              "answer": "Kernel PCA tend to uncover non-linearity structure within the dataset by increasing the di space thanks to the kernel trick.",
+              "answer": "Kernel PCA tends to uncover non-linearity structure within the dataset by increasing the dimensionality of the feature space thanks to the kernel trick.",
               "answer_number": ["B"]
             },
             {
               "id": 14,
-              "question": "13\nAnswer (Choose 1 answer)\nBOTH Ridge regression and Lasso regression",
+              "question": "BOTH Ridge regression and Lasso regression...",
               "options": {
                 "A": "do not adjust the cost function used to estimate a model.",
                 "B": "add a term to the loss function proportional to a regularization parameter.",
                 "C": "add a term to the loss function proportional to the square of parameter coefficients.",
-                "D": "add a term to the loss function proportional to the absolute value of parameter coefficients"
+                "D": "add a term to the loss function proportional to the absolute value of parameter coefficients."
               },
               "answer": "add a term to the loss function proportional to a regularization parameter.",
               "answer_number": ["B"]
             },
             {
               "id": 15,
-              "question": "(14\nAnswer (Choose 1 answer)\nA p-value is:",
+              "question": "A p-value is:",
               "options": {
                 "A": "the smallest significance level at which the null hypothesis would be rejected",
                 "B": "the probability of the null hypothesis being true",
@@ -5873,31 +5862,31 @@
             },
             {
               "id": 16,
-              "question": "15\nAnswer (Choose 1 answer)\nIn k-fold cross-validation, how will increase of k affect the variance (across subsamples) of e parameters?",
+              "question": "In k-fold cross-validation, how will an increase of k affect the variance (across subsamples) of estimated parameters?",
               "options": {
-                "A": "Increasing of k will not affect the variance of estimated parameters.",
-                "B": "Increasing of k will usually reduce the variance of estimated parameters.",
-                "C": "Increasing of k will usually increase the variance of estimated parameters.",
-                "D": "Increasing of k will increase the variance of estimated parameters if models are underfit,models are overfit."
+                "A": "Increasing k will not affect the variance of estimated parameters.",
+                "B": "Increasing k will usually reduce the variance of estimated parameters.",
+                "C": "Increasing k will usually increase the variance of estimated parameters.",
+                "D": "Increasing k will increase the variance of estimated parameters if models are underfit, and decrease it if models are overfit."
               },
-              "answer": "Increasing of k will usually increase the variance of estimated parameters.",
+              "answer": "Increasing k will usually increase the variance of estimated parameters.",
               "answer_number": ["C"]
             },
             {
               "id": 17,
-              "question": "(16)\nAnswer (Choose 1 answer)\nAll of these are characteristics of SVMS, EXCEPT:",
+              "question": "All of these are characteristics of SVMs, EXCEPT:",
               "options": {
                 "A": "Support Vector Machines do not return predicted probabilities.",
                 "B": "Support Vector Machines use decision boundaries for classification.",
-                "C": "The algorithm behind Support Vector Machines calculates hyperplanes that minimize mis error.",
-                "D": "Support Vector Machine models are non-linear."
+                "C": "The algorithm behind Support Vector Machines calculates hyperplanes that minimize misclassification error.",
+                "D": "Support Vector Machine models are inherently linear (though kernels can make them non-linear)."
               },
-              "answer": "Support Vector Machine models are non-linear.",
+              "answer": "Support Vector Machine models are inherently linear (though kernels can make them non-linear).",
               "answer_number": ["D"]
             },
             {
               "id": 18,
-              "question": "(17\nAnswer (Choose 1 answer)\nWhich of the following examples is NOT a common use case of clustering in the real world?",
+              "question": "Which of the following examples is NOT a common use case of clustering in the real world?",
               "options": {
                 "A": "Anomaly detection.",
                 "B": "Customer segmentation",
@@ -5909,19 +5898,19 @@
             },
             {
               "id": 19,
-              "question": "18\nAnswer (Choose 1 answer)\nWhich statement about the Pandas read csv function is TRUE?",
+              "question": "Which statement about the Pandas read_csv function is TRUE?",
               "options": {
                 "A": "It can only read comma-delimited data",
                 "B": "It can read both tab-delimited and space-delimited data",
                 "C": "It reads data into a 2-dimensional NumPy array",
-                "D": "It allows only one argument: the name of the fle"
+                "D": "It allows only one argument: the name of the file"
               },
               "answer": "It can read both tab-delimited and space-delimited data",
               "answer_number": ["B"]
             },
             {
               "id": 20,
-              "question": "19\n(Choose 1 answer)\nAnother common term for the testing split is:",
+              "question": "Another common term for the testing split is:",
               "options": {
                 "A": "Training split",
                 "B": "Validation split",
@@ -5933,7 +5922,7 @@
             },
             {
               "id": 21,
-              "question": "20\nAnswer (Choose 1 answer)\nConsider the following statements about Estimation and Inference:\na. In general, the population parameters are unknown.\nb. Parametric models have finite number of parameters.",
+              "question": "Consider the following statements about Estimation and Inference:\na. In general, the population parameters are unknown.\nb. Parametric models have a finite number of parameters.",
               "options": {
                 "A": "a and b are true",
                 "B": "a and b are false",
@@ -5945,19 +5934,19 @@
             },
             {
               "id": 22,
-              "question": "21\nAnswer (Choose 1 answer)\nThis option describes a way of turning a regression problem for a classification problem:",
+              "question": "This option describes a way of turning a regression problem into a classification problem:",
               "options": {
                 "A": "Create a new variable that flags 1 for above a certain value and 0 otherwise",
                 "B": "Use outlier treatment",
                 "C": "Use missing value handling",
-                "D": "Create a new variable that uses autoencoding to transform a continuous outcome into ca"
+                "D": "Create a new variable that uses autoencoding to transform a continuous outcome into categorical"
               },
               "answer": "Create a new variable that flags 1 for above a certain value and 0 otherwise",
               "answer_number": ["A"]
             },
             {
               "id": 23,
-              "question": "22\n(Choose 1 answer)\nWhich of the following measure methods computes the inertia and pick the pair that is going minimize the inertia value?",
+              "question": "Which of the following linkage methods computes the inertia and picks the pair that is going to minimize the increase in inertia?",
               "options": {
                 "A": "Single linkage",
                 "B": "Average linkage",
@@ -5969,7 +5958,7 @@
             },
             {
               "id": 24,
-              "question": "23\nAnswer (Choose 1 answer)\nWhich type of Ensemble modeling approach is NOT a special case of model averaging?",
+              "question": "Which type of Ensemble modeling approach is NOT a special case of model averaging?",
               "options": {
                 "A": "Random Forest methods",
                 "B": "Boosting methods",
@@ -5981,19 +5970,19 @@
             },
             {
               "id": 25,
-              "question": "(24)\nAnswer (Choose 1 answer)\nWhat does NoSQL stand for and what does it represent?",
+              "question": "What does NoSQL stand for and what does it represent?",
               "options": {
-                "A": "NoSQL stands for Not-only SQL, and it represents a set of databases that are relational,have fixed structure.",
-                "B": "NoSQL stands for Non-Structured Query Language, and it represents a set of relational c fixed schemas.",
-                "C": "NoSQL stands for Non-Structured Query Language, and it represents a set of non-relatic with varied schemas.",
-                "D": "NoSQL stands for Not-only SQL, and it represents a set of databases that are not relatio they vary in structure."
+                "A": "NoSQL stands for Not-only SQL, and it represents a set of databases that are relational, therefore, they have fixed structure.",
+                "B": "NoSQL stands for Non-Structured Query Language, and it represents a set of relational databases with fixed schemas.",
+                "C": "NoSQL stands for Non-Structured Query Language, and it represents a set of non-relational databases with varied schemas.",
+                "D": "NoSQL stands for Not-only SQL, and it represents a set of databases that are not relational, therefore, they vary in structure."
               },
-              "answer": "NoSQL stands for Not-only SQL, and it represents a set of databases that are not relatio they vary in structure.",
+              "answer": "NoSQL stands for Not-only SQL, and it represents a set of databases that are not relational, therefore, they vary in structure.",
               "answer_number": ["D"]
             },
             {
               "id": 26,
-              "question": "(25)\nAnswer (Choose 1 answer)\nThese are two of the most common libraries for data visualization:",
+              "question": "These are two of the most common libraries for data visualization:",
               "options": {
                 "A": "matplotlib and seaborn",
                 "B": "scipy and seaborn",
@@ -6005,19 +5994,19 @@
             },
             {
               "id": 27,
-              "question": "(26)\n(Choose 1 answer)\nWhich of the following statements best describes the iterative part of the K-means algorithm?",
+              "question": "Which of the following statements best describes the iterative part of the K-means algorithm?",
               "options": {
                 "A": "The k-means algorithm assigns a number of clusters at random.",
-                "B": "The k-means algorithm adjusts the centroids to the new mean of each cluster, and then it this process until no example is assigned to another cluster.",
+                "B": "The k-means algorithm adjusts the centroids to the new mean of each cluster, and then it repeats this process until no example is assigned to another cluster.",
                 "C": "The k-means algorithm iteratively deletes outliers.",
-                "D": "The k-means algorithm iteratively calculates the distance from each point to the centroid"
+                "D": "The k-means algorithm iteratively calculates the distance from each point to the centroids."
               },
-              "answer": "The k-means algorithm adjusts the centroids to the new mean of each cluster, and then it this process until no example is assigned to another cluster.",
+              "answer": "The k-means algorithm adjusts the centroids to the new mean of each cluster, and then it repeats this process until no example is assigned to another cluster.",
               "answer_number": ["B"]
             },
             {
               "id": 28,
-              "question": "27\nAnswer (Choose 1 answer)\nYou can use supervised machine learning for all of the following examples, EXCEPT:",
+              "question": "You can use supervised machine learning for all of the following examples, EXCEPT:",
               "options": {
                 "A": "Segment customers by their demographics.",
                 "B": "Predict the number of customers that will visit a store on a given week.",
@@ -6029,7 +6018,7 @@
             },
             {
               "id": 29,
-              "question": "28\n(Choose 1 answer)\nWhich statement about Logistic Regression is TRUE?",
+              "question": "Which statement about Logistic Regression is TRUE?",
               "options": {
                 "A": "Logistic Regression is a generalized linear model.",
                 "B": "Logistic Regression models can only predict variables with 2 classes.",
@@ -6041,7 +6030,7 @@
             },
             {
               "id": 30,
-              "question": "29 Answer\n(Choose 1 answer)\nWhat is the other name we can give to the L2 distance?",
+              "question": "What is the other name we can give to the L2 distance?",
               "options": {
                 "A": "Hamming Distance",
                 "B": "Euclidean Distance",
@@ -6053,59 +6042,59 @@
             },
             {
               "id": 31,
-              "question": "30\nAnswer (Choose 1 answer)\nWhich of the following statements about model complexity is TRUE?",
+              "question": "Which of the following statements about model complexity is TRUE?",
               "options": {
                 "A": "Higher model complexity leads to a lower chance of overfitting.",
                 "B": "Higher model complexity leads to a higher chance of overfitting.",
-                "C": "Reducing the number of features while adding feature interactions leads to a lower chanc",
-                "D": "Reducing the number of features while adding feature interactions leads to a higher char"
+                "C": "Reducing the number of features while adding feature interactions leads to a lower chance of overfitting.",
+                "D": "Reducing the number of features while adding feature interactions leads to a higher chance of overfitting."
               },
               "answer": "Higher model complexity leads to a higher chance of overfitting.",
               "answer_number": ["B"]
             },
             {
               "id": 32,
-              "question": "31\n(Choose 1 answer)\nWhat is the most common sklearn methods to add polynomial features to your data?",
+              "question": "What are the most common sklearn methods to add polynomial features to your data?",
               "options": {
                 "A": "polyFeat.add and polyFeat.transform",
                 "B": "polyFeat.add and polyFeat.fit",
-                "C": "polyFeat.fit and polyFeat.transform",
+                "C": "polyFeat.fit and polyFeat.transform (or fit_transform)",
                 "D": "polyFeat.transform"
               },
-              "answer": "polyFeat.fit and polyFeat.transform",
+              "answer": "polyFeat.fit and polyFeat.transform (or fit_transform)",
               "answer_number": ["C"]
             },
             {
               "id": 33,
-              "question": "32\n(Choose 1 answer)\nUsually, the first step to fit a support vector machine classifer model using scikit learn is to:",
+              "question": "Usually, the first step to fit a support vector machine classifier model using scikit-learn is to:",
               "options": {
                 "A": "import svm from the sklearn.svm module\ne.g. from sklearn.svm import svm",
-                "B": "import SVM from the sklearn.classifer module\ne.g. from sklearn.classifier import SVM",
+                "B": "import SVM from the sklearn.classifier module\ne.g. from sklearn.classifier import SVM",
                 "C": "import SVC from the sklearn.svm module\ne.g. from sklearn.svm import SVC",
-                "D": "import support vector classifier from the sklearn.svms module\ne.g. from sklearn.svms import supportvectorclassifer"
+                "D": "import support vector classifier from the sklearn.svms module\ne.g. from sklearn.svms import SupportVectorClassifier"
               },
               "answer": "import SVC from the sklearn.svm module\ne.g. from sklearn.svm import SVC",
               "answer_number": ["C"]
             },
             {
               "id": 34,
-              "question": "(33)\nAnswer (Choose 1 answer)\nThe main purpose of scaling features before fitting a k nearest neighbor model is to:",
+              "question": "The main purpose of scaling features before fitting a k nearest neighbor model is to:",
               "options": {
                 "A": "Help find the appropriate value of k",
                 "B": "Ensure decision boundaries have roughly the same size for all classes",
                 "C": "Ensure that features have similar influence on the distance calculation",
-                "D": "Break ties in case there is the same number of neighbors of different classes next to a gir"
+                "D": "Break ties in case there is the same number of neighbors of different classes next to a given observation."
               },
               "answer": "Ensure that features have similar influence on the distance calculation",
               "answer_number": ["C"]
             },
             {
               "id": 35,
-              "question": "35 Answer\n(Choose 1 answer)\nWhich of the following statements is FALSE?",
+              "question": "Which of the following statements is FALSE?",
               "options": {
-                "A": "In Analytic View, increasing L2/L1 penalties force coefficients to be smaller, restricting th",
-                "B": "Under the Geometric formulation, the cost function minimum is found at the intersection c boundary and a contour of the traditional OLS cost function surface.",
-                "C": "Under the Probabilistic formulation, L2 (Ridge) regularization imposes Gaussian prior on while L1 (Lasso) regularization imposes Laplacian prior.",
+                "A": "In Analytic View, increasing L2/L1 penalties force coefficients to be smaller, restricting their plausible range.",
+                "B": "Under the Geometric formulation, the cost function minimum is found at the intersection of the penalty boundary and a contour of the traditional OLS cost function surface.",
+                "C": "Under the Probabilistic formulation, L2 (Ridge) regularization imposes a Gaussian prior on the coefficients, while L1 (Lasso) regularization imposes a Laplacian prior.",
                 "D": "None of the others"
               },
               "answer": "None of the others",
@@ -6113,7 +6102,7 @@
             },
             {
               "id": 36,
-              "question": "37\n(Choose 1 answer)\nWhich of the following statements about Synthetic Upsampling is TRUE?",
+              "question": "Which of the following statements about Synthetic Upsampling is TRUE?",
               "options": {
                 "A": "Synthetic Upsampling will generally lead to a higher F1 score.",
                 "B": "Synthetic Upsampling uses fewer hyperparameters than Random Upsampling.",
@@ -6125,7 +6114,7 @@
             },
             {
               "id": 37,
-              "question": "38\nAnswer (Choose 1 answer)\nUsually the first step to fit a gradient boosting classifier model using scikit learn is to:",
+              "question": "Usually the first step to fit a gradient boosting classifier model using scikit-learn is to:",
               "options": {
                 "A": "import classifier ensemble from the sklearn. Gradient Boosting module\ne.g. from sklearn.gradientboosting import ClassifierEnsemble",
                 "B": "import gradient boosting from the sklearn.classifierensemble module\ne.g. from sklearn.classifierensemble import GradientBoosting",
@@ -6137,7 +6126,7 @@
             },
             {
               "id": 38,
-              "question": "40\nAnswer (Choose 1 answer)\nYou are evaluating a binary classifier. There are 80 positive outcomes in the test data, and 1 Using a 50% threshold, the classifier predicts 60 positive outcomes, of which 20 are incorrec\nWhat is the classifier's F1 score on the test sample?",
+              "question": "You are evaluating a binary classifier. There are 80 positive outcomes in the test data, and 150 observations. Using a 50% threshold, the classifier predicts 60 positive outcomes, of which 20 are incorrect. What is the classifier's F1 score on the test sample?",
               "options": {
                 "A": "75%",
                 "B": "57.2%",
@@ -6149,7 +6138,7 @@
             },
             {
               "id": 39,
-              "question": "42\n(Choose 1 answer)\nThese are two main advantages of decision trees:",
+              "question": "These are two main advantages of decision trees:",
               "options": {
                 "A": "They do not tend to overfit and are not sensitive to changes in data",
                 "B": "They are very visual and easy to interpret",
@@ -6161,43 +6150,43 @@
             },
             {
               "id": 40,
-              "question": "43\n(Choose 1 answer)\nThese are all characteristics of decision trees, EXCEPT:",
+              "question": "These are all characteristics of decision trees, EXCEPT:",
               "options": {
                 "A": "They segment data based on features to predict results",
                 "B": "They split nodes into leaves",
                 "C": "They can be used for either classification or regression",
-                "D": "They have well rounded decision boundaries"
+                "D": "They inherently produce smooth, well-rounded decision boundaries"
               },
-              "answer": "They have well rounded decision boundaries",
+              "answer": "They inherently produce smooth, well-rounded decision boundaries",
               "answer_number": ["D"]
             },
             {
               "id": 41,
-              "question": "(44)\n(Choose 1 answer)\nWhich of the following statements correctly defines the strengths of the DBSCAN algorithm?",
+              "question": "Which of the following statements correctly defines the strengths of the DBSCAN algorithm?",
               "options": {
-                "A": "No need to specify the number of clusters (cf. K-means), allows for noise, and can handle\nclusters.",
-                "B": "Do well with different density, works with just one parameter, the n_clu defines itself.",
-                "C": "The algorithm will find the outliers first, draw regular shapes, works faster than other algo",
-                "D": "The algorithm is computationally intensive, it is sensitive to outliers, and it requires few hy be tuned."
+                "A": "No need to specify the number of clusters (cf. K-means), allows for noise, and can handle arbitrary-shaped clusters.",
+                "B": "Does well with different density, works with just one parameter, the number of clusters defines itself.",
+                "C": "The algorithm will find the outliers first, draw regular shapes, works faster than other algorithms.",
+                "D": "The algorithm is computationally intensive, it is sensitive to outliers, and it requires few hyperparameters to be tuned."
               },
-              "answer": "No need to specify the number of clusters (cf. K-means), allows for noise, and can handle\nclusters.",
+              "answer": "No need to specify the number of clusters (cf. K-means), allows for noise, and can handle arbitrary-shaped clusters.",
               "answer_number": ["A"]
             },
             {
               "id": 42,
-              "question": "(45)\nAnswer (Choose 1 answer)\nWhich statement describes better \"The Smarter initialization of K-mean clusters?",
+              "question": "Which statement best describes the smarter initialization of K-means clusters (e.g., K-means++)?",
               "options": {
                 "A": "\"Draw a line between the data points to create 2 big clusters.\"",
                 "B": "\"After we find our centroids, we calculate the distance between all our data points.\"",
-                "C": "\"Pick one point random as initial point and for the second pick instead of doing it randoml assigning the probability of the distance.\"",
+                "C": "\"Pick one point randomly as initial point and for the second pick instead of doing it randomly, assign probability based on the distance.\"",
                 "D": "\"We start by having two centroids as far as possible between each other.\""
               },
-              "answer": "\"Pick one point random as initial point and for the second pick instead of doing it randoml assigning the probability of the distance.\"",
+              "answer": "\"Pick one point randomly as initial point and for the second pick instead of doing it randomly, assign probability based on the distance.\"",
               "answer_number": ["C"]
             },
             {
               "id": 43,
-              "question": "(47\n(Choose 1 answer)\nSelect the option that has the syntax to obtain the data splits you will need to train a model h that is a third the size of your available data.",
+              "question": "Select the option that has the syntax to obtain the data splits you will need to train a model having a test split that is a third the size of your available data.",
               "options": {
                 "A": "X_train, X_test, y_train, y_test = train_test_split(x, y, test_size=0.5)",
                 "B": "X_train, X_test, y_train, y_test = train_test_split(x, y, test_size=0.33)",
@@ -6209,31 +6198,31 @@
             },
             {
               "id": 44,
-              "question": "48\n(Choose 1 answer)\nAll of these options are useful error measures to compare regression models except:",
+              "question": "All of these options are useful error measures to compare regression models EXCEPT:",
               "options": {
-                "A": "SSE",
+                "A": "SSE (Sum of Squared Errors)",
                 "B": "R squared",
-                "C": "TSS",
-                "D": "ROC index"
+                "C": "TSS (Total Sum of Squares)",
+                "D": "ROC index (AUC)"
               },
-              "answer": "ROC index",
+              "answer": "ROC index (AUC)",
               "answer_number": ["D"]
             },
             {
               "id": 45,
-              "question": "49\n(Choose 1 answer)\nWhich of the following statements is a characteristic of the Hierarchical Clustering (Ward) alc",
+              "question": "Which of the following statements is a characteristic of the Hierarchical Clustering (Ward) algorithm?",
               "options": {
-                "A": "If we use a mini batch to find our centroids and clusters this will find our clusters fairly quic",
-                "B": "It offers a lot of distance metrics and linkage options.",
+                "A": "If we use a mini batch to find our centroids and clusters this will find our clusters fairly quickly.",
+                "B": "It offers a lot of distance metrics and linkage options (though Ward specifically minimizes variance).",
                 "C": "Too small epsilon (too many clusters) is not trustworthy.",
                 "D": "Too large epsilon (too few clusters) is not trustworthy."
               },
-              "answer": "It offers a lot of distance metrics and linkage options.",
+              "answer": "It offers a lot of distance metrics and linkage options (though Ward specifically minimizes variance).",
               "answer_number": ["B"]
             },
             {
               "id": 46,
-              "question": "50\nAnswer (Choose 1 answer)\nThese are all methods of dealing with unbalanced classes EXCEPT:",
+              "question": "These are all methods of dealing with unbalanced classes EXCEPT:",
               "options": {
                 "A": "Downsampling.",
                 "B": "Mix of in-sample and out-of-sample.",
