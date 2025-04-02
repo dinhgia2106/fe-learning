@@ -2193,12 +2193,12 @@
               "id": 5,
               "question": "Which Pandas method is used to load data from a CSV file into a DataFrame?",
               "options": {
-                "A": "read_csv()",
-                "B": "load_data()",
-                "C": "import_data()",
-                "D": "create_dataframe()"
+                "A": "read_csv(____)",
+                "B": "load_data(____)",
+                "C": "import_data(____)",
+                "D": "create_dataframe(____)"
               },
-              "answer": "read_csv()",
+              "answer": "read_csv(____)",
               "answer_number": ["A"]
             },
             {
@@ -2265,9 +2265,9 @@
               "id": 11,
               "question": "Which method can be used to handle missing data in a DataFrame in Pandas?",
               "options": {
-                "A": "dropna()",
-                "B": "fillna()",
-                "C": "isnull()",
+                "A": "dropna(____)",
+                "B": "fillna(____)",
+                "C": "isnull(____)",
                 "D": "All of the above"
               },
               "answer": "All of the above",
@@ -2287,7 +2287,7 @@
             },
             {
               "id": 13,
-              "question": "What does the subplot() function in Matplotlib allow you to do?",
+              "question": "What does the subplot(____) function in Matplotlib allow you to do?",
               "options": {
                 "A": "Create multiple plots within a single figure",
                 "B": "Change the background color of the plot",
@@ -2301,36 +2301,36 @@
               "id": 14,
               "question": "Which function in Matplotlib is used to draw a histogram?",
               "options": {
-                "A": "hist()",
-                "B": "draw_hist()",
-                "C": "plot_hist()",
-                "D": "create_histogram()"
+                "A": "hist(____)",
+                "B": "draw_hist(____)",
+                "C": "plot_hist(____)",
+                "D": "create_histogram(____)"
               },
-              "answer": "hist()",
+              "answer": "hist(____)",
               "answer_number": ["A"]
             },
             {
               "id": 15,
               "question": "Which Matplotlib function is used to create a pie chart?",
               "options": {
-                "A": "plt.plot()",
-                "B": "plt.bar()",
-                "C": "plt.pie()",
-                "D": "plt.scatter()"
+                "A": "plt.plot(____)",
+                "B": "plt.bar(____)",
+                "C": "plt.pie(____)",
+                "D": "plt.scatter(____)"
               },
-              "answer": "plt.pie()",
+              "answer": "plt.pie(____)",
               "answer_number": ["C"]
             },
             {
               "id": 16,
               "question": "In Dash, which component is used to create a range slider for selecting values within a specified range?",
               "options": {
-                "A": "dcc.RangeSlider()",
-                "B": "dcc.Slider()",
-                "C": "dcc.Input()",
-                "D": "dcc.Dropdown()"
+                "A": "dcc.RangeSlider(____)",
+                "B": "dcc.Slider(____)",
+                "C": "dcc.Input(____)",
+                "D": "dcc.Dropdown(____)"
               },
-              "answer": "dcc.RangeSlider()",
+              "answer": "dcc.RangeSlider(____)",
               "answer_number": ["A"]
             },
             {
@@ -2339,7 +2339,7 @@
               "options": {
                 "A": "plot(kind='area')",
                 "B": "plot(type='area')",
-                "C": "plot.area()",
+                "C": "plot.area(____)",
                 "D": "plot_area"
               },
               "answer": "plot(kind='area')",
@@ -2349,24 +2349,24 @@
               "id": 18,
               "question": "In Dash, what component is used to create a text input box for user interaction?",
               "options": {
-                "A": "dcc.Input()",
-                "B": "dcc.Dropdown()",
-                "C": "dcc.Slider()",
-                "D": "dcc.Graph()"
+                "A": "dcc.Input(____)",
+                "B": "dcc.Dropdown(____)",
+                "C": "dcc.Slider(____)",
+                "D": "dcc.Graph(____)"
               },
-              "answer": "dcc.Input()",
+              "answer": "dcc.Input(____)",
               "answer_number": ["A"]
             },
             {
               "id": 19,
               "question": "In Dash, which component allows users to input text or strings?",
               "options": {
-                "A": "dcc.Input()",
-                "B": "dcc.Dropdown()",
-                "C": "dcc.Textarea()",
-                "D": "dcc.Graph()"
+                "A": "dcc.Input(____)",
+                "B": "dcc.Dropdown(____)",
+                "C": "dcc.Textarea(____)",
+                "D": "dcc.Graph(____)"
               },
-              "answer": "dcc.Input()",
+              "answer": "dcc.Input(____)",
               "answer_number": ["A"]
             },
             {
@@ -2387,7 +2387,7 @@
               "options": {
                 "A": "Legends are added automatically",
                 "B": "legend=True",
-                "C": "add_legend()",
+                "C": "add_legend(____)",
                 "D": "Legends cannot be added to pie charts"
               },
               "answer": "legend=True",
@@ -2397,17 +2397,17 @@
               "id": 22,
               "question": "Which Seaborn function is used to create a bar plot displaying the count of unique values in a categorical variable?",
               "options": {
-                "A": "sns.countplot()",
-                "B": "sns.barplot()",
-                "C": "sns.pointplot()",
-                "D": "sns.boxplot()"
+                "A": "sns.countplot(____)",
+                "B": "sns.barplot(____)",
+                "C": "sns.pointplot(____)",
+                "D": "sns.boxplot(____)"
               },
-              "answer": "sns.countplot()",
+              "answer": "sns.countplot(____)",
               "answer_number": ["A"]
             },
             {
               "id": 23,
-              "question": "Which parameter in plt.plot() sets the width of the line?",
+              "question": "Which parameter in plt.plot(____) sets the width of the line?",
               "options": {
                 "A": "linewidth",
                 "B": "line_width",
@@ -2421,12 +2421,12 @@
               "id": 24,
               "question": "Which Seaborn function is used to create a bar plot with the addition of stacked bars?",
               "options": {
-                "A": "sns.barplot()",
-                "B": "sns.countplot()",
-                "C": "sns.pointplot()",
-                "D": "sns.stackedplot()"
+                "A": "sns.barplot(____)",
+                "B": "sns.countplot(____)",
+                "C": "sns.pointplot(____)",
+                "D": "sns.stackedplot(____)"
               },
-              "answer": "sns.barplot()",
+              "answer": "sns.barplot(____)",
               "answer_number": ["A"]
             },
             {
@@ -2469,12 +2469,12 @@
               "id": 28,
               "question": "In Seaborn, which function is used to create a heatmap to visualize the correlation matrix of a dataset?",
               "options": {
-                "A": "sns.heatmap()",
-                "B": "sns.pairplot()",
-                "C": "sns.jointplot()",
-                "D": "sns.scatterplot()"
+                "A": "sns.heatmap(____)",
+                "B": "sns.pairplot(____)",
+                "C": "sns.jointplot(____)",
+                "D": "sns.scatterplot(____)"
               },
-              "answer": "sns.heatmap()",
+              "answer": "sns.heatmap(____)",
               "answer_number": ["A"]
             },
             {
@@ -2493,12 +2493,12 @@
               "id": 30,
               "question": "Which Seaborn function is used to create a heatmap?",
               "options": {
-                "A": "plot_heatmap()",
-                "B": "draw_heatmap()",
-                "C": "heatmap()",
-                "D": "create_heatmap()"
+                "A": "plot_heatmap(____)",
+                "B": "draw_heatmap(____)",
+                "C": "heatmap(____)",
+                "D": "create_heatmap(____)"
               },
-              "answer": "heatmap()",
+              "answer": "heatmap(____)",
               "answer_number": ["C"]
             },
             {
@@ -2599,7 +2599,7 @@
             },
             {
               "id": 39,
-              "question": "What is the purpose of the model.fit() function in TensorFlow?",
+              "question": "What is the purpose of the model.fit(____) function in TensorFlow?",
               "options": {
                 "A": "Compiling the model with loss functions",
                 "B": "Initializing the neural network weights",
@@ -2611,7 +2611,7 @@
             },
             {
               "id": 40,
-              "question": "In TensorFlow, what is the purpose of the model.compile() function?",
+              "question": "In TensorFlow, what is the purpose of the model.compile(____) function?",
               "options": {
                 "A": "Initializing the neural network weights",
                 "B": "Defining the architecture of the neural network",
@@ -2673,12 +2673,12 @@
               "id": 45,
               "question": "In Sklearn, which method is used for data scaling to a range of [0, 1]?",
               "options": {
-                "A": "MinMaxScaler()",
-                "B": "StandardScaler()",
-                "C": "RobustScaler()",
-                "D": "MaxAbsScaler()"
+                "A": "MinMaxScaler(____)",
+                "B": "StandardScaler(____)",
+                "C": "RobustScaler(____)",
+                "D": "MaxAbsScaler(____)"
               },
-              "answer": "MinMaxScaler()",
+              "answer": "MinMaxScaler(____)",
               "answer_number": ["A"]
             },
             {
@@ -2709,12 +2709,12 @@
               "id": 48,
               "question": "Which TensorFlow function is used to add layers to a neural network model?",
               "options": {
-                "A": "model.compile()",
-                "B": "model.add()",
-                "C": "model.fit()",
-                "D": "model.add_layer()"
+                "A": "model.compile(____)",
+                "B": "model.add(____)",
+                "C": "model.fit(____)",
+                "D": "model.add_layer(____)"
               },
-              "answer": "model.add()",
+              "answer": "model.add(____)",
               "answer_number": ["B"]
             },
             {
@@ -2784,7 +2784,7 @@
             },
             {
               "id": 4,
-              "question": "The following code is an example of (df['len']-df['len'].mean()) / df['len'].std()?",
+              "question": "The following code is an example of (df['len']-df['len'].mean(____)) / df['len'].std(____)?",
               "options": {
                 "A": "z-score",
                 "B": "t-score",
@@ -3063,23 +3063,23 @@
               "question": "What would be added to the command highest_gpas = grades to produce the highest number in an array of student GPAs?",
               "options": {
                 "A": ".max",
-                "B": ".high()",
-                "C": ".max()",
+                "B": ".high(____)",
+                "C": ".max(____)",
                 "D": ".high"
               },
-              "answer": ".max()",
+              "answer": ".max(____)",
               "answer_number": ["C"]
             },
             {
               "id": 28,
               "question": "A teacher has grades stored in an array. The array is: grades = np.array([100, 90, 77, 20, 99, 100]). What code will produce the lowest grade from the array, and assign it to a variable that will accurately describe the value assigned to it?",
               "options": {
-                "A": "grades = grades.min()",
-                "B": "grades.min() = lowest_grade",
-                "C": "lowest_grade = grades.min()",
-                "D": "grades.min() = grades"
+                "A": "grades = grades.min(____)",
+                "B": "grades.min(____) = lowest_grade",
+                "C": "lowest_grade = grades.min(____)",
+                "D": "grades.min(____) = grades"
               },
-              "answer": "lowest_grade = grades.min()",
+              "answer": "lowest_grade = grades.min(____)",
               "answer_number": ["C"]
             },
             {
@@ -3122,12 +3122,12 @@
               "id": 32,
               "question": "A teacher has the students' grades stored in an array. The teacher is evaluating the mean of each student's grade and dropping the lowest grade for the year. The array is: grades = np.array([100, 90, 77, 20, 99, 100]). What code will produce the mean grade and the lowest grade from the array?",
               "options": {
-                "A": "grades = grades.mean(), min()",
-                "B": "grades = mean(), min()",
-                "C": "grades = grades.mean() and lowest_grade = grades.low()",
-                "D": "grades = grades.mean() and lowest_grade = grades.min()"
+                "A": "grades = grades.mean(____), min(____)",
+                "B": "grades = mean(____), min(____)",
+                "C": "grades = grades.mean(____) and lowest_grade = grades.low(____)",
+                "D": "grades = grades.mean(____) and lowest_grade = grades.min(____)"
               },
-              "answer": "grades = grades.mean() and lowest_grade = grades.min()",
+              "answer": "grades = grades.mean(____) and lowest_grade = grades.min(____)",
               "answer_number": ["D"]
             },
             {
@@ -3206,12 +3206,12 @@
               "id": 39,
               "question": "Consider the column 'size', select the correct code for simple feature scaling.",
               "options": {
-                "A": "df['size'] = df[\"size\"]/df[\"size\"].max()",
-                "B": "df['size'] = df[\"size\"].max()",
-                "C": "df['size'] = df[\"size\"]*df[\"size\"].max()",
-                "D": "df['size'] = df[\"size\"]+df[\"size\"].max()"
+                "A": "df['size'] = df[\"size\"]/df[\"size\"].max(____)",
+                "B": "df['size'] = df[\"size\"].max(____)",
+                "C": "df['size'] = df[\"size\"]*df[\"size\"].max(____)",
+                "D": "df['size'] = df[\"size\"]+df[\"size\"].max(____)"
               },
-              "answer": "df['size'] = df[\"size\"]+df[\"size\"].max()",
+              "answer": "df['size'] = df[\"size\"]+df[\"size\"].max(____)",
               "answer_number": ["D"]
             },
             {
@@ -3230,12 +3230,12 @@
               "id": 41,
               "question": "Which code sample will produce the first five lines of a .csv file named \"dogs.csv\"?",
               "options": {
-                "A": "dog_names = 'dogs.csv'\ndf = pandas.read_csv(dog_names)\ndf.head()",
+                "A": "dog_names = 'dogs.csv'\ndf = pandas.read_csv(dog_names)\ndf.head(____)",
                 "B": "dog_names = 'dogs.csv'\ndf = pandas.read_csv(dog_names)\ndf = [1-5]",
                 "C": "dog_names = 'dogs.csv'\ndf = pandas.read_csv(dog_names)\ndf = [0 - 4]",
                 "D": "dog_names = 'dogs.csv'\ndf = pandas.read_csv(dog_names)\ndf = x5"
               },
-              "answer": "dog_names = 'dogs.csv'\ndf = pandas.read_csv(dog_names)\ndf.head()",
+              "answer": "dog_names = 'dogs.csv'\ndf = pandas.read_csv(dog_names)\ndf.head(____)",
               "answer_number": ["A"]
             },
             {
@@ -3288,7 +3288,7 @@
             },
             {
               "id": 46,
-              "question": "What is the largest possible element resulting in the operation df.corr()?",
+              "question": "What is the largest possible element resulting in the operation df.corr(____)?",
               "options": {
                 "A": "1",
                 "B": "0",
@@ -3476,10 +3476,10 @@
               "options": {
                 "A": "max",
                 "B": "(high)",
-                "C": ".max()",
+                "C": ".max(____)",
                 "D": ".high"
               },
-              "answer": ".max()",
+              "answer": ".max(____)",
               "answer_number": ["C"]
             },
             {
@@ -3943,7 +3943,7 @@
           "questions": [
             {
               "id": 1,
-              "question": "午前、としょかんへ【行きます】。 How is the Kanji in [] read?",
+              "question": "午前、としょかんへ【行きます】。 How is the Kanji in [ ] read?",
               "options": {
                 "A": "おきます",
                 "B": "ききます",
@@ -3955,7 +3955,7 @@
             },
             {
               "id": 2,
-              "question": "食べ物で【肉】がいちばん すきです。 How is the Kanji in [] read?",
+              "question": "食べ物で【肉】がいちばん すきです。 How is the Kanji in [ ] read?",
               "options": {
                 "A": "ごはん",
                 "B": "たまご",
@@ -3967,7 +3967,7 @@
             },
             {
               "id": 3,
-              "question": "【来月】ホームステイにいきます。 How is the Kanji in [] read?",
+              "question": "【来月】ホームステイにいきます。 How is the Kanji in [ ] read?",
               "options": {
                 "A": "らいしゅう",
                 "B": "こんげつ",
@@ -3979,7 +3979,7 @@
             },
             {
               "id": 4,
-              "question": "来週【お寺】へいきます。 How is the Kanji in [] read?",
+              "question": "来週【お寺】へいきます。 How is the Kanji in [ ] read?",
               "options": {
                 "A": "おすし",
                 "B": "おてら",
@@ -4171,7 +4171,7 @@
             },
             {
               "id": 20,
-              "question": "Fill in the blank(s): コンサートのチケット(____) 2枚(まい) あります。",
+              "question": "Fill in the blank(s): コンサートのチケット (____) 2枚(まい) (____) あります。",
               "options": {
                 "A": "X/が",
                 "B": "が/が",
@@ -4470,11 +4470,35 @@
               "answer_number": ["B"]
             },
             {
-              "id": 45,
-              "question": "Choose the appropriate phrase to fill in the blank (context missing from original).",
+              "id": 45.1,
+              "question": "先週、ともだちと ながのへ 行きました。ながのに きれいな やまが ありますから、やまに ①＿＿＿＿＿。やまの しゃしんも ②＿＿＿＿＿。やまの けしきは とても きれいでした。ひる、ともだちと おべんとうを 食べました。それから、おんせんに はいりました。おんせんは すこし あつかったですが、きもちが よかったです。\nChoose the appropriate phrase to fill in ①＿＿＿＿＿",
+              "options": {
+                "A": "あらいました",
+                "B": "はいりました",
+                "C": "のぼりました",
+                "D": "かりました"
+              },
+              "answer": "のぼりました",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 45.2,
+              "question": "Choose the appropriate phrase to fill in ②＿＿＿＿＿",
+              "options": {
+                "A": "おきました",
+                "B": "かしました",
+                "C": "とりました",
+                "D": "ききました"
+              },
+              "answer": "とりました",
+              "answer_number": ["C"]
+            },
+            {
+              "id": 45.3,
+              "question": "やまの けきしはどうでしたか。",
               "options": {
                 "A": "きもちがよかったです",
-                "B": "かしました",
+                "B": "おいしかったです",
                 "C": "きれいでした",
                 "D": "あつかったです"
               },
@@ -6390,7 +6414,7 @@
             },
             {
               "id": 13,
-              "question": "ミラーさんは学生です。やまださん()学生です。",
+              "question": "ミラーさんは学生です。やまださん(____)学生です。",
               "options": {
                 "A": "で",
                 "B": "や",
@@ -6402,7 +6426,7 @@
             },
             {
               "id": 14,
-              "question": "これはえいご()なんですか。",
+              "question": "これはえいご(____)なんですか。",
               "options": {
                 "A": "に",
                 "B": "まで",
@@ -6462,7 +6486,7 @@
             },
             {
               "id": 19,
-              "question": "まいばん、ほんを()。",
+              "question": "まいばん、ほんを(____)。",
               "options": {
                 "A": "よみます",
                 "B": "べんきょうします",
@@ -6486,7 +6510,7 @@
             },
             {
               "id": 21,
-              "question": "A: Namさんはベトナムじんですか。\nNam: ()、ベトナムじんです。",
+              "question": "A: Namさんはベトナムじんですか。\nNam: (____)、ベトナムじんです。",
               "options": {
                 "A": "いいえ",
                 "B": "あのう",
@@ -6534,7 +6558,7 @@
             },
             {
               "id": 25,
-              "question": "はじめまして。私は()です。\nよろしくおねがいします。",
+              "question": "はじめまして。私は(____)です。\nよろしくおねがいします。",
               "options": {
                 "A": "マルコさん",
                 "B": "じゅうはっさい",
@@ -6635,7 +6659,7 @@
             },
             {
               "id": 3,
-              "question": "Chọn đáp án thích hợp để điền vào chỗ trống\nA: Bさんは学生ですか。\nB: いいえ、()。",
+              "question": "Chọn đáp án thích hợp để điền vào chỗ trống\nA: Bさんは学生ですか。\nB: いいえ、(____)。",
               "options": {
                 "A": "がくせいです",
                 "B": "きょうしじゃありません",
@@ -6647,7 +6671,7 @@
             },
             {
               "id": 4,
-              "question": "Chọn đáp án thích hợp để điền vào chỗ trống\nA: ふゆやすみ、りょこうをしますか。\nB: いいえ、()。",
+              "question": "Chọn đáp án thích hợp để điền vào chỗ trống\nA: ふゆやすみ、りょこうをしますか。\nB: いいえ、(____)。",
               "options": {
                 "A": "りょこうをしません",
                 "B": "りょこうじゃありません",
@@ -6683,7 +6707,7 @@
             },
             {
               "id": 7,
-              "question": "Chọn đáp án thích hợp để điền vào chỗ trống:\nにちようび、()もしません。",
+              "question": "Chọn đáp án thích hợp để điền vào chỗ trống:\nにちようび、(____)もしません。",
               "options": {
                 "A": "なに",
                 "B": "いつ",
@@ -6695,7 +6719,7 @@
             },
             {
               "id": 8,
-              "question": "Chọn đáp án thích hợp để điền vào chỗ trống:\nA:これは()のペンですか。\nB:せんせいのです。",
+              "question": "Chọn đáp án thích hợp để điền vào chỗ trống:\nA:これは(____)のペンですか。\nB:せんせいのです。",
               "options": {
                 "A": "どちら",
                 "B": "どこ",
@@ -6719,7 +6743,7 @@
             },
             {
               "id": 10,
-              "question": "Chọn đáp án thích hợp để điền vào chỗ trống:\nA: さとうさん、おしごとは?\nB: 私は()です。",
+              "question": "Chọn đáp án thích hợp để điền vào chỗ trống:\nA: さとうさん、おしごとは?\nB: 私は(____)です。",
               "options": {
                 "A": "日本人",
                 "B": "だいがく",
@@ -6731,7 +6755,7 @@
             },
             {
               "id": 11,
-              "question": "Chọn đáp án thích hợp để điền vào chỗ trống\nミラーさんは学生です。やまださん()学生です。",
+              "question": "Chọn đáp án thích hợp để điền vào chỗ trống\nミラーさんは学生です。やまださん(____)学生です。",
               "options": {
                 "A": "で",
                 "B": "や",
@@ -6743,7 +6767,7 @@
             },
             {
               "id": 12,
-              "question": "Chọn đáp án thích hợp để điền vào chỗ trống\nこうえん()行きます。こうえん() バーベキューをします。",
+              "question": "Chọn đáp án thích hợp để điền vào chỗ trống\nこうえん(____)行きます。こうえん(____) バーベキューをします。",
               "options": {
                 "A": "で/へ",
                 "B": "へ/で",
