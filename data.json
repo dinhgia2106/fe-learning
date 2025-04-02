@@ -3650,7 +3650,7 @@
             },
             {
               "id": 7,
-              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nHong Kongは( )ところです。",
+              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nHong Kongは(____)ところです。",
               "options": {
                 "A": "きれいな",
                 "B": "きれい",
@@ -3722,7 +3722,7 @@
             },
             {
               "id": 13,
-              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nA「もう、あさごはんを食べましたか。」\nB「いいえ、( )。」",
+              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nA「もう、あさごはんを食べましたか。」\nB「いいえ、(____)。」",
               "options": {
                 "A": "たべません",
                 "B": "まだ たべません",
@@ -3794,7 +3794,7 @@
             },
             {
               "id": 19,
-              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nA: ハノイは( )ところですか。\nB: おおきいところです。",
+              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nA: ハノイは(____)ところですか。\nB: おおきいところです。",
               "options": {
                 "A": "どう",
                 "B": "どうして",
@@ -3806,7 +3806,7 @@
             },
             {
               "id": 20,
-              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nA:一年で( )がいちばんてんきがいいですか。\nB:10月がいいです。",
+              "question": "Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nA:一年で(____)がいちばんてんきがいいですか。\nB:10月がいいです。",
               "options": {
                 "A": "いつ",
                 "B": "なに",
@@ -3943,19 +3943,19 @@
           "questions": [
             {
               "id": 1,
-              "question": "(Choose 1 answer)\nCác chữ Hán trong ngoặc [ ] có cách đọc tương ứng như thế nào? Hãy chọn đáp án đúng trong A, B, C,D\n午前、としょかんへ【行きます】。",
+              "question": "午前、としょかんへ【行きます】。 How is the Kanji in [] read?",
               "options": {
                 "A": "おきます",
                 "B": "ききます",
                 "C": "かきます",
-                "D": "いきます\n\n\n1"
+                "D": "いきます"
               },
-              "answer": "いきます\n\n\n1",
+              "answer": "いきます",
               "answer_number": ["D"]
             },
             {
               "id": 2,
-              "question": "(Choose 1 answer)\nCác chữ Hán trong ngoặc [ ] có cách đọc tương ứng như thế nào? Hãy chọn đáp án đúng trong A, B, C, D 食べ物で【肉】がいちばん すきです。",
+              "question": "食べ物で【肉】がいちばん すきです。 How is the Kanji in [] read?",
               "options": {
                 "A": "ごはん",
                 "B": "たまご",
@@ -3967,7 +3967,7 @@
             },
             {
               "id": 3,
-              "question": "A Các chữ Hán trong ngoặc [ ] có cách đọc tương ứng như thế nào? Hãy chọn đáp án đúng trong A, B, C, D 【来月】ホームステイにいきます。\n(Choose 1 answer)",
+              "question": "【来月】ホームステイにいきます。 How is the Kanji in [] read?",
               "options": {
                 "A": "らいしゅう",
                 "B": "こんげつ",
@@ -3979,7 +3979,7 @@
             },
             {
               "id": 4,
-              "question": "(Choose 1 answer)\nA Các chữ Hán trong ngoặc ( ) có cách đọc tương ứng như thế nào? Hãy chọn đáp án đúng trong A, B, C, D\n来週【お寺】へいきます。",
+              "question": "来週【お寺】へいきます。 How is the Kanji in [] read?",
               "options": {
                 "A": "おすし",
                 "B": "おてら",
@@ -3991,11 +3991,11 @@
             },
             {
               "id": 5,
-              "question": "A Các chữ Hán trong ngoặc [ ] có cách đọc tương ứng như thế nào? Hãy chọn đáp án đúng trong A, B,",
+              "question": "How is 【東京】 read? (Question reconstructed based on options)",
               "options": {
-                "C": "ときょう",
                 "A": "ときょ",
                 "B": "とうきょう",
+                "C": "ときょう",
                 "D": "とうきょ"
               },
               "answer": "とうきょう",
@@ -4003,11 +4003,11 @@
             },
             {
               "id": 6,
-              "question": "(Choose 1 answer)\nCác từ trong ngoặc [ ] dưới đây có chữ Hán tương ứng như thế nào? Hãy chọn đáp án đúng trong A, B,",
+              "question": "Choose the Kanji for [ひがし]. (Question reconstructed based on options/answer)",
               "options": {
-                "C": "野",
                 "A": "東",
                 "B": "京",
+                "C": "野",
                 "D": "理"
               },
               "answer": "東",
@@ -4015,10 +4015,11 @@
             },
             {
               "id": 7,
-              "question": "(Choose 1 answer)\nCác từ trong ngoặc [ ] dưới đây có chữ Hán tương ứng như thế nào? Hãy chọn đáp án đúng trong A, B,",
+              "question": "Choose the Kanji for [せんしゅう]. (Question reconstructed based on options/answer)",
               "options": {
-                "C": "来周",
+                "A": "来週",
                 "B": "来月",
+                "C": "来周",
                 "D": "先週"
               },
               "answer": "先週",
@@ -4026,11 +4027,11 @@
             },
             {
               "id": 8,
-              "question": "A Các từ trong ngoặc [ ] dưới đây có chữ Hán tương ứng như thế nào? Hãy chọn đáp án đúng trong A, B,",
+              "question": "Choose the Kanji form for [かいてください]. (Question reconstructed based on options/answer)",
               "options": {
-                "C": "会いてください",
                 "A": "帰いてください",
                 "B": "書いてください",
+                "C": "会いてください",
                 "D": "聞いてください"
               },
               "answer": "書いてください",
@@ -4038,11 +4039,11 @@
             },
             {
               "id": 9,
-              "question": "Multile Choices\n(Choose 1 answer)\nCác từ trong ngoặc [ ] dưới đây có chữ Hán tương ứng như thế nào? Hãy chọn đáp án đúng trong A, B,",
+              "question": "Choose the Kanji form for [のみもの]. (Question reconstructed based on options/answer)",
               "options": {
-                "C": "飲み物",
                 "A": "読み物",
                 "B": "食み物",
+                "C": "飲み物",
                 "D": "買み物"
               },
               "answer": "飲み物",
@@ -4050,11 +4051,11 @@
             },
             {
               "id": 10,
-              "question": "A Các từ trong ngoặc [ ] dưới đây có chữ Hán tương ứng như thế nào? Hãy chọn đáp án đúng trong A, B,",
+              "question": "Choose the Kanji form for [いきます]. (Question reconstructed based on options/answer)",
               "options": {
-                "C": "行きます",
                 "A": "会きます",
                 "B": "話きます",
+                "C": "行きます",
                 "D": "書きます"
               },
               "answer": "行きます",
@@ -4062,7 +4063,7 @@
             },
             {
               "id": 11,
-              "question": "Multile Choices\n(Choose 1 answer)\nChọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống ランさん、このりょうりの ( )かたをおしえてください。",
+              "question": "Fill in the blank: ランさん、このりょうりの (____)かたをおしえてください。",
               "options": {
                 "A": "つくりました",
                 "B": "つくり",
@@ -4074,7 +4075,7 @@
             },
             {
               "id": 12,
-              "question": "Multile Choices\n(Choose 1 answer)\nHãy chọn dạng phủ định của từ dưới đây:\n「にぎやか」",
+              "question": "Choose the negative form of 「にぎやか」.",
               "options": {
                 "A": "にぎやかでした",
                 "B": "にぎやかではありませんでした",
@@ -4086,7 +4087,7 @@
             },
             {
               "id": 13,
-              "question": "(Choose 1 answer)\nChọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống 山田(やまだ)さんは、いま、先生()はなしています。\nC",
+              "question": "Fill in the blank: 山田(やまだ)さんは、いま、先生(____)はなしています。",
               "options": {
                 "A": "と",
                 "B": "も",
@@ -4098,7 +4099,7 @@
             },
             {
               "id": 14,
-              "question": "A Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\n(Choose 1 answer)\n)おかね( ) かりました。Bともだち(",
+              "question": "Fill in the blanks: ともだち(____) おかね(____) かりました。",
               "options": {
                 "A": "に/を",
                 "B": "に/で",
@@ -4110,19 +4111,19 @@
             },
             {
               "id": 15,
-              "question": "A Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống B きのう、ともだちとおんせん( )はいりました。\n(Choose 1 answer)\nC",
+              "question": "Fill in the blank: きのう、ともだちとおんせん(____)はいりました。",
               "options": {
                 "A": "で",
                 "B": "を",
                 "C": "に",
-                "D": "A"
+                "D": "へ"
               },
               "answer": "に",
               "answer_number": ["C"]
             },
             {
               "id": 16,
-              "question": "(Choose 1 answer)\nChọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nA: カレーと すしとどちらがすきですか。\nB:すきです。",
+              "question": "Fill in the blank: A: カレーと すしとどちらがすきですか。\nB: (____) すきです。",
               "options": {
                 "A": "どちらは",
                 "B": "どちらも",
@@ -4134,7 +4135,7 @@
             },
             {
               "id": 17,
-              "question": "(Choose 1 answer)\nChọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống わたしは 日本料理(りょうり)()すきです。",
+              "question": "Fill in the blank: わたしは 日本料理(りょうり)(____)すきです。",
               "options": {
                 "A": "を",
                 "B": "が",
@@ -4146,7 +4147,7 @@
             },
             {
               "id": 18,
-              "question": "Multile Choices\n(Choose 1 answer)\nHãy chọn dạng quá khứ của từ dưới đây:\nB 「やすみ」",
+              "question": "Choose the past tense of 「やすみ」 (noun).",
               "options": {
                 "A": "やすみじゃありません",
                 "B": "やすみかった",
@@ -4158,7 +4159,7 @@
             },
             {
               "id": 19,
-              "question": "A Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nB うちから がっこうまで10ぷんです。\n(Choose 1 answer)",
+              "question": "Fill in the blank: うちから がっこうまで (____) 10ぷんです。",
               "options": {
                 "A": "あるいて",
                 "B": "バイク",
@@ -4170,7 +4171,7 @@
             },
             {
               "id": 20,
-              "question": "(Choose 1 answer)\nChọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống コンサートのチケット2枚(まい)あります。",
+              "question": "Fill in the blank(s): コンサートのチケット(____) 2枚(まい) あります。",
               "options": {
                 "A": "X/が",
                 "B": "が/が",
@@ -4182,9 +4183,10 @@
             },
             {
               "id": 21,
-              "question": "A Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống B きれいなしゃしんですね。だれ()とりましたか。\n(Choose 1 answer)\nC",
+              "question": "Fill in the blank: きれいなしゃしんですね。だれ(____)とりましたか。",
               "options": {
-                "A": "の\nD B. は",
+                "A": "の",
+                "B": "は",
                 "C": "が",
                 "D": "に"
               },
@@ -4193,7 +4195,7 @@
             },
             {
               "id": 22,
-              "question": "(Choose 1 answer)\nChọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống ラーメンはいちばん()たべものです。",
+              "question": "Fill in the blank: ラーメンは いちばん (____) たべものです。",
               "options": {
                 "A": "きらいい",
                 "B": "きらい",
@@ -4205,7 +4207,7 @@
             },
             {
               "id": 23,
-              "question": "A B Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống テーブルのうえ()、くだもの( )おいてください。\n(Choose 1 answer)\nC",
+              "question": "Fill in the blanks: テーブルのうえ(____)、くだもの(____)おいてください。",
               "options": {
                 "A": "に/を",
                 "B": "で/を",
@@ -4217,19 +4219,19 @@
             },
             {
               "id": 24,
-              "question": "(Choose 1 answer)\nChọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nA: しゅうまつ、なにをしましたか。B: りょこうをしました。りょこうは",
+              "question": "Fill in the blank: A: しゅうまつ、なにをしましたか。\nB: りょこうをしました。りょこうは (____) です。",
               "options": {
                 "A": "たのしかった",
                 "B": "ふるかった",
                 "C": "たのしい",
-                "D": "ふるい\n\nです。"
+                "D": "ふるい"
               },
               "answer": "たのしかった",
               "answer_number": ["A"]
             },
             {
               "id": 25,
-              "question": "A Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống B へしょくじに行きます。\n(Choose 1 answer)",
+              "question": "Fill in the blank: (____) へ しょくじに 行きます。",
               "options": {
                 "A": "レストラン",
                 "B": "ほんや",
@@ -4241,7 +4243,7 @@
             },
             {
               "id": 26,
-              "question": "Multile Choices\n(Choose 1 answer)\nChọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nB とうきょうは3月、すこし",
+              "question": "Fill in the blank: とうきょうは 3月、すこし (____)。",
               "options": {
                 "A": "たかいです",
                 "B": "あたたかくないです",
@@ -4253,7 +4255,7 @@
             },
             {
               "id": 27,
-              "question": "(Choose 1 answer)\nB 今年のふゆ、スキーをしに行きます。\nChọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nC",
+              "question": "Fill in the blank: 今年のふゆ、(____) へ スキーをしに行きます。",
               "options": {
                 "A": "ほっかいどう",
                 "B": "デパート",
@@ -4265,7 +4267,7 @@
             },
             {
               "id": 28,
-              "question": "A Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống 先生(せんせい)の時計(とけい)は() 時計(とけい)ですか。B\n(Choose 1 answer)",
+              "question": "Fill in the blank: 先生(せんせい)の時計(とけい)は (____) 時計(とけい)ですか。",
               "options": {
                 "A": "どの",
                 "B": "なん",
@@ -4277,7 +4279,7 @@
             },
             {
               "id": 29,
-              "question": "(Choose 1 answer)\nChọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống )。\nA:マルコさん、やさいを(\nB:はい、わかりました。\nC",
+              "question": "Fill in the blank: A:マルコさん、やさいを (____)。 B:はい、わかりました。",
               "options": {
                 "A": "あらいますか",
                 "B": "あらいましたか",
@@ -4289,7 +4291,7 @@
             },
             {
               "id": 30,
-              "question": "(Choose 1 answer)\nChọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nA: あのやまはたかいですか。\nB: いいえ、",
+              "question": "Fill in the blank: A: あのやまはたかいですか。\nB: いいえ、(____)。",
               "options": {
                 "A": "たかくなかったです",
                 "B": "たかいです",
@@ -4301,7 +4303,7 @@
             },
             {
               "id": 31,
-              "question": "(Choose 1 answer)\nChọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống あした、ハノイで サッカーのがあります。",
+              "question": "Fill in the blank: あした、ハノイで サッカーの (____) があります。",
               "options": {
                 "A": "しあい",
                 "B": "まつり",
@@ -4313,7 +4315,7 @@
             },
             {
               "id": 32,
-              "question": "A Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống バンコクから アユタヤまでで6時間くらいですB\n(Choose 1 answer)",
+              "question": "Fill in the blank: バンコクから アユタヤまで (____) で 6時間くらいです。",
               "options": {
                 "A": "きょうかい",
                 "B": "おんせん",
@@ -4325,7 +4327,7 @@
             },
             {
               "id": 33,
-              "question": "A Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống 田中: いっしょにかいものに行きませんか。B\n(Choose 1 answer)\nミラー:。行きましょう。\nC",
+              "question": "Fill in the blank: 田中: いっしょにかいものに行きませんか。\nミラー: (____)。行きましょう。",
               "options": {
                 "A": "ちょっと",
                 "B": "いいですね",
@@ -4337,7 +4339,7 @@
             },
             {
               "id": 34,
-              "question": "(Choose 1 answer)\nChọn nghĩa tiếng Việt tương ứng của từ sau:\nB “てんきがわるい",
+              "question": "Choose the Vietnamese meaning of “てんきがわるい”.",
               "options": {
                 "A": "Núi thấp",
                 "B": "Núi cao",
@@ -4349,7 +4351,7 @@
             },
             {
               "id": 35,
-              "question": "A Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\n(Choose 1 answer)\nデパートのBにいきました。\nC",
+              "question": "Fill in the blank: デパートの (____) にいきました。",
               "options": {
                 "A": "やくそく",
                 "B": "セール",
@@ -4361,7 +4363,7 @@
             },
             {
               "id": 36,
-              "question": "A Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống まいばん、ゲームをします。ゲームはです。\n(Choose 1 answer)",
+              "question": "Fill in the blank: まいばん、ゲームをします。ゲームは (____) です。",
               "options": {
                 "A": "ひま",
                 "B": "たいへん",
@@ -4373,7 +4375,7 @@
             },
             {
               "id": 37,
-              "question": "(Choose 1 answer)\nChọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống 毎日、アルバイトをします。です。",
+              "question": "Fill in the blank: 毎日、アルバイトをします。(____) です。",
               "options": {
                 "A": "たいへん",
                 "B": "てんきがいい",
@@ -4385,7 +4387,7 @@
             },
             {
               "id": 38,
-              "question": "A Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\n(Choose 1 answer)\nほうりゅうじはおてらです。\nC",
+              "question": "Fill in the blank: ほうりゅうじは (____) おてらです。",
               "options": {
                 "A": "さむい",
                 "B": "つめたい",
@@ -4397,7 +4399,7 @@
             },
             {
               "id": 39,
-              "question": "A Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\nB ケーキはです。\n(Choose 1 answer)\nC",
+              "question": "Fill in the blank: ケーキは (____) です。",
               "options": {
                 "A": "ひくい",
                 "B": "にがい",
@@ -4409,7 +4411,7 @@
             },
             {
               "id": 40,
-              "question": "A Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\n(Choose 1 answer)\nはとてもにぎやかです。\nC",
+              "question": "Fill in the blank: (____) は とても にぎやかです。",
               "options": {
                 "A": "かわ",
                 "B": "おしろ",
@@ -4421,7 +4423,7 @@
             },
             {
               "id": 41,
-              "question": "A Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\n(Choose 1 answer)\nB 私のまちはとてもです。\nC",
+              "question": "Fill in the blank: 私のまちは とても (____) です。",
               "options": {
                 "A": "おいしい",
                 "B": "あまい",
@@ -4433,7 +4435,7 @@
             },
             {
               "id": 42,
-              "question": "Multile Choices\n(Choose 1 answer)\nChọn từ khác loại trong những từ sau:A\n①たいへん\nB ② ひま\n③ きれい\nC ④やすい",
+              "question": "Choose the word that is grammatically different from the others: たいへん, ひま, きれい, やすい",
               "options": {
                 "A": "きれい",
                 "B": "やすい",
@@ -4445,7 +4447,7 @@
             },
             {
               "id": 43,
-              "question": "A Chọn trong A, B, C, D đáp án thích hợp để điền vào chỗ trống\n(Choose 1 answer)\nB やきゅうを",
+              "question": "Fill in the blank: やきゅうを (____)。",
               "options": {
                 "A": "あそびます",
                 "B": "いきます",
@@ -4457,7 +4459,7 @@
             },
             {
               "id": 44,
-              "question": "(Choose 1 answer)\nChọn từ khác loại trong số các từ sau:\n①すっぱい\nB ②ふるい③にがい\nC ④からい",
+              "question": "Choose the word that belongs to a different category from the others: すっぱい, ふるい, にがい, からい",
               "options": {
                 "A": "すっぱい",
                 "B": "ふるい",
@@ -4469,15 +4471,15 @@
             },
             {
               "id": 45,
-              "question": "Questions\nReading 1/1:\nReal size\nZoom In\nZoom Out\n23\nPN=3\n1) Chọn từ thích hợp điền vào",
+              "question": "Choose the appropriate phrase to fill in the blank (context missing from original).",
               "options": {
-                "A": "きもちがよかったですB. おいしかったです\nNext Reading",
+                "A": "きもちがよかったです",
                 "B": "かしました",
                 "C": "きれいでした",
-                "D": "あつかったです\n\n\n1"
+                "D": "あつかったです"
               },
-              "answer": "きれいでした, きれいでした, きれいでした",
-              "answer_number": ["C", "C", "C"]
+              "answer": "きれいでした",
+              "answer_number": ["C"]
             }
           ]
         }
@@ -6268,7 +6270,7 @@
             },
             {
               "id": 3,
-              "question": "A: ひるやすみはいつですか。\nB: ( )です。",
+              "question": "A: ひるやすみはいつですか。\nB: (____)です。",
               "options": {
                 "A": "日曜日と土曜日",
                 "B": "12時から1時まで",
@@ -6280,7 +6282,7 @@
             },
             {
               "id": 4,
-              "question": "A: エスカレーターはどこです。\nB: ( )です。",
+              "question": "A: エスカレーターはどこです。\nB: (____)です。",
               "options": {
                 "A": "みっか",
                 "B": "あれ",
@@ -6292,7 +6294,7 @@
             },
             {
               "id": 5,
-              "question": "A: これはどこのおさけですか。\nB: ( )のです。",
+              "question": "A: これはどこのおさけですか。\nB: (____)のです。",
               "options": {
                 "A": "かんこく",
                 "B": "とりにく",
@@ -6304,7 +6306,7 @@
             },
             {
               "id": 6,
-              "question": "A: やまださん、なつやすみ、日本へかえりますか。\nB: いいえ、( )。",
+              "question": "A: やまださん、なつやすみ、日本へかえりますか。\nB: いいえ、(____)。",
               "options": {
                 "A": "かえります",
                 "B": "かえりません",
@@ -6316,7 +6318,7 @@
             },
             {
               "id": 7,
-              "question": "A「日曜日 こうえんでバーベキューをします。」\nB「( )。」",
+              "question": "A「日曜日 こうえんでバーベキューをします。」\nB「(____)。」",
               "options": {
                 "A": "いいですね",
                 "B": "ありがとうございます",
@@ -6328,7 +6330,7 @@
             },
             {
               "id": 8,
-              "question": "A: はじめまして、パクです。よろしくおねがいします。\nB:ナタポンです。( )よろしくおねがいします。",
+              "question": "A: はじめまして、パクです。よろしくおねがいします。\nB:ナタポンです。(____)よろしくおねがいします。",
               "options": {
                 "A": "どういたしまして",
                 "B": "ありがとう",
@@ -6340,7 +6342,7 @@
             },
             {
               "id": 9,
-              "question": "( )にかいしゃへいきますか。",
+              "question": "(____)にかいしゃへいきますか。",
               "options": {
                 "A": "どこ",
                 "B": "なんじ",
@@ -6352,7 +6354,7 @@
             },
             {
               "id": 10,
-              "question": "日曜日、( )もいきません。",
+              "question": "日曜日、(____)もいきません。",
               "options": {
                 "A": "だれ",
                 "B": "なに",
@@ -6364,7 +6366,7 @@
             },
             {
               "id": 11,
-              "question": "A: 「Trûng」は日本語で何ですか。\nB: ( )です。",
+              "question": "A: 「Trûng」は日本語で何ですか。\nB: (____)です。",
               "options": {
                 "A": "とりにく",
                 "B": "たまご",
@@ -6376,7 +6378,7 @@
             },
             {
               "id": 12,
-              "question": "レストランで( )をします。",
+              "question": "レストランで(____)をします。",
               "options": {
                 "A": "アルバイト",
                 "B": "ゴールデンウィーク",
@@ -6496,7 +6498,7 @@
             },
             {
               "id": 22,
-              "question": "A: ミラーさんは ( )\nミラー:はい、きょうしです。",
+              "question": "A: ミラーさんは (____)\nミラー:はい、きょうしです。",
               "options": {
                 "A": "きょうしですか。",
                 "B": "なんさいですか。",
@@ -6520,7 +6522,7 @@
             },
             {
               "id": 24,
-              "question": "A: あさ、( )に学校へきますか。\nB: 8時にきます。",
+              "question": "A: あさ、(____)に学校へきますか。\nB: 8時にきます。",
               "options": {
                 "A": "何分",
                 "B": "何時",
@@ -6568,7 +6570,7 @@
             },
             {
               "id": 28,
-              "question": "パーティーで、おさけを ( )。",
+              "question": "パーティーで、おさけを (____)。",
               "options": {
                 "A": "のみます",
                 "B": "たべます",
@@ -6592,7 +6594,7 @@
             },
             {
               "id": 30,
-              "question": "A: りんごは ( )でなんですか。\nB:「Táo」です。",
+              "question": "A: りんごは (____)でなんですか。\nB:「Táo」です。",
               "options": {
                 "A": "ベトナム語",
                 "B": "タイ語",
@@ -6657,7 +6659,7 @@
             },
             {
               "id": 5,
-              "question": "Chọn đáp án thích hợp để điền vào chỗ trống\nA:ただいま。\nB: ( )。",
+              "question": "Chọn đáp án thích hợp để điền vào chỗ trống\nA:ただいま。\nB: (____)。",
               "options": {
                 "A": "いってきます",
                 "B": "いっていらっしゃい",
@@ -6669,7 +6671,7 @@
             },
             {
               "id": 6,
-              "question": "Chọn đáp án thích hợp để điền vào chỗ trống\nA「にほんへいきます。」\nB「へえ。( )。」",
+              "question": "Chọn đáp án thích hợp để điền vào chỗ trống\nA「にほんへいきます。」\nB「へえ。(____)。」",
               "options": {
                 "A": "いいです",
                 "B": "そうですか",
@@ -6705,7 +6707,7 @@
             },
             {
               "id": 9,
-              "question": "Chọn đáp án thích hợp để điền vào ngoặc cho câu sau:\nとんかつは( )のりょうりです。",
+              "question": "Chọn đáp án thích hợp để điền vào ngoặc cho câu sau:\nとんかつは(____)のりょうりです。",
               "options": {
                 "A": "やさい",
                 "B": "さかな",
